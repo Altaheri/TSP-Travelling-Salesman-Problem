@@ -1,0 +1,58 @@
+>> clear
+>> TSP_AStar_TreeSearch
+Node: 8,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47
+Elapsed time is 0.232686 seconds.
+Node: 9,  Depth: 2,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 92
+Elapsed time is 0.454157 seconds.
+Node: 38,  Depth: 3,  Max-depth: 3,  no_expanded_nodes: 4,  Fringe-size: 136
+Elapsed time is 0.661945 seconds.
+Node: 31,  Depth: 4,  Max-depth: 4,  no_expanded_nodes: 5,  Fringe-size: 179
+Elapsed time is 0.873350 seconds.
+Node: 40,  Depth: 1,  Max-depth: 5,  no_expanded_nodes: 6,  Fringe-size: 221
+Elapsed time is 1.071374 seconds.
+Node: 38,  Depth: 2,  Max-depth: 6,  no_expanded_nodes: 22,  Fringe-size: 919
+Elapsed time is 4.443945 seconds.
+Node: 44,  Depth: 4,  Max-depth: 7,  no_expanded_nodes: 25,  Fringe-size: 1046
+Elapsed time is 5.047392 seconds.
+Node: 12,  Depth: 3,  Max-depth: 8,  no_expanded_nodes: 27,  Fringe-size: 1127
+Elapsed time is 5.437800 seconds.
+Node: 8,  Depth: 3,  Max-depth: 9,  no_expanded_nodes: 86,  Fringe-size: 3584
+Elapsed time is 17.366522 seconds.
+Node: 11,  Depth: 6,  Max-depth: 10,  no_expanded_nodes: 214,  Fringe-size: 8850
+Elapsed time is 44.567349 seconds.
+Node: 19,  Depth: 11,  Max-depth: 11,  no_expanded_nodes: 233,  Fringe-size: 9606
+Elapsed time is 48.627027 seconds.
+Node: 46,  Depth: 3,  Max-depth: 12,  no_expanded_nodes: 234,  Fringe-size: 9641
+Elapsed time is 48.840667 seconds.
+Node: 36,  Depth: 7,  Max-depth: 13,  no_expanded_nodes: 405,  Fringe-size: 16603
+Elapsed time is 87.594517 seconds.
+Node: 11,  Depth: 5,  Max-depth: 14,  no_expanded_nodes: 644,  Fringe-size: 26282
+Elapsed time is 147.069969 seconds.
+Node: 12,  Depth: 6,  Max-depth: 15,  no_expanded_nodes: 648,  Fringe-size: 26435
+Elapsed time is 148.145134 seconds.
+Node: 15,  Depth: 7,  Max-depth: 16,  no_expanded_nodes: 651,  Fringe-size: 26543
+Elapsed time is 148.943935 seconds.
+Node: 46,  Depth: 17,  Max-depth: 17,  no_expanded_nodes: 653,  Fringe-size: 26612
+Elapsed time is 149.481323 seconds.
+Node: 22,  Depth: 3,  Max-depth: 18,  no_expanded_nodes: 654,  Fringe-size: 26641
+Elapsed time is 149.773850 seconds.
+Node: 47,  Depth: 6,  Max-depth: 19,  no_expanded_nodes: 805,  Fringe-size: 32690
+Elapsed time is 191.060261 seconds.
+Node: 19,  Depth: 12,  Max-depth: 20,  no_expanded_nodes: 1890,  Fringe-size: 75161
+Elapsed time is 569.130036 seconds.
+Node: 27,  Depth: 10,  Max-depth: 21,  no_expanded_nodes: 3214,  Fringe-size: 125780
+Elapsed time is 1208.611433 seconds.
+Node: 20,  Depth: 7,  Max-depth: 22,  no_expanded_nodes: 3230,  Fringe-size: 126378
+Elapsed time is 1217.591905 seconds.
+Node: 15,  Depth: 8,  Max-depth: 23,  no_expanded_nodes: 3240,  Fringe-size: 126742
+Elapsed time is 1223.261514 seconds.
+Node: 18,  Depth: 8,  Max-depth: 24,  no_expanded_nodes: 15396,  Fringe-size: 570138
+Elapsed time is 16708.217926 seconds.
+20          no_expanded_nodes=no_expanded_nodes+1;
+K>> toc
+Elapsed time is 24533.622824 seconds.
+K>> num2str(size(open,1))
+
+ans =
+
+    '695649'

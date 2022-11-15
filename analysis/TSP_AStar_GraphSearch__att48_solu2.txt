@@ -1,0 +1,2006 @@
+>> TSP_AStar_GraphSearch__
+Node: 8,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47 ,  Elapsed time is 0.34667 seconds.
+Node: 9,  Depth: 2,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 77 ,  Elapsed time is 0.61001 seconds.
+Node: 38,  Depth: 3,  Max-depth: 3,  no_expanded_nodes: 4,  Fringe-size: 90 ,  Elapsed time is 0.8667 seconds.
+Node: 31,  Depth: 4,  Max-depth: 4,  no_expanded_nodes: 5,  Fringe-size: 116 ,  Elapsed time is 1.1055 seconds.
+Node: 40,  Depth: 1,  Max-depth: 5,  no_expanded_nodes: 6,  Fringe-size: 142 ,  Elapsed time is 1.3337 seconds.
+Node: 18,  Depth: 6,  Max-depth: 6,  no_expanded_nodes: 14,  Fringe-size: 119 ,  Elapsed time is 3.1866 seconds.
+Node: 7,  Depth: 7,  Max-depth: 7,  no_expanded_nodes: 15,  Fringe-size: 150 ,  Elapsed time is 3.3947 seconds.
+Node: 12,  Depth: 3,  Max-depth: 8,  no_expanded_nodes: 16,  Fringe-size: 181 ,  Elapsed time is 3.5855 seconds.
+Node: 23,  Depth: 7,  Max-depth: 9,  no_expanded_nodes: 37,  Fringe-size: 289 ,  Elapsed time is 8.0556 seconds.
+Node: 11,  Depth: 6,  Max-depth: 10,  no_expanded_nodes: 60,  Fringe-size: 267 ,  Elapsed time is 12.7385 seconds.
+Node: 19,  Depth: 11,  Max-depth: 11,  no_expanded_nodes: 66,  Fringe-size: 348 ,  Elapsed time is 14.086 seconds.
+Node: 30,  Depth: 9,  Max-depth: 12,  no_expanded_nodes: 67,  Fringe-size: 356 ,  Elapsed time is 14.3329 seconds.
+Node: 33,  Depth: 7,  Max-depth: 13,  no_expanded_nodes: 93,  Fringe-size: 369 ,  Elapsed time is 20.0019 seconds.
+Node: 43,  Depth: 14,  Max-depth: 14,  no_expanded_nodes: 110,  Fringe-size: 417 ,  Elapsed time is 23.7531 seconds.
+Node: 30,  Depth: 15,  Max-depth: 15,  no_expanded_nodes: 111,  Fringe-size: 341 ,  Elapsed time is 23.9468 seconds.
+Node: 36,  Depth: 16,  Max-depth: 16,  no_expanded_nodes: 112,  Fringe-size: 301 ,  Elapsed time is 24.1393 seconds.
+Node: 46,  Depth: 17,  Max-depth: 17,  no_expanded_nodes: 113,  Fringe-size: 274 ,  Elapsed time is 24.3115 seconds.
+Node: 33,  Depth: 6,  Max-depth: 18,  no_expanded_nodes: 114,  Fringe-size: 268 ,  Elapsed time is 24.4891 seconds.
+Node: 22,  Depth: 7,  Max-depth: 19,  no_expanded_nodes: 128,  Fringe-size: 326 ,  Elapsed time is 27.2985 seconds.
+Node: 6,  Depth: 10,  Max-depth: 20,  no_expanded_nodes: 176,  Fringe-size: 315 ,  Elapsed time is 37.1838 seconds.
+Node: 21,  Depth: 21,  Max-depth: 21,  no_expanded_nodes: 193,  Fringe-size: 340 ,  Elapsed time is 40.4486 seconds.
+Node: 13,  Depth: 22,  Max-depth: 22,  no_expanded_nodes: 194,  Fringe-size: 334 ,  Elapsed time is 40.6137 seconds.
+Node: 15,  Depth: 12,  Max-depth: 23,  no_expanded_nodes: 195,  Fringe-size: 332 ,  Elapsed time is 40.7645 seconds.
+Node: 32,  Depth: 10,  Max-depth: 24,  no_expanded_nodes: 250,  Fringe-size: 357 ,  Elapsed time is 51.0712 seconds.
+Node: 22,  Depth: 9,  Max-depth: 25,  no_expanded_nodes: 264,  Fringe-size: 361 ,  Elapsed time is 53.5405 seconds.
+Node: 33,  Depth: 12,  Max-depth: 26,  no_expanded_nodes: 269,  Fringe-size: 388 ,  Elapsed time is 54.3104 seconds.
+Node: 7,  Depth: 10,  Max-depth: 27,  no_expanded_nodes: 306,  Fringe-size: 392 ,  Elapsed time is 61.0862 seconds.
+Node: 27,  Depth: 14,  Max-depth: 28,  no_expanded_nodes: 355,  Fringe-size: 406 ,  Elapsed time is 69.9481 seconds.
+Node: 18,  Depth: 14,  Max-depth: 29,  no_expanded_nodes: 444,  Fringe-size: 373 ,  Elapsed time is 85.2323 seconds.
+Node: 31,  Depth: 11,  Max-depth: 30,  no_expanded_nodes: 473,  Fringe-size: 353 ,  Elapsed time is 90.074 seconds.
+Node: 39,  Depth: 31,  Max-depth: 31,  no_expanded_nodes: 569,  Fringe-size: 259 ,  Elapsed time is 105.8305 seconds.
+Node: 48,  Depth: 32,  Max-depth: 32,  no_expanded_nodes: 570,  Fringe-size: 240 ,  Elapsed time is 105.9659 seconds.
+Node: 27,  Depth: 20,  Max-depth: 33,  no_expanded_nodes: 571,  Fringe-size: 242 ,  Elapsed time is 106.0914 seconds.
+Node: 11,  Depth: 30,  Max-depth: 34,  no_expanded_nodes: 658,  Fringe-size: 272 ,  Elapsed time is 119.458 seconds.
+Node: 6,  Depth: 19,  Max-depth: 35,  no_expanded_nodes: 830,  Fringe-size: 343 ,  Elapsed time is 145.721 seconds.
+Node: 12,  Depth: 32,  Max-depth: 36,  no_expanded_nodes: 979,  Fringe-size: 329 ,  Elapsed time is 166.9293 seconds.
+Node: 41,  Depth: 16,  Max-depth: 37,  no_expanded_nodes: 1052,  Fringe-size: 278 ,  Elapsed time is 177.3765 seconds.
+Node: 13,  Depth: 38,  Max-depth: 38,  no_expanded_nodes: 1079,  Fringe-size: 332 ,  Elapsed time is 181.1444 seconds.
+Node: 44,  Depth: 15,  Max-depth: 39,  no_expanded_nodes: 1080,  Fringe-size: 323 ,  Elapsed time is 181.242 seconds.
+Node: 5,  Depth: 40,  Max-depth: 40,  no_expanded_nodes: 1125,  Fringe-size: 244 ,  Elapsed time is 187.0029 seconds.
+Node: 4,  Depth: 34,  Max-depth: 41,  no_expanded_nodes: 1126,  Fringe-size: 240 ,  Elapsed time is 187.1025 seconds.
+Node: 29,  Depth: 42,  Max-depth: 42,  no_expanded_nodes: 1136,  Fringe-size: 249 ,  Elapsed time is 188.2849 seconds.
+Node: 17,  Depth: 24,  Max-depth: 43,  no_expanded_nodes: 1137,  Fringe-size: 241 ,  Elapsed time is 188.3782 seconds.
+Node: 3,  Depth: 44,  Max-depth: 44,  no_expanded_nodes: 1165,  Fringe-size: 221 ,  Elapsed time is 191.867 seconds.
+Node: 28,  Depth: 20,  Max-depth: 45,  no_expanded_nodes: 1166,  Fringe-size: 220 ,  Elapsed time is 191.9639 seconds.
+Node: 31,  Depth: 28,  Max-depth: 46,  no_expanded_nodes: 1209,  Fringe-size: 197 ,  Elapsed time is 197.3272 seconds.
+Node: 16,  Depth: 47,  Max-depth: 47,  no_expanded_nodes: 1271,  Fringe-size: 182 ,  Elapsed time is 205.7246 seconds.
+
+ans =
+
+       10735
+
+
+ans =
+
+  1×1 cell array
+
+    {'1'}
+
+Node: 29,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47 ,  Elapsed time is 206.0135 seconds.
+Node: 5,  Depth: 2,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 53 ,  Elapsed time is 206.2466 seconds.
+Node: 4,  Depth: 1,  Max-depth: 3,  no_expanded_nodes: 4,  Fringe-size: 92 ,  Elapsed time is 206.4762 seconds.
+Node: 34,  Depth: 2,  Max-depth: 4,  no_expanded_nodes: 8,  Fringe-size: 76 ,  Elapsed time is 207.3924 seconds.
+Node: 14,  Depth: 3,  Max-depth: 5,  no_expanded_nodes: 10,  Fringe-size: 119 ,  Elapsed time is 207.8207 seconds.
+Node: 23,  Depth: 6,  Max-depth: 6,  no_expanded_nodes: 17,  Fringe-size: 96 ,  Elapsed time is 209.3128 seconds.
+Node: 5,  Depth: 2,  Max-depth: 7,  no_expanded_nodes: 18,  Fringe-size: 116 ,  Elapsed time is 209.5033 seconds.
+Node: 12,  Depth: 8,  Max-depth: 8,  no_expanded_nodes: 22,  Fringe-size: 137 ,  Elapsed time is 210.3133 seconds.
+Node: 32,  Depth: 4,  Max-depth: 9,  no_expanded_nodes: 23,  Fringe-size: 154 ,  Elapsed time is 210.5013 seconds.
+Node: 40,  Depth: 4,  Max-depth: 10,  no_expanded_nodes: 34,  Fringe-size: 158 ,  Elapsed time is 212.7062 seconds.
+Node: 11,  Depth: 8,  Max-depth: 11,  no_expanded_nodes: 36,  Fringe-size: 171 ,  Elapsed time is 213.0981 seconds.
+Node: 21,  Depth: 4,  Max-depth: 12,  no_expanded_nodes: 71,  Fringe-size: 247 ,  Elapsed time is 220.2519 seconds.
+Node: 13,  Depth: 6,  Max-depth: 13,  no_expanded_nodes: 93,  Fringe-size: 367 ,  Elapsed time is 224.9003 seconds.
+Node: 1,  Depth: 7,  Max-depth: 14,  no_expanded_nodes: 136,  Fringe-size: 511 ,  Elapsed time is 234.4021 seconds.
+Node: 47,  Depth: 8,  Max-depth: 15,  no_expanded_nodes: 177,  Fringe-size: 449 ,  Elapsed time is 243.5017 seconds.
+Node: 31,  Depth: 16,  Max-depth: 16,  no_expanded_nodes: 202,  Fringe-size: 379 ,  Elapsed time is 248.6251 seconds.
+Node: 5,  Depth: 11,  Max-depth: 17,  no_expanded_nodes: 203,  Fringe-size: 391 ,  Elapsed time is 248.8143 seconds.
+Node: 15,  Depth: 11,  Max-depth: 18,  no_expanded_nodes: 244,  Fringe-size: 482 ,  Elapsed time is 257.1509 seconds.
+Node: 7,  Depth: 14,  Max-depth: 19,  no_expanded_nodes: 259,  Fringe-size: 461 ,  Elapsed time is 260.1052 seconds.
+Node: 15,  Depth: 12,  Max-depth: 20,  no_expanded_nodes: 267,  Fringe-size: 562 ,  Elapsed time is 261.7225 seconds.
+Node: 5,  Depth: 9,  Max-depth: 21,  no_expanded_nodes: 332,  Fringe-size: 589 ,  Elapsed time is 274.1769 seconds.
+Node: 36,  Depth: 22,  Max-depth: 22,  no_expanded_nodes: 343,  Fringe-size: 464 ,  Elapsed time is 276.1461 seconds.
+Node: 46,  Depth: 23,  Max-depth: 23,  no_expanded_nodes: 344,  Fringe-size: 399 ,  Elapsed time is 276.3088 seconds.
+Node: 28,  Depth: 20,  Max-depth: 24,  no_expanded_nodes: 345,  Fringe-size: 394 ,  Elapsed time is 276.4657 seconds.
+Node: 40,  Depth: 21,  Max-depth: 25,  no_expanded_nodes: 353,  Fringe-size: 357 ,  Elapsed time is 277.869 seconds.
+Node: 33,  Depth: 15,  Max-depth: 26,  no_expanded_nodes: 402,  Fringe-size: 386 ,  Elapsed time is 286.733 seconds.
+Node: 21,  Depth: 27,  Max-depth: 27,  no_expanded_nodes: 439,  Fringe-size: 365 ,  Elapsed time is 293.9356 seconds.
+Node: 13,  Depth: 28,  Max-depth: 28,  no_expanded_nodes: 440,  Fringe-size: 346 ,  Elapsed time is 294.0808 seconds.
+Node: 40,  Depth: 17,  Max-depth: 29,  no_expanded_nodes: 441,  Fringe-size: 348 ,  Elapsed time is 294.2258 seconds.
+Node: 27,  Depth: 23,  Max-depth: 30,  no_expanded_nodes: 541,  Fringe-size: 404 ,  Elapsed time is 311.7582 seconds.
+Node: 1,  Depth: 13,  Max-depth: 31,  no_expanded_nodes: 567,  Fringe-size: 344 ,  Elapsed time is 316.6093 seconds.
+Node: 3,  Depth: 29,  Max-depth: 32,  no_expanded_nodes: 572,  Fringe-size: 362 ,  Elapsed time is 317.4212 seconds.
+Node: 21,  Depth: 33,  Max-depth: 33,  no_expanded_nodes: 590,  Fringe-size: 347 ,  Elapsed time is 320.2766 seconds.
+Node: 13,  Depth: 34,  Max-depth: 34,  no_expanded_nodes: 591,  Fringe-size: 332 ,  Elapsed time is 320.4399 seconds.
+Node: 9,  Depth: 18,  Max-depth: 35,  no_expanded_nodes: 592,  Fringe-size: 336 ,  Elapsed time is 320.5717 seconds.
+Node: 21,  Depth: 36,  Max-depth: 36,  no_expanded_nodes: 620,  Fringe-size: 362 ,  Elapsed time is 325.0268 seconds.
+Node: 26,  Depth: 7,  Max-depth: 37,  no_expanded_nodes: 621,  Fringe-size: 286 ,  Elapsed time is 325.1506 seconds.
+Node: 39,  Depth: 38,  Max-depth: 38,  no_expanded_nodes: 647,  Fringe-size: 247 ,  Elapsed time is 329.1489 seconds.
+Node: 48,  Depth: 39,  Max-depth: 39,  no_expanded_nodes: 648,  Fringe-size: 219 ,  Elapsed time is 329.2477 seconds.
+Node: 5,  Depth: 40,  Max-depth: 40,  no_expanded_nodes: 649,  Fringe-size: 221 ,  Elapsed time is 329.3487 seconds.
+Node: 8,  Depth: 23,  Max-depth: 41,  no_expanded_nodes: 650,  Fringe-size: 181 ,  Elapsed time is 329.4431 seconds.
+Node: 22,  Depth: 19,  Max-depth: 42,  no_expanded_nodes: 708,  Fringe-size: 202 ,  Elapsed time is 338.6337 seconds.
+Node: 16,  Depth: 12,  Max-depth: 43,  no_expanded_nodes: 809,  Fringe-size: 200 ,  Elapsed time is 353.8052 seconds.
+Node: 8,  Depth: 21,  Max-depth: 44,  no_expanded_nodes: 847,  Fringe-size: 177 ,  Elapsed time is 359.5458 seconds.
+Node: 35,  Depth: 45,  Max-depth: 45,  no_expanded_nodes: 886,  Fringe-size: 168 ,  Elapsed time is 365.0568 seconds.
+Node: 4,  Depth: 42,  Max-depth: 46,  no_expanded_nodes: 887,  Fringe-size: 166 ,  Elapsed time is 365.135 seconds.
+Node: 26,  Depth: 47,  Max-depth: 47,  no_expanded_nodes: 900,  Fringe-size: 168 ,  Elapsed time is 366.8813 seconds.
+
+ans =
+
+       10628
+
+
+ans =
+
+  1×1 cell array
+
+    {'2'}
+
+Node: 16,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47 ,  Elapsed time is 367.1764 seconds.
+Node: 23,  Depth: 1,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 92 ,  Elapsed time is 367.4018 seconds.
+Node: 12,  Depth: 3,  Max-depth: 3,  no_expanded_nodes: 5,  Fringe-size: 91 ,  Elapsed time is 367.8702 seconds.
+Node: 34,  Depth: 1,  Max-depth: 4,  no_expanded_nodes: 6,  Fringe-size: 113 ,  Elapsed time is 368.0917 seconds.
+Node: 40,  Depth: 5,  Max-depth: 5,  no_expanded_nodes: 14,  Fringe-size: 135 ,  Elapsed time is 369.9787 seconds.
+Node: 1,  Depth: 3,  Max-depth: 6,  no_expanded_nodes: 15,  Fringe-size: 142 ,  Elapsed time is 370.2015 seconds.
+Node: 12,  Depth: 7,  Max-depth: 7,  no_expanded_nodes: 25,  Fringe-size: 168 ,  Elapsed time is 372.3956 seconds.
+Node: 9,  Depth: 5,  Max-depth: 8,  no_expanded_nodes: 26,  Fringe-size: 174 ,  Elapsed time is 372.605 seconds.
+Node: 47,  Depth: 2,  Max-depth: 9,  no_expanded_nodes: 41,  Fringe-size: 271 ,  Elapsed time is 375.8363 seconds.
+Node: 9,  Depth: 6,  Max-depth: 10,  no_expanded_nodes: 52,  Fringe-size: 247 ,  Elapsed time is 378.2536 seconds.
+Node: 20,  Depth: 4,  Max-depth: 11,  no_expanded_nodes: 58,  Fringe-size: 301 ,  Elapsed time is 379.5075 seconds.
+Node: 23,  Depth: 10,  Max-depth: 12,  no_expanded_nodes: 84,  Fringe-size: 386 ,  Elapsed time is 384.771 seconds.
+Node: 37,  Depth: 13,  Max-depth: 13,  no_expanded_nodes: 132,  Fringe-size: 477 ,  Elapsed time is 395.1351 seconds.
+Node: 19,  Depth: 14,  Max-depth: 14,  no_expanded_nodes: 133,  Fringe-size: 508 ,  Elapsed time is 395.328 seconds.
+Node: 30,  Depth: 12,  Max-depth: 15,  no_expanded_nodes: 134,  Fringe-size: 513 ,  Elapsed time is 395.5304 seconds.
+Node: 46,  Depth: 10,  Max-depth: 16,  no_expanded_nodes: 163,  Fringe-size: 457 ,  Elapsed time is 401.9075 seconds.
+Node: 43,  Depth: 17,  Max-depth: 17,  no_expanded_nodes: 202,  Fringe-size: 560 ,  Elapsed time is 409.9508 seconds.
+Node: 30,  Depth: 18,  Max-depth: 18,  no_expanded_nodes: 203,  Fringe-size: 487 ,  Elapsed time is 410.166 seconds.
+Node: 36,  Depth: 19,  Max-depth: 19,  no_expanded_nodes: 204,  Fringe-size: 466 ,  Elapsed time is 410.3561 seconds.
+Node: 46,  Depth: 20,  Max-depth: 20,  no_expanded_nodes: 205,  Fringe-size: 450 ,  Elapsed time is 410.5304 seconds.
+Node: 44,  Depth: 11,  Max-depth: 21,  no_expanded_nodes: 206,  Fringe-size: 445 ,  Elapsed time is 410.7037 seconds.
+Node: 25,  Depth: 7,  Max-depth: 22,  no_expanded_nodes: 221,  Fringe-size: 494 ,  Elapsed time is 413.8389 seconds.
+Node: 23,  Depth: 11,  Max-depth: 23,  no_expanded_nodes: 265,  Fringe-size: 355 ,  Elapsed time is 423.551 seconds.
+Node: 21,  Depth: 24,  Max-depth: 24,  no_expanded_nodes: 291,  Fringe-size: 320 ,  Elapsed time is 428.9262 seconds.
+Node: 13,  Depth: 25,  Max-depth: 25,  no_expanded_nodes: 292,  Fringe-size: 311 ,  Elapsed time is 429.0725 seconds.
+Node: 28,  Depth: 14,  Max-depth: 26,  no_expanded_nodes: 293,  Fringe-size: 313 ,  Elapsed time is 429.2158 seconds.
+Node: 42,  Depth: 4,  Max-depth: 27,  no_expanded_nodes: 366,  Fringe-size: 422 ,  Elapsed time is 443.5163 seconds.
+Node: 33,  Depth: 10,  Max-depth: 28,  no_expanded_nodes: 380,  Fringe-size: 378 ,  Elapsed time is 446.2986 seconds.
+Node: 27,  Depth: 18,  Max-depth: 29,  no_expanded_nodes: 385,  Fringe-size: 398 ,  Elapsed time is 447.2431 seconds.
+Node: 38,  Depth: 12,  Max-depth: 30,  no_expanded_nodes: 415,  Fringe-size: 371 ,  Elapsed time is 452.9337 seconds.
+Node: 29,  Depth: 6,  Max-depth: 31,  no_expanded_nodes: 463,  Fringe-size: 396 ,  Elapsed time is 463.0585 seconds.
+Node: 29,  Depth: 13,  Max-depth: 32,  no_expanded_nodes: 546,  Fringe-size: 362 ,  Elapsed time is 477.9094 seconds.
+Node: 45,  Depth: 12,  Max-depth: 33,  no_expanded_nodes: 603,  Fringe-size: 317 ,  Elapsed time is 487.7582 seconds.
+Node: 32,  Depth: 34,  Max-depth: 34,  no_expanded_nodes: 759,  Fringe-size: 306 ,  Elapsed time is 513.6052 seconds.
+Node: 48,  Depth: 35,  Max-depth: 35,  no_expanded_nodes: 760,  Fringe-size: 266 ,  Elapsed time is 513.7243 seconds.
+Node: 24,  Depth: 27,  Max-depth: 36,  no_expanded_nodes: 761,  Fringe-size: 271 ,  Elapsed time is 513.8436 seconds.
+Node: 38,  Depth: 18,  Max-depth: 37,  no_expanded_nodes: 842,  Fringe-size: 269 ,  Elapsed time is 526.7682 seconds.
+Node: 25,  Depth: 31,  Max-depth: 38,  no_expanded_nodes: 896,  Fringe-size: 236 ,  Elapsed time is 534.8175 seconds.
+Node: 2,  Depth: 31,  Max-depth: 39,  no_expanded_nodes: 990,  Fringe-size: 205 ,  Elapsed time is 547.9166 seconds.
+Node: 26,  Depth: 40,  Max-depth: 40,  no_expanded_nodes: 1077,  Fringe-size: 211 ,  Elapsed time is 559.3891 seconds.
+Node: 42,  Depth: 41,  Max-depth: 41,  no_expanded_nodes: 1078,  Fringe-size: 189 ,  Elapsed time is 559.4889 seconds.
+Node: 48,  Depth: 42,  Max-depth: 42,  no_expanded_nodes: 1079,  Fringe-size: 179 ,  Elapsed time is 559.5838 seconds.
+Node: 5,  Depth: 43,  Max-depth: 43,  no_expanded_nodes: 1080,  Fringe-size: 179 ,  Elapsed time is 559.6756 seconds.
+Node: 25,  Depth: 29,  Max-depth: 44,  no_expanded_nodes: 1081,  Fringe-size: 175 ,  Elapsed time is 559.7707 seconds.
+Node: 29,  Depth: 45,  Max-depth: 45,  no_expanded_nodes: 1214,  Fringe-size: 77 ,  Elapsed time is 575.5867 seconds.
+Node: 6,  Depth: 35,  Max-depth: 46,  no_expanded_nodes: 1215,  Fringe-size: 70 ,  Elapsed time is 575.661 seconds.
+Node: 40,  Depth: 47,  Max-depth: 47,  no_expanded_nodes: 1221,  Fringe-size: 49 ,  Elapsed time is 576.2012 seconds.
+
+ans =
+
+       10707
+
+
+ans =
+
+  1×1 cell array
+
+    {'3'}
+
+Node: 26,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47 ,  Elapsed time is 576.4637 seconds.
+Node: 35,  Depth: 1,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 53 ,  Elapsed time is 576.6772 seconds.
+Node: 35,  Depth: 2,  Max-depth: 3,  no_expanded_nodes: 5,  Fringe-size: 89 ,  Elapsed time is 577.1053 seconds.
+Node: 24,  Depth: 3,  Max-depth: 4,  no_expanded_nodes: 7,  Fringe-size: 132 ,  Elapsed time is 577.5659 seconds.
+Node: 10,  Depth: 3,  Max-depth: 5,  no_expanded_nodes: 15,  Fringe-size: 146 ,  Elapsed time is 579.2934 seconds.
+Node: 48,  Depth: 5,  Max-depth: 6,  no_expanded_nodes: 20,  Fringe-size: 118 ,  Elapsed time is 580.4032 seconds.
+Node: 48,  Depth: 6,  Max-depth: 7,  no_expanded_nodes: 29,  Fringe-size: 224 ,  Elapsed time is 582.361 seconds.
+Node: 48,  Depth: 7,  Max-depth: 8,  no_expanded_nodes: 42,  Fringe-size: 146 ,  Elapsed time is 585.0337 seconds.
+Node: 12,  Depth: 9,  Max-depth: 9,  no_expanded_nodes: 46,  Fringe-size: 147 ,  Elapsed time is 585.8262 seconds.
+Node: 21,  Depth: 7,  Max-depth: 10,  no_expanded_nodes: 47,  Fringe-size: 162 ,  Elapsed time is 586.0238 seconds.
+Node: 25,  Depth: 7,  Max-depth: 11,  no_expanded_nodes: 63,  Fringe-size: 234 ,  Elapsed time is 589.1017 seconds.
+Node: 22,  Depth: 7,  Max-depth: 12,  no_expanded_nodes: 68,  Fringe-size: 245 ,  Elapsed time is 590.2342 seconds.
+Node: 11,  Depth: 13,  Max-depth: 13,  no_expanded_nodes: 98,  Fringe-size: 264 ,  Elapsed time is 596.32 seconds.
+Node: 12,  Depth: 14,  Max-depth: 14,  no_expanded_nodes: 99,  Fringe-size: 243 ,  Elapsed time is 596.5079 seconds.
+Node: 34,  Depth: 5,  Max-depth: 15,  no_expanded_nodes: 100,  Fringe-size: 254 ,  Elapsed time is 596.684 seconds.
+Node: 41,  Depth: 5,  Max-depth: 16,  no_expanded_nodes: 144,  Fringe-size: 348 ,  Elapsed time is 605.4588 seconds.
+Node: 25,  Depth: 7,  Max-depth: 17,  no_expanded_nodes: 160,  Fringe-size: 344 ,  Elapsed time is 608.7708 seconds.
+Node: 15,  Depth: 18,  Max-depth: 18,  no_expanded_nodes: 188,  Fringe-size: 414 ,  Elapsed time is 614.3477 seconds.
+Node: 40,  Depth: 19,  Max-depth: 19,  no_expanded_nodes: 189,  Fringe-size: 407 ,  Elapsed time is 614.5261 seconds.
+Node: 25,  Depth: 7,  Max-depth: 20,  no_expanded_nodes: 190,  Fringe-size: 403 ,  Elapsed time is 614.6961 seconds.
+Node: 18,  Depth: 14,  Max-depth: 21,  no_expanded_nodes: 305,  Fringe-size: 504 ,  Elapsed time is 637.6591 seconds.
+Node: 18,  Depth: 22,  Max-depth: 22,  no_expanded_nodes: 391,  Fringe-size: 700 ,  Elapsed time is 654.907 seconds.
+Node: 44,  Depth: 23,  Max-depth: 23,  no_expanded_nodes: 392,  Fringe-size: 651 ,  Elapsed time is 655.0838 seconds.
+Node: 31,  Depth: 24,  Max-depth: 24,  no_expanded_nodes: 393,  Fringe-size: 631 ,  Elapsed time is 655.2467 seconds.
+Node: 38,  Depth: 25,  Max-depth: 25,  no_expanded_nodes: 394,  Fringe-size: 608 ,  Elapsed time is 655.411 seconds.
+Node: 14,  Depth: 13,  Max-depth: 26,  no_expanded_nodes: 395,  Fringe-size: 590 ,  Elapsed time is 655.5648 seconds.
+Node: 1,  Depth: 20,  Max-depth: 27,  no_expanded_nodes: 471,  Fringe-size: 377 ,  Elapsed time is 669.6443 seconds.
+Node: 15,  Depth: 28,  Max-depth: 28,  no_expanded_nodes: 576,  Fringe-size: 457 ,  Elapsed time is 688.9998 seconds.
+Node: 12,  Depth: 29,  Max-depth: 29,  no_expanded_nodes: 577,  Fringe-size: 469 ,  Elapsed time is 689.1441 seconds.
+Node: 11,  Depth: 30,  Max-depth: 30,  no_expanded_nodes: 578,  Fringe-size: 448 ,  Elapsed time is 689.283 seconds.
+Node: 48,  Depth: 19,  Max-depth: 31,  no_expanded_nodes: 579,  Fringe-size: 426 ,  Elapsed time is 689.4187 seconds.
+Node: 42,  Depth: 5,  Max-depth: 32,  no_expanded_nodes: 619,  Fringe-size: 356 ,  Elapsed time is 696.569 seconds.
+Node: 37,  Depth: 22,  Max-depth: 33,  no_expanded_nodes: 625,  Fringe-size: 372 ,  Elapsed time is 697.5032 seconds.
+Node: 22,  Depth: 18,  Max-depth: 34,  no_expanded_nodes: 655,  Fringe-size: 356 ,  Elapsed time is 702.761 seconds.
+Node: 43,  Depth: 22,  Max-depth: 35,  no_expanded_nodes: 690,  Fringe-size: 365 ,  Elapsed time is 708.5723 seconds.
+Node: 9,  Depth: 18,  Max-depth: 36,  no_expanded_nodes: 720,  Fringe-size: 248 ,  Elapsed time is 712.9784 seconds.
+Node: 34,  Depth: 11,  Max-depth: 37,  no_expanded_nodes: 742,  Fringe-size: 287 ,  Elapsed time is 716.4976 seconds.
+Node: 34,  Depth: 20,  Max-depth: 38,  no_expanded_nodes: 777,  Fringe-size: 285 ,  Elapsed time is 722.3684 seconds.
+Node: 14,  Depth: 39,  Max-depth: 39,  no_expanded_nodes: 813,  Fringe-size: 280 ,  Elapsed time is 728.6817 seconds.
+Node: 16,  Depth: 23,  Max-depth: 40,  no_expanded_nodes: 814,  Fringe-size: 265 ,  Elapsed time is 728.7889 seconds.
+Node: 34,  Depth: 41,  Max-depth: 41,  no_expanded_nodes: 870,  Fringe-size: 251 ,  Elapsed time is 737.9153 seconds.
+Node: 10,  Depth: 15,  Max-depth: 42,  no_expanded_nodes: 871,  Fringe-size: 211 ,  Elapsed time is 738.029 seconds.
+Node: 28,  Depth: 21,  Max-depth: 43,  no_expanded_nodes: 918,  Fringe-size: 204 ,  Elapsed time is 745.4745 seconds.
+Node: 48,  Depth: 44,  Max-depth: 44,  no_expanded_nodes: 943,  Fringe-size: 185 ,  Elapsed time is 748.7934 seconds.
+Node: 10,  Depth: 12,  Max-depth: 45,  no_expanded_nodes: 944,  Fringe-size: 173 ,  Elapsed time is 748.8762 seconds.
+Node: 24,  Depth: 30,  Max-depth: 46,  no_expanded_nodes: 982,  Fringe-size: 166 ,  Elapsed time is 754.4553 seconds.
+Node: 26,  Depth: 47,  Max-depth: 47,  no_expanded_nodes: 1001,  Fringe-size: 148 ,  Elapsed time is 757.1056 seconds.
+
+ans =
+
+       10858
+
+
+ans =
+
+  1×1 cell array
+
+    {'4'}
+
+Node: 29,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47 ,  Elapsed time is 757.3698 seconds.
+Node: 2,  Depth: 2,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 87 ,  Elapsed time is 757.5942 seconds.
+Node: 48,  Depth: 1,  Max-depth: 3,  no_expanded_nodes: 4,  Fringe-size: 120 ,  Elapsed time is 757.8115 seconds.
+Node: 26,  Depth: 4,  Max-depth: 4,  no_expanded_nodes: 10,  Fringe-size: 125 ,  Elapsed time is 759.1119 seconds.
+Node: 42,  Depth: 3,  Max-depth: 5,  no_expanded_nodes: 11,  Fringe-size: 119 ,  Elapsed time is 759.3233 seconds.
+Node: 3,  Depth: 3,  Max-depth: 6,  no_expanded_nodes: 19,  Fringe-size: 120 ,  Elapsed time is 761.0099 seconds.
+Node: 13,  Depth: 6,  Max-depth: 7,  no_expanded_nodes: 22,  Fringe-size: 135 ,  Elapsed time is 761.6666 seconds.
+Node: 24,  Depth: 1,  Max-depth: 8,  no_expanded_nodes: 24,  Fringe-size: 174 ,  Elapsed time is 762.1007 seconds.
+Node: 14,  Depth: 7,  Max-depth: 9,  no_expanded_nodes: 31,  Fringe-size: 200 ,  Elapsed time is 763.5813 seconds.
+Node: 11,  Depth: 10,  Max-depth: 10,  no_expanded_nodes: 35,  Fringe-size: 197 ,  Elapsed time is 764.424 seconds.
+Node: 12,  Depth: 11,  Max-depth: 11,  no_expanded_nodes: 36,  Fringe-size: 191 ,  Elapsed time is 764.623 seconds.
+Node: 41,  Depth: 3,  Max-depth: 12,  no_expanded_nodes: 37,  Fringe-size: 205 ,  Elapsed time is 764.8245 seconds.
+Node: 24,  Depth: 2,  Max-depth: 13,  no_expanded_nodes: 47,  Fringe-size: 262 ,  Elapsed time is 767.0722 seconds.
+Node: 13,  Depth: 5,  Max-depth: 14,  no_expanded_nodes: 55,  Fringe-size: 292 ,  Elapsed time is 768.8052 seconds.
+Node: 15,  Depth: 15,  Max-depth: 15,  no_expanded_nodes: 69,  Fringe-size: 379 ,  Elapsed time is 771.782 seconds.
+Node: 40,  Depth: 16,  Max-depth: 16,  no_expanded_nodes: 70,  Fringe-size: 360 ,  Elapsed time is 771.962 seconds.
+Node: 1,  Depth: 6,  Max-depth: 17,  no_expanded_nodes: 71,  Fringe-size: 364 ,  Elapsed time is 772.1546 seconds.
+Node: 18,  Depth: 12,  Max-depth: 18,  no_expanded_nodes: 161,  Fringe-size: 448 ,  Elapsed time is 791.666 seconds.
+Node: 22,  Depth: 10,  Max-depth: 19,  no_expanded_nodes: 261,  Fringe-size: 681 ,  Elapsed time is 813.9539 seconds.
+Node: 44,  Depth: 20,  Max-depth: 20,  no_expanded_nodes: 295,  Fringe-size: 682 ,  Elapsed time is 821.3971 seconds.
+Node: 31,  Depth: 21,  Max-depth: 21,  no_expanded_nodes: 296,  Fringe-size: 671 ,  Elapsed time is 821.5771 seconds.
+Node: 38,  Depth: 22,  Max-depth: 22,  no_expanded_nodes: 297,  Fringe-size: 642 ,  Elapsed time is 821.7587 seconds.
+Node: 20,  Depth: 7,  Max-depth: 23,  no_expanded_nodes: 298,  Fringe-size: 621 ,  Elapsed time is 821.968 seconds.
+Node: 36,  Depth: 17,  Max-depth: 24,  no_expanded_nodes: 345,  Fringe-size: 526 ,  Elapsed time is 833.2758 seconds.
+Node: 15,  Depth: 25,  Max-depth: 25,  no_expanded_nodes: 452,  Fringe-size: 591 ,  Elapsed time is 856.3231 seconds.
+Node: 12,  Depth: 26,  Max-depth: 26,  no_expanded_nodes: 453,  Fringe-size: 601 ,  Elapsed time is 856.5002 seconds.
+Node: 11,  Depth: 27,  Max-depth: 27,  no_expanded_nodes: 454,  Fringe-size: 565 ,  Elapsed time is 856.6639 seconds.
+Node: 27,  Depth: 14,  Max-depth: 28,  no_expanded_nodes: 455,  Fringe-size: 499 ,  Elapsed time is 856.8442 seconds.
+Node: 13,  Depth: 12,  Max-depth: 29,  no_expanded_nodes: 486,  Fringe-size: 446 ,  Elapsed time is 862.5822 seconds.
+Node: 32,  Depth: 10,  Max-depth: 30,  no_expanded_nodes: 536,  Fringe-size: 416 ,  Elapsed time is 871.9089 seconds.
+Node: 14,  Depth: 31,  Max-depth: 31,  no_expanded_nodes: 570,  Fringe-size: 297 ,  Elapsed time is 877.7118 seconds.
+Node: 41,  Depth: 12,  Max-depth: 32,  no_expanded_nodes: 571,  Fringe-size: 266 ,  Elapsed time is 877.8475 seconds.
+Node: 14,  Depth: 33,  Max-depth: 33,  no_expanded_nodes: 596,  Fringe-size: 269 ,  Elapsed time is 881.8958 seconds.
+Node: 33,  Depth: 15,  Max-depth: 34,  no_expanded_nodes: 597,  Fringe-size: 258 ,  Elapsed time is 882.0192 seconds.
+Node: 25,  Depth: 35,  Max-depth: 35,  no_expanded_nodes: 653,  Fringe-size: 272 ,  Elapsed time is 890.9596 seconds.
+Node: 14,  Depth: 36,  Max-depth: 36,  no_expanded_nodes: 654,  Fringe-size: 262 ,  Elapsed time is 891.0693 seconds.
+Node: 13,  Depth: 13,  Max-depth: 37,  no_expanded_nodes: 655,  Fringe-size: 252 ,  Elapsed time is 891.1763 seconds.
+Node: 41,  Depth: 38,  Max-depth: 38,  no_expanded_nodes: 715,  Fringe-size: 226 ,  Elapsed time is 900.8828 seconds.
+Node: 15,  Depth: 18,  Max-depth: 39,  no_expanded_nodes: 716,  Fringe-size: 179 ,  Elapsed time is 900.9851 seconds.
+Node: 2,  Depth: 40,  Max-depth: 40,  no_expanded_nodes: 777,  Fringe-size: 119 ,  Elapsed time is 910.6941 seconds.
+Node: 15,  Depth: 18,  Max-depth: 41,  no_expanded_nodes: 778,  Fringe-size: 100 ,  Elapsed time is 910.7888 seconds.
+Node: 26,  Depth: 42,  Max-depth: 42,  no_expanded_nodes: 844,  Fringe-size: 127 ,  Elapsed time is 921.2905 seconds.
+Node: 40,  Depth: 20,  Max-depth: 43,  no_expanded_nodes: 845,  Fringe-size: 117 ,  Elapsed time is 921.3838 seconds.
+Node: 45,  Depth: 44,  Max-depth: 44,  no_expanded_nodes: 910,  Fringe-size: 150 ,  Elapsed time is 931.9532 seconds.
+Node: 4,  Depth: 10,  Max-depth: 45,  no_expanded_nodes: 911,  Fringe-size: 145 ,  Elapsed time is 932.0416 seconds.
+Node: 24,  Depth: 46,  Max-depth: 46,  no_expanded_nodes: 950,  Fringe-size: 142 ,  Elapsed time is 937.7736 seconds.
+Node: 42,  Depth: 47,  Max-depth: 47,  no_expanded_nodes: 951,  Fringe-size: 139 ,  Elapsed time is 937.8438 seconds.
+
+ans =
+
+       10699
+
+
+ans =
+
+  1×1 cell array
+
+    {'5'}
+
+Node: 37,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47 ,  Elapsed time is 938.0925 seconds.
+Node: 19,  Depth: 2,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 91 ,  Elapsed time is 938.2977 seconds.
+Node: 30,  Depth: 1,  Max-depth: 3,  no_expanded_nodes: 4,  Fringe-size: 108 ,  Elapsed time is 938.5266 seconds.
+Node: 43,  Depth: 2,  Max-depth: 4,  no_expanded_nodes: 6,  Fringe-size: 114 ,  Elapsed time is 938.9604 seconds.
+Node: 43,  Depth: 5,  Max-depth: 5,  no_expanded_nodes: 8,  Fringe-size: 193 ,  Elapsed time is 939.3766 seconds.
+Node: 37,  Depth: 2,  Max-depth: 6,  no_expanded_nodes: 9,  Fringe-size: 113 ,  Elapsed time is 939.5895 seconds.
+Node: 19,  Depth: 3,  Max-depth: 7,  no_expanded_nodes: 13,  Fringe-size: 90 ,  Elapsed time is 940.4652 seconds.
+Node: 18,  Depth: 3,  Max-depth: 8,  no_expanded_nodes: 18,  Fringe-size: 161 ,  Elapsed time is 941.5703 seconds.
+Node: 18,  Depth: 3,  Max-depth: 9,  no_expanded_nodes: 24,  Fringe-size: 261 ,  Elapsed time is 942.8359 seconds.
+Node: 28,  Depth: 8,  Max-depth: 10,  no_expanded_nodes: 34,  Fringe-size: 305 ,  Elapsed time is 945.0914 seconds.
+Node: 20,  Depth: 5,  Max-depth: 11,  no_expanded_nodes: 61,  Fringe-size: 255 ,  Elapsed time is 950.8142 seconds.
+Node: 15,  Depth: 5,  Max-depth: 12,  no_expanded_nodes: 98,  Fringe-size: 394 ,  Elapsed time is 958.4446 seconds.
+Node: 13,  Depth: 13,  Max-depth: 13,  no_expanded_nodes: 111,  Fringe-size: 322 ,  Elapsed time is 961.1491 seconds.
+Node: 44,  Depth: 10,  Max-depth: 14,  no_expanded_nodes: 112,  Fringe-size: 325 ,  Elapsed time is 961.333 seconds.
+Node: 33,  Depth: 6,  Max-depth: 15,  no_expanded_nodes: 157,  Fringe-size: 354 ,  Elapsed time is 970.6014 seconds.
+Node: 31,  Depth: 12,  Max-depth: 16,  no_expanded_nodes: 175,  Fringe-size: 367 ,  Elapsed time is 974.3888 seconds.
+Node: 40,  Depth: 10,  Max-depth: 17,  no_expanded_nodes: 247,  Fringe-size: 477 ,  Elapsed time is 988.6592 seconds.
+Node: 25,  Depth: 15,  Max-depth: 18,  no_expanded_nodes: 291,  Fringe-size: 468 ,  Elapsed time is 997.5417 seconds.
+Node: 15,  Depth: 19,  Max-depth: 19,  no_expanded_nodes: 320,  Fringe-size: 478 ,  Elapsed time is 1003.1198 seconds.
+Node: 40,  Depth: 20,  Max-depth: 20,  no_expanded_nodes: 321,  Fringe-size: 470 ,  Elapsed time is 1003.2889 seconds.
+Node: 44,  Depth: 10,  Max-depth: 21,  no_expanded_nodes: 322,  Fringe-size: 456 ,  Elapsed time is 1003.4542 seconds.
+Node: 38,  Depth: 14,  Max-depth: 22,  no_expanded_nodes: 440,  Fringe-size: 603 ,  Elapsed time is 1026.7701 seconds.
+Node: 41,  Depth: 13,  Max-depth: 23,  no_expanded_nodes: 472,  Fringe-size: 629 ,  Elapsed time is 1032.9983 seconds.
+Node: 41,  Depth: 19,  Max-depth: 24,  no_expanded_nodes: 644,  Fringe-size: 606 ,  Elapsed time is 1068.4141 seconds.
+Node: 25,  Depth: 21,  Max-depth: 25,  no_expanded_nodes: 698,  Fringe-size: 549 ,  Elapsed time is 1078.333 seconds.
+Node: 38,  Depth: 15,  Max-depth: 26,  no_expanded_nodes: 725,  Fringe-size: 599 ,  Elapsed time is 1083.1515 seconds.
+Node: 20,  Depth: 22,  Max-depth: 27,  no_expanded_nodes: 796,  Fringe-size: 505 ,  Elapsed time is 1096.0083 seconds.
+Node: 20,  Depth: 23,  Max-depth: 28,  no_expanded_nodes: 830,  Fringe-size: 514 ,  Elapsed time is 1101.9503 seconds.
+Node: 40,  Depth: 27,  Max-depth: 29,  no_expanded_nodes: 951,  Fringe-size: 585 ,  Elapsed time is 1123.907 seconds.
+Node: 18,  Depth: 22,  Max-depth: 30,  no_expanded_nodes: 1002,  Fringe-size: 590 ,  Elapsed time is 1132.6716 seconds.
+Node: 16,  Depth: 24,  Max-depth: 31,  no_expanded_nodes: 1090,  Fringe-size: 661 ,  Elapsed time is 1148.0202 seconds.
+Node: 47,  Depth: 25,  Max-depth: 32,  no_expanded_nodes: 1197,  Fringe-size: 615 ,  Elapsed time is 1167.0745 seconds.
+Node: 15,  Depth: 33,  Max-depth: 33,  no_expanded_nodes: 1509,  Fringe-size: 420 ,  Elapsed time is 1218.9608 seconds.
+Node: 40,  Depth: 34,  Max-depth: 34,  no_expanded_nodes: 1510,  Fringe-size: 409 ,  Elapsed time is 1219.1006 seconds.
+Node: 1,  Depth: 24,  Max-depth: 35,  no_expanded_nodes: 1511,  Fringe-size: 407 ,  Elapsed time is 1219.2271 seconds.
+Node: 21,  Depth: 26,  Max-depth: 36,  no_expanded_nodes: 1584,  Fringe-size: 373 ,  Elapsed time is 1229.9599 seconds.
+Node: 1,  Depth: 25,  Max-depth: 37,  no_expanded_nodes: 1685,  Fringe-size: 372 ,  Elapsed time is 1244.8502 seconds.
+Node: 40,  Depth: 38,  Max-depth: 38,  no_expanded_nodes: 1725,  Fringe-size: 416 ,  Elapsed time is 1250.6445 seconds.
+Node: 43,  Depth: 25,  Max-depth: 39,  no_expanded_nodes: 1726,  Fringe-size: 399 ,  Elapsed time is 1250.7566 seconds.
+Node: 28,  Depth: 27,  Max-depth: 40,  no_expanded_nodes: 1817,  Fringe-size: 416 ,  Elapsed time is 1263.2365 seconds.
+Node: 8,  Depth: 41,  Max-depth: 41,  no_expanded_nodes: 1841,  Fringe-size: 442 ,  Elapsed time is 1266.5959 seconds.
+Node: 38,  Depth: 42,  Max-depth: 42,  no_expanded_nodes: 1842,  Fringe-size: 427 ,  Elapsed time is 1266.6935 seconds.
+Node: 31,  Depth: 43,  Max-depth: 43,  no_expanded_nodes: 1843,  Fringe-size: 407 ,  Elapsed time is 1266.7843 seconds.
+Node: 44,  Depth: 44,  Max-depth: 44,  no_expanded_nodes: 1844,  Fringe-size: 376 ,  Elapsed time is 1266.8748 seconds.
+Node: 18,  Depth: 45,  Max-depth: 45,  no_expanded_nodes: 1845,  Fringe-size: 369 ,  Elapsed time is 1266.9689 seconds.
+Node: 7,  Depth: 46,  Max-depth: 46,  no_expanded_nodes: 1846,  Fringe-size: 360 ,  Elapsed time is 1267.0682 seconds.
+Node: 28,  Depth: 47,  Max-depth: 47,  no_expanded_nodes: 1847,  Fringe-size: 354 ,  Elapsed time is 1267.1466 seconds.
+
+ans =
+
+       10648
+
+
+ans =
+
+  1×1 cell array
+
+    {'6'}
+
+Node: 36,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47 ,  Elapsed time is 1267.4268 seconds.
+Node: 18,  Depth: 1,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 62 ,  Elapsed time is 1267.6536 seconds.
+Node: 6,  Depth: 2,  Max-depth: 3,  no_expanded_nodes: 6,  Fringe-size: 105 ,  Elapsed time is 1268.3662 seconds.
+Node: 19,  Depth: 4,  Max-depth: 4,  no_expanded_nodes: 8,  Fringe-size: 180 ,  Elapsed time is 1268.8031 seconds.
+Node: 30,  Depth: 2,  Max-depth: 5,  no_expanded_nodes: 9,  Fringe-size: 195 ,  Elapsed time is 1269.018 seconds.
+Node: 44,  Depth: 2,  Max-depth: 6,  no_expanded_nodes: 14,  Fringe-size: 265 ,  Elapsed time is 1270.1973 seconds.
+Node: 43,  Depth: 7,  Max-depth: 7,  no_expanded_nodes: 19,  Fringe-size: 202 ,  Elapsed time is 1271.3172 seconds.
+Node: 30,  Depth: 8,  Max-depth: 8,  no_expanded_nodes: 20,  Fringe-size: 137 ,  Elapsed time is 1271.5405 seconds.
+Node: 36,  Depth: 9,  Max-depth: 9,  no_expanded_nodes: 21,  Fringe-size: 111 ,  Elapsed time is 1271.7416 seconds.
+Node: 28,  Depth: 2,  Max-depth: 10,  no_expanded_nodes: 22,  Fringe-size: 123 ,  Elapsed time is 1271.9381 seconds.
+Node: 44,  Depth: 3,  Max-depth: 11,  no_expanded_nodes: 38,  Fringe-size: 188 ,  Elapsed time is 1275.4757 seconds.
+Node: 44,  Depth: 10,  Max-depth: 12,  no_expanded_nodes: 84,  Fringe-size: 247 ,  Elapsed time is 1285.2997 seconds.
+Node: 9,  Depth: 7,  Max-depth: 13,  no_expanded_nodes: 116,  Fringe-size: 350 ,  Elapsed time is 1292.09 seconds.
+Node: 40,  Depth: 11,  Max-depth: 14,  no_expanded_nodes: 119,  Fringe-size: 336 ,  Elapsed time is 1292.7049 seconds.
+Node: 13,  Depth: 15,  Max-depth: 15,  no_expanded_nodes: 138,  Fringe-size: 309 ,  Elapsed time is 1296.568 seconds.
+Node: 14,  Depth: 8,  Max-depth: 16,  no_expanded_nodes: 139,  Fringe-size: 305 ,  Elapsed time is 1296.7522 seconds.
+Node: 27,  Depth: 8,  Max-depth: 17,  no_expanded_nodes: 179,  Fringe-size: 358 ,  Elapsed time is 1304.8767 seconds.
+Node: 11,  Depth: 13,  Max-depth: 18,  no_expanded_nodes: 203,  Fringe-size: 420 ,  Elapsed time is 1309.9586 seconds.
+Node: 18,  Depth: 11,  Max-depth: 19,  no_expanded_nodes: 252,  Fringe-size: 404 ,  Elapsed time is 1319.613 seconds.
+Node: 40,  Depth: 20,  Max-depth: 20,  no_expanded_nodes: 258,  Fringe-size: 398 ,  Elapsed time is 1320.7362 seconds.
+Node: 33,  Depth: 12,  Max-depth: 21,  no_expanded_nodes: 259,  Fringe-size: 381 ,  Elapsed time is 1320.9205 seconds.
+Node: 5,  Depth: 10,  Max-depth: 22,  no_expanded_nodes: 338,  Fringe-size: 517 ,  Elapsed time is 1336.6899 seconds.
+Node: 39,  Depth: 16,  Max-depth: 23,  no_expanded_nodes: 353,  Fringe-size: 508 ,  Elapsed time is 1339.6885 seconds.
+Node: 41,  Depth: 19,  Max-depth: 24,  no_expanded_nodes: 476,  Fringe-size: 508 ,  Elapsed time is 1364.9166 seconds.
+Node: 44,  Depth: 14,  Max-depth: 25,  no_expanded_nodes: 496,  Fringe-size: 545 ,  Elapsed time is 1368.687 seconds.
+Node: 27,  Depth: 14,  Max-depth: 26,  no_expanded_nodes: 609,  Fringe-size: 529 ,  Elapsed time is 1389.9221 seconds.
+Node: 20,  Depth: 22,  Max-depth: 27,  no_expanded_nodes: 624,  Fringe-size: 594 ,  Elapsed time is 1392.5371 seconds.
+Node: 13,  Depth: 20,  Max-depth: 28,  no_expanded_nodes: 640,  Fringe-size: 649 ,  Elapsed time is 1395.4901 seconds.
+Node: 5,  Depth: 15,  Max-depth: 29,  no_expanded_nodes: 808,  Fringe-size: 702 ,  Elapsed time is 1427.8723 seconds.
+Node: 9,  Depth: 22,  Max-depth: 30,  no_expanded_nodes: 844,  Fringe-size: 738 ,  Elapsed time is 1434.2647 seconds.
+Node: 47,  Depth: 26,  Max-depth: 31,  no_expanded_nodes: 988,  Fringe-size: 865 ,  Elapsed time is 1462.2011 seconds.
+Node: 28,  Depth: 26,  Max-depth: 32,  no_expanded_nodes: 1204,  Fringe-size: 530 ,  Elapsed time is 1499.9462 seconds.
+Node: 11,  Depth: 33,  Max-depth: 33,  no_expanded_nodes: 1557,  Fringe-size: 413 ,  Elapsed time is 1555.334 seconds.
+Node: 12,  Depth: 34,  Max-depth: 34,  no_expanded_nodes: 1558,  Fringe-size: 396 ,  Elapsed time is 1555.4577 seconds.
+Node: 15,  Depth: 35,  Max-depth: 35,  no_expanded_nodes: 1559,  Fringe-size: 396 ,  Elapsed time is 1555.5752 seconds.
+Node: 40,  Depth: 36,  Max-depth: 36,  no_expanded_nodes: 1560,  Fringe-size: 376 ,  Elapsed time is 1555.6954 seconds.
+Node: 5,  Depth: 28,  Max-depth: 37,  no_expanded_nodes: 1561,  Fringe-size: 370 ,  Elapsed time is 1555.8175 seconds.
+Node: 40,  Depth: 38,  Max-depth: 38,  no_expanded_nodes: 1599,  Fringe-size: 360 ,  Elapsed time is 1561.3995 seconds.
+Node: 31,  Depth: 26,  Max-depth: 39,  no_expanded_nodes: 1600,  Fringe-size: 348 ,  Elapsed time is 1561.5032 seconds.
+Node: 8,  Depth: 34,  Max-depth: 40,  no_expanded_nodes: 1695,  Fringe-size: 324 ,  Elapsed time is 1574.1195 seconds.
+Node: 27,  Depth: 22,  Max-depth: 41,  no_expanded_nodes: 1749,  Fringe-size: 177 ,  Elapsed time is 1580.4756 seconds.
+Node: 40,  Depth: 42,  Max-depth: 42,  no_expanded_nodes: 1766,  Fringe-size: 191 ,  Elapsed time is 1582.4764 seconds.
+Node: 39,  Depth: 33,  Max-depth: 43,  no_expanded_nodes: 1767,  Fringe-size: 189 ,  Elapsed time is 1582.5614 seconds.
+Node: 30,  Depth: 40,  Max-depth: 44,  no_expanded_nodes: 1820,  Fringe-size: 164 ,  Elapsed time is 1588.7382 seconds.
+Node: 31,  Depth: 45,  Max-depth: 45,  no_expanded_nodes: 1825,  Fringe-size: 126 ,  Elapsed time is 1589.2056 seconds.
+Node: 44,  Depth: 46,  Max-depth: 46,  no_expanded_nodes: 1826,  Fringe-size: 120 ,  Elapsed time is 1589.2886 seconds.
+Node: 18,  Depth: 47,  Max-depth: 47,  no_expanded_nodes: 1827,  Fringe-size: 118 ,  Elapsed time is 1589.3592 seconds.
+
+ans =
+
+       10747
+
+
+ans =
+
+  1×1 cell array
+
+    {'7'}
+
+Node: 1,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47 ,  Elapsed time is 1589.6144 seconds.
+Node: 9,  Depth: 1,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 66 ,  Elapsed time is 1589.8364 seconds.
+Node: 38,  Depth: 2,  Max-depth: 3,  no_expanded_nodes: 6,  Fringe-size: 86 ,  Elapsed time is 1590.4916 seconds.
+Node: 9,  Depth: 2,  Max-depth: 4,  no_expanded_nodes: 8,  Fringe-size: 129 ,  Elapsed time is 1590.926 seconds.
+Node: 44,  Depth: 3,  Max-depth: 5,  no_expanded_nodes: 13,  Fringe-size: 173 ,  Elapsed time is 1592.0224 seconds.
+Node: 18,  Depth: 5,  Max-depth: 6,  no_expanded_nodes: 18,  Fringe-size: 281 ,  Elapsed time is 1593.1368 seconds.
+Node: 1,  Depth: 2,  Max-depth: 7,  no_expanded_nodes: 25,  Fringe-size: 159 ,  Elapsed time is 1594.7037 seconds.
+Node: 15,  Depth: 4,  Max-depth: 8,  no_expanded_nodes: 38,  Fringe-size: 202 ,  Elapsed time is 1597.5693 seconds.
+Node: 7,  Depth: 6,  Max-depth: 9,  no_expanded_nodes: 59,  Fringe-size: 240 ,  Elapsed time is 1602.5034 seconds.
+Node: 12,  Depth: 6,  Max-depth: 10,  no_expanded_nodes: 63,  Fringe-size: 264 ,  Elapsed time is 1603.3391 seconds.
+Node: 30,  Depth: 8,  Max-depth: 11,  no_expanded_nodes: 81,  Fringe-size: 390 ,  Elapsed time is 1607.2971 seconds.
+Node: 36,  Depth: 8,  Max-depth: 12,  no_expanded_nodes: 103,  Fringe-size: 355 ,  Elapsed time is 1612.0565 seconds.
+Node: 30,  Depth: 13,  Max-depth: 13,  no_expanded_nodes: 116,  Fringe-size: 289 ,  Elapsed time is 1614.7718 seconds.
+Node: 36,  Depth: 14,  Max-depth: 14,  no_expanded_nodes: 117,  Fringe-size: 259 ,  Elapsed time is 1614.9712 seconds.
+Node: 46,  Depth: 15,  Max-depth: 15,  no_expanded_nodes: 118,  Fringe-size: 226 ,  Elapsed time is 1615.165 seconds.
+Node: 9,  Depth: 6,  Max-depth: 16,  no_expanded_nodes: 119,  Fringe-size: 217 ,  Elapsed time is 1615.3388 seconds.
+Node: 33,  Depth: 16,  Max-depth: 17,  no_expanded_nodes: 128,  Fringe-size: 306 ,  Elapsed time is 1617.0694 seconds.
+Node: 28,  Depth: 8,  Max-depth: 18,  no_expanded_nodes: 139,  Fringe-size: 274 ,  Elapsed time is 1619.3382 seconds.
+Node: 18,  Depth: 8,  Max-depth: 19,  no_expanded_nodes: 179,  Fringe-size: 390 ,  Elapsed time is 1628.3562 seconds.
+Node: 13,  Depth: 20,  Max-depth: 20,  no_expanded_nodes: 190,  Fringe-size: 246 ,  Elapsed time is 1631.0513 seconds.
+Node: 15,  Depth: 18,  Max-depth: 21,  no_expanded_nodes: 191,  Fringe-size: 245 ,  Elapsed time is 1631.268 seconds.
+Node: 28,  Depth: 9,  Max-depth: 22,  no_expanded_nodes: 198,  Fringe-size: 273 ,  Elapsed time is 1633.136 seconds.
+Node: 17,  Depth: 13,  Max-depth: 23,  no_expanded_nodes: 247,  Fringe-size: 308 ,  Elapsed time is 1643.6598 seconds.
+Node: 27,  Depth: 13,  Max-depth: 24,  no_expanded_nodes: 260,  Fringe-size: 346 ,  Elapsed time is 1646.0464 seconds.
+Node: 27,  Depth: 14,  Max-depth: 25,  no_expanded_nodes: 311,  Fringe-size: 400 ,  Elapsed time is 1656.1487 seconds.
+Node: 39,  Depth: 12,  Max-depth: 26,  no_expanded_nodes: 352,  Fringe-size: 447 ,  Elapsed time is 1664.1521 seconds.
+Node: 48,  Depth: 22,  Max-depth: 27,  no_expanded_nodes: 462,  Fringe-size: 435 ,  Elapsed time is 1684.7754 seconds.
+Node: 40,  Depth: 28,  Max-depth: 28,  no_expanded_nodes: 492,  Fringe-size: 458 ,  Elapsed time is 1690.2092 seconds.
+Node: 20,  Depth: 22,  Max-depth: 29,  no_expanded_nodes: 493,  Fringe-size: 468 ,  Elapsed time is 1690.3534 seconds.
+Node: 1,  Depth: 26,  Max-depth: 30,  no_expanded_nodes: 644,  Fringe-size: 417 ,  Elapsed time is 1716.7996 seconds.
+Node: 11,  Depth: 28,  Max-depth: 31,  no_expanded_nodes: 692,  Fringe-size: 285 ,  Elapsed time is 1724.2731 seconds.
+Node: 14,  Depth: 27,  Max-depth: 32,  no_expanded_nodes: 799,  Fringe-size: 360 ,  Elapsed time is 1741.8181 seconds.
+Node: 15,  Depth: 29,  Max-depth: 33,  no_expanded_nodes: 1054,  Fringe-size: 375 ,  Elapsed time is 1780.7318 seconds.
+Node: 1,  Depth: 29,  Max-depth: 34,  no_expanded_nodes: 1123,  Fringe-size: 308 ,  Elapsed time is 1790.728 seconds.
+Node: 26,  Depth: 35,  Max-depth: 35,  no_expanded_nodes: 1141,  Fringe-size: 272 ,  Elapsed time is 1793.0594 seconds.
+Node: 42,  Depth: 36,  Max-depth: 36,  no_expanded_nodes: 1142,  Fringe-size: 247 ,  Elapsed time is 1793.1793 seconds.
+Node: 48,  Depth: 37,  Max-depth: 37,  no_expanded_nodes: 1143,  Fringe-size: 233 ,  Elapsed time is 1793.2989 seconds.
+Node: 5,  Depth: 38,  Max-depth: 38,  no_expanded_nodes: 1144,  Fringe-size: 230 ,  Elapsed time is 1793.4103 seconds.
+Node: 34,  Depth: 29,  Max-depth: 39,  no_expanded_nodes: 1145,  Fringe-size: 227 ,  Elapsed time is 1793.5175 seconds.
+Node: 15,  Depth: 40,  Max-depth: 40,  no_expanded_nodes: 1192,  Fringe-size: 152 ,  Elapsed time is 1799.5443 seconds.
+Node: 40,  Depth: 41,  Max-depth: 41,  no_expanded_nodes: 1193,  Fringe-size: 138 ,  Elapsed time is 1799.6399 seconds.
+Node: 9,  Depth: 42,  Max-depth: 42,  no_expanded_nodes: 1194,  Fringe-size: 123 ,  Elapsed time is 1799.734 seconds.
+Node: 6,  Depth: 20,  Max-depth: 43,  no_expanded_nodes: 1195,  Fringe-size: 126 ,  Elapsed time is 1799.8241 seconds.
+Node: 28,  Depth: 20,  Max-depth: 44,  no_expanded_nodes: 1238,  Fringe-size: 123 ,  Elapsed time is 1805.219 seconds.
+Node: 33,  Depth: 29,  Max-depth: 45,  no_expanded_nodes: 1297,  Fringe-size: 93 ,  Elapsed time is 1812.7791 seconds.
+Node: 40,  Depth: 46,  Max-depth: 46,  no_expanded_nodes: 1311,  Fringe-size: 116 ,  Elapsed time is 1814.4082 seconds.
+Node: 1,  Depth: 47,  Max-depth: 47,  no_expanded_nodes: 1312,  Fringe-size: 108 ,  Elapsed time is 1814.4784 seconds.
+
+ans =
+
+       10638
+
+
+ans =
+
+  1×1 cell array
+
+    {'8'}
+
+Node: 38,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47 ,  Elapsed time is 1814.7407 seconds.
+Node: 31,  Depth: 2,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 78 ,  Elapsed time is 1814.9592 seconds.
+Node: 40,  Depth: 1,  Max-depth: 3,  no_expanded_nodes: 4,  Fringe-size: 106 ,  Elapsed time is 1815.1669 seconds.
+Node: 18,  Depth: 4,  Max-depth: 4,  no_expanded_nodes: 8,  Fringe-size: 114 ,  Elapsed time is 1816.0232 seconds.
+Node: 7,  Depth: 5,  Max-depth: 5,  no_expanded_nodes: 9,  Fringe-size: 147 ,  Elapsed time is 1816.2238 seconds.
+Node: 1,  Depth: 2,  Max-depth: 6,  no_expanded_nodes: 10,  Fringe-size: 180 ,  Elapsed time is 1816.4239 seconds.
+Node: 23,  Depth: 5,  Max-depth: 7,  no_expanded_nodes: 19,  Fringe-size: 200 ,  Elapsed time is 1818.3249 seconds.
+Node: 44,  Depth: 4,  Max-depth: 8,  no_expanded_nodes: 43,  Fringe-size: 170 ,  Elapsed time is 1823.3934 seconds.
+Node: 19,  Depth: 9,  Max-depth: 9,  no_expanded_nodes: 47,  Fringe-size: 231 ,  Elapsed time is 1824.2219 seconds.
+Node: 30,  Depth: 7,  Max-depth: 10,  no_expanded_nodes: 48,  Fringe-size: 241 ,  Elapsed time is 1824.4158 seconds.
+Node: 46,  Depth: 5,  Max-depth: 11,  no_expanded_nodes: 65,  Fringe-size: 250 ,  Elapsed time is 1827.946 seconds.
+Node: 43,  Depth: 12,  Max-depth: 12,  no_expanded_nodes: 79,  Fringe-size: 316 ,  Elapsed time is 1830.9413 seconds.
+Node: 30,  Depth: 13,  Max-depth: 13,  no_expanded_nodes: 80,  Fringe-size: 290 ,  Elapsed time is 1831.1534 seconds.
+Node: 36,  Depth: 14,  Max-depth: 14,  no_expanded_nodes: 81,  Fringe-size: 269 ,  Elapsed time is 1831.3569 seconds.
+Node: 46,  Depth: 15,  Max-depth: 15,  no_expanded_nodes: 82,  Fringe-size: 241 ,  Elapsed time is 1831.549 seconds.
+Node: 16,  Depth: 4,  Max-depth: 16,  no_expanded_nodes: 83,  Fringe-size: 237 ,  Elapsed time is 1831.7277 seconds.
+Node: 20,  Depth: 6,  Max-depth: 17,  no_expanded_nodes: 88,  Fringe-size: 255 ,  Elapsed time is 1832.7568 seconds.
+Node: 11,  Depth: 8,  Max-depth: 18,  no_expanded_nodes: 116,  Fringe-size: 331 ,  Elapsed time is 1838.7226 seconds.
+Node: 21,  Depth: 19,  Max-depth: 19,  no_expanded_nodes: 135,  Fringe-size: 258 ,  Elapsed time is 1842.6488 seconds.
+Node: 13,  Depth: 20,  Max-depth: 20,  no_expanded_nodes: 136,  Fringe-size: 249 ,  Elapsed time is 1842.816 seconds.
+Node: 27,  Depth: 11,  Max-depth: 21,  no_expanded_nodes: 137,  Fringe-size: 246 ,  Elapsed time is 1842.9749 seconds.
+Node: 21,  Depth: 21,  Max-depth: 22,  no_expanded_nodes: 189,  Fringe-size: 326 ,  Elapsed time is 1853.4894 seconds.
+Node: 23,  Depth: 20,  Max-depth: 23,  no_expanded_nodes: 191,  Fringe-size: 308 ,  Elapsed time is 1853.8073 seconds.
+Node: 14,  Depth: 12,  Max-depth: 24,  no_expanded_nodes: 231,  Fringe-size: 385 ,  Elapsed time is 1861.4743 seconds.
+Node: 22,  Depth: 9,  Max-depth: 25,  no_expanded_nodes: 253,  Fringe-size: 362 ,  Elapsed time is 1865.6561 seconds.
+Node: 15,  Depth: 26,  Max-depth: 26,  no_expanded_nodes: 283,  Fringe-size: 396 ,  Elapsed time is 1871.5776 seconds.
+Node: 40,  Depth: 27,  Max-depth: 27,  no_expanded_nodes: 284,  Fringe-size: 394 ,  Elapsed time is 1871.7299 seconds.
+Node: 41,  Depth: 7,  Max-depth: 28,  no_expanded_nodes: 285,  Fringe-size: 365 ,  Elapsed time is 1871.8753 seconds.
+Node: 8,  Depth: 28,  Max-depth: 29,  no_expanded_nodes: 392,  Fringe-size: 407 ,  Elapsed time is 1891.2863 seconds.
+Node: 32,  Depth: 24,  Max-depth: 30,  no_expanded_nodes: 438,  Fringe-size: 304 ,  Elapsed time is 1899.234 seconds.
+Node: 12,  Depth: 21,  Max-depth: 31,  no_expanded_nodes: 521,  Fringe-size: 274 ,  Elapsed time is 1912.7613 seconds.
+Node: 33,  Depth: 26,  Max-depth: 32,  no_expanded_nodes: 711,  Fringe-size: 421 ,  Elapsed time is 1944.6294 seconds.
+Node: 2,  Depth: 25,  Max-depth: 33,  no_expanded_nodes: 851,  Fringe-size: 341 ,  Elapsed time is 1966.584 seconds.
+Node: 8,  Depth: 30,  Max-depth: 34,  no_expanded_nodes: 952,  Fringe-size: 295 ,  Elapsed time is 1981.4439 seconds.
+Node: 35,  Depth: 35,  Max-depth: 35,  no_expanded_nodes: 995,  Fringe-size: 357 ,  Elapsed time is 1987.4361 seconds.
+Node: 4,  Depth: 32,  Max-depth: 36,  no_expanded_nodes: 996,  Fringe-size: 350 ,  Elapsed time is 1987.5531 seconds.
+Node: 23,  Depth: 37,  Max-depth: 37,  no_expanded_nodes: 1003,  Fringe-size: 306 ,  Elapsed time is 1988.5016 seconds.
+Node: 11,  Depth: 38,  Max-depth: 38,  no_expanded_nodes: 1004,  Fringe-size: 299 ,  Elapsed time is 1988.6094 seconds.
+Node: 12,  Depth: 39,  Max-depth: 39,  no_expanded_nodes: 1005,  Fringe-size: 298 ,  Elapsed time is 1988.7116 seconds.
+Node: 15,  Depth: 40,  Max-depth: 40,  no_expanded_nodes: 1006,  Fringe-size: 303 ,  Elapsed time is 1988.8096 seconds.
+Node: 40,  Depth: 41,  Max-depth: 41,  no_expanded_nodes: 1007,  Fringe-size: 294 ,  Elapsed time is 1988.9056 seconds.
+Node: 15,  Depth: 31,  Max-depth: 42,  no_expanded_nodes: 1008,  Fringe-size: 276 ,  Elapsed time is 1988.9994 seconds.
+Node: 36,  Depth: 26,  Max-depth: 43,  no_expanded_nodes: 1062,  Fringe-size: 170 ,  Elapsed time is 1995.8253 seconds.
+Node: 8,  Depth: 42,  Max-depth: 44,  no_expanded_nodes: 1099,  Fringe-size: 167 ,  Elapsed time is 2000.5724 seconds.
+Node: 40,  Depth: 45,  Max-depth: 45,  no_expanded_nodes: 1122,  Fringe-size: 178 ,  Elapsed time is 2003.6568 seconds.
+Node: 36,  Depth: 17,  Max-depth: 46,  no_expanded_nodes: 1123,  Fringe-size: 171 ,  Elapsed time is 2003.7325 seconds.
+Node: 8,  Depth: 47,  Max-depth: 47,  no_expanded_nodes: 1140,  Fringe-size: 172 ,  Elapsed time is 2006.0402 seconds.
+
+ans =
+
+       10658
+
+
+ans =
+
+  1×1 cell array
+
+    {'9'}
+
+Node: 24,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47 ,  Elapsed time is 2006.3211 seconds.
+Node: 45,  Depth: 1,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 52 ,  Elapsed time is 2006.5429 seconds.
+Node: 45,  Depth: 2,  Max-depth: 3,  no_expanded_nodes: 5,  Fringe-size: 91 ,  Elapsed time is 2006.9859 seconds.
+Node: 4,  Depth: 3,  Max-depth: 4,  no_expanded_nodes: 7,  Fringe-size: 133 ,  Elapsed time is 2007.4445 seconds.
+Node: 4,  Depth: 4,  Max-depth: 5,  no_expanded_nodes: 9,  Fringe-size: 90 ,  Elapsed time is 2007.8999 seconds.
+Node: 32,  Depth: 2,  Max-depth: 6,  no_expanded_nodes: 11,  Fringe-size: 131 ,  Elapsed time is 2008.3658 seconds.
+Node: 5,  Depth: 7,  Max-depth: 7,  no_expanded_nodes: 21,  Fringe-size: 104 ,  Elapsed time is 2010.5961 seconds.
+Node: 2,  Depth: 6,  Max-depth: 8,  no_expanded_nodes: 22,  Fringe-size: 137 ,  Elapsed time is 2010.7971 seconds.
+Node: 21,  Depth: 4,  Max-depth: 9,  no_expanded_nodes: 25,  Fringe-size: 178 ,  Elapsed time is 2011.4392 seconds.
+Node: 21,  Depth: 6,  Max-depth: 10,  no_expanded_nodes: 48,  Fringe-size: 169 ,  Elapsed time is 2016.287 seconds.
+Node: 12,  Depth: 11,  Max-depth: 11,  no_expanded_nodes: 56,  Fringe-size: 192 ,  Elapsed time is 2018.097 seconds.
+Node: 14,  Depth: 6,  Max-depth: 12,  no_expanded_nodes: 57,  Fringe-size: 206 ,  Elapsed time is 2018.2998 seconds.
+Node: 39,  Depth: 5,  Max-depth: 13,  no_expanded_nodes: 75,  Fringe-size: 317 ,  Elapsed time is 2022.2106 seconds.
+Node: 32,  Depth: 6,  Max-depth: 14,  no_expanded_nodes: 78,  Fringe-size: 313 ,  Elapsed time is 2022.865 seconds.
+Node: 15,  Depth: 15,  Max-depth: 15,  no_expanded_nodes: 89,  Fringe-size: 279 ,  Elapsed time is 2025.1064 seconds.
+Node: 40,  Depth: 16,  Max-depth: 16,  no_expanded_nodes: 90,  Fringe-size: 278 ,  Elapsed time is 2025.2862 seconds.
+Node: 34,  Depth: 7,  Max-depth: 17,  no_expanded_nodes: 91,  Fringe-size: 287 ,  Elapsed time is 2025.4897 seconds.
+Node: 18,  Depth: 11,  Max-depth: 18,  no_expanded_nodes: 189,  Fringe-size: 333 ,  Elapsed time is 2045.9261 seconds.
+Node: 18,  Depth: 19,  Max-depth: 19,  no_expanded_nodes: 255,  Fringe-size: 519 ,  Elapsed time is 2059.6226 seconds.
+Node: 44,  Depth: 20,  Max-depth: 20,  no_expanded_nodes: 256,  Fringe-size: 454 ,  Elapsed time is 2059.8112 seconds.
+Node: 31,  Depth: 21,  Max-depth: 21,  no_expanded_nodes: 257,  Fringe-size: 420 ,  Elapsed time is 2059.9896 seconds.
+Node: 38,  Depth: 22,  Max-depth: 22,  no_expanded_nodes: 258,  Fringe-size: 392 ,  Elapsed time is 2060.1629 seconds.
+Node: 30,  Depth: 12,  Max-depth: 23,  no_expanded_nodes: 259,  Fringe-size: 377 ,  Elapsed time is 2060.3281 seconds.
+Node: 1,  Depth: 17,  Max-depth: 24,  no_expanded_nodes: 312,  Fringe-size: 429 ,  Elapsed time is 2071.176 seconds.
+Node: 24,  Depth: 8,  Max-depth: 25,  no_expanded_nodes: 388,  Fringe-size: 542 ,  Elapsed time is 2086.6267 seconds.
+Node: 11,  Depth: 14,  Max-depth: 26,  no_expanded_nodes: 412,  Fringe-size: 557 ,  Elapsed time is 2091.3809 seconds.
+Node: 11,  Depth: 27,  Max-depth: 27,  no_expanded_nodes: 435,  Fringe-size: 432 ,  Elapsed time is 2096.1733 seconds.
+Node: 25,  Depth: 9,  Max-depth: 28,  no_expanded_nodes: 436,  Fringe-size: 417 ,  Elapsed time is 2096.3276 seconds.
+Node: 9,  Depth: 26,  Max-depth: 29,  no_expanded_nodes: 505,  Fringe-size: 381 ,  Elapsed time is 2109.6898 seconds.
+Node: 33,  Depth: 15,  Max-depth: 30,  no_expanded_nodes: 520,  Fringe-size: 346 ,  Elapsed time is 2112.2503 seconds.
+Node: 22,  Depth: 19,  Max-depth: 31,  no_expanded_nodes: 568,  Fringe-size: 324 ,  Elapsed time is 2121.1214 seconds.
+Node: 8,  Depth: 26,  Max-depth: 32,  no_expanded_nodes: 612,  Fringe-size: 268 ,  Elapsed time is 2128.0899 seconds.
+Node: 23,  Depth: 33,  Max-depth: 33,  no_expanded_nodes: 660,  Fringe-size: 327 ,  Elapsed time is 2135.9252 seconds.
+Node: 36,  Depth: 17,  Max-depth: 34,  no_expanded_nodes: 661,  Fringe-size: 300 ,  Elapsed time is 2136.061 seconds.
+Node: 22,  Depth: 35,  Max-depth: 35,  no_expanded_nodes: 755,  Fringe-size: 300 ,  Elapsed time is 2151.8633 seconds.
+Node: 16,  Depth: 36,  Max-depth: 36,  no_expanded_nodes: 756,  Fringe-size: 308 ,  Elapsed time is 2151.9746 seconds.
+Node: 41,  Depth: 37,  Max-depth: 37,  no_expanded_nodes: 757,  Fringe-size: 290 ,  Elapsed time is 2152.0833 seconds.
+Node: 34,  Depth: 38,  Max-depth: 38,  no_expanded_nodes: 758,  Fringe-size: 245 ,  Elapsed time is 2152.1958 seconds.
+Node: 1,  Depth: 27,  Max-depth: 39,  no_expanded_nodes: 759,  Fringe-size: 179 ,  Elapsed time is 2152.3145 seconds.
+Node: 40,  Depth: 33,  Max-depth: 40,  no_expanded_nodes: 803,  Fringe-size: 194 ,  Elapsed time is 2159.5277 seconds.
+Node: 48,  Depth: 41,  Max-depth: 41,  no_expanded_nodes: 829,  Fringe-size: 169 ,  Elapsed time is 2163.7292 seconds.
+Node: 38,  Depth: 19,  Max-depth: 42,  no_expanded_nodes: 830,  Fringe-size: 146 ,  Elapsed time is 2163.8201 seconds.
+Node: 43,  Depth: 21,  Max-depth: 43,  no_expanded_nodes: 949,  Fringe-size: 159 ,  Elapsed time is 2182.1962 seconds.
+Node: 46,  Depth: 20,  Max-depth: 44,  no_expanded_nodes: 1006,  Fringe-size: 158 ,  Elapsed time is 2190.8482 seconds.
+Node: 4,  Depth: 45,  Max-depth: 45,  no_expanded_nodes: 1013,  Fringe-size: 142 ,  Elapsed time is 2191.8022 seconds.
+Node: 17,  Depth: 23,  Max-depth: 46,  no_expanded_nodes: 1014,  Fringe-size: 133 ,  Elapsed time is 2191.8906 seconds.
+Node: 45,  Depth: 47,  Max-depth: 47,  no_expanded_nodes: 1055,  Fringe-size: 196 ,  Elapsed time is 2197.9921 seconds.
+
+ans =
+
+       10763
+
+
+ans =
+
+  1×1 cell array
+
+    {'10'}
+
+Node: 12,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47 ,  Elapsed time is 2198.2751 seconds.
+Node: 23,  Depth: 1,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 72 ,  Elapsed time is 2198.4902 seconds.
+Node: 47,  Depth: 1,  Max-depth: 3,  no_expanded_nodes: 5,  Fringe-size: 84 ,  Elapsed time is 2198.9157 seconds.
+Node: 15,  Depth: 2,  Max-depth: 4,  no_expanded_nodes: 8,  Fringe-size: 135 ,  Elapsed time is 2199.5878 seconds.
+Node: 33,  Depth: 3,  Max-depth: 5,  no_expanded_nodes: 15,  Fringe-size: 126 ,  Elapsed time is 2201.1104 seconds.
+Node: 15,  Depth: 6,  Max-depth: 6,  no_expanded_nodes: 21,  Fringe-size: 170 ,  Elapsed time is 2202.422 seconds.
+Node: 40,  Depth: 7,  Max-depth: 7,  no_expanded_nodes: 22,  Fringe-size: 159 ,  Elapsed time is 2202.6495 seconds.
+Node: 22,  Depth: 3,  Max-depth: 8,  no_expanded_nodes: 23,  Fringe-size: 155 ,  Elapsed time is 2202.8688 seconds.
+Node: 46,  Depth: 9,  Max-depth: 9,  no_expanded_nodes: 52,  Fringe-size: 282 ,  Elapsed time is 2209.2388 seconds.
+Node: 8,  Depth: 5,  Max-depth: 10,  no_expanded_nodes: 53,  Fringe-size: 289 ,  Elapsed time is 2209.4488 seconds.
+Node: 18,  Depth: 7,  Max-depth: 11,  no_expanded_nodes: 86,  Fringe-size: 282 ,  Elapsed time is 2216.3742 seconds.
+Node: 36,  Depth: 8,  Max-depth: 12,  no_expanded_nodes: 93,  Fringe-size: 365 ,  Elapsed time is 2217.8152 seconds.
+Node: 1,  Depth: 7,  Max-depth: 13,  no_expanded_nodes: 104,  Fringe-size: 362 ,  Elapsed time is 2220.1717 seconds.
+Node: 40,  Depth: 10,  Max-depth: 14,  no_expanded_nodes: 148,  Fringe-size: 351 ,  Elapsed time is 2229.4427 seconds.
+Node: 21,  Depth: 4,  Max-depth: 15,  no_expanded_nodes: 161,  Fringe-size: 459 ,  Elapsed time is 2232.1383 seconds.
+Node: 30,  Depth: 13,  Max-depth: 16,  no_expanded_nodes: 189,  Fringe-size: 497 ,  Elapsed time is 2238.1086 seconds.
+Node: 30,  Depth: 17,  Max-depth: 17,  no_expanded_nodes: 198,  Fringe-size: 437 ,  Elapsed time is 2240.1772 seconds.
+Node: 36,  Depth: 18,  Max-depth: 18,  no_expanded_nodes: 199,  Fringe-size: 373 ,  Elapsed time is 2240.3639 seconds.
+Node: 46,  Depth: 19,  Max-depth: 19,  no_expanded_nodes: 200,  Fringe-size: 324 ,  Elapsed time is 2240.5436 seconds.
+Node: 33,  Depth: 20,  Max-depth: 20,  no_expanded_nodes: 201,  Fringe-size: 318 ,  Elapsed time is 2240.7309 seconds.
+Node: 20,  Depth: 21,  Max-depth: 21,  no_expanded_nodes: 202,  Fringe-size: 264 ,  Elapsed time is 2240.9133 seconds.
+Node: 47,  Depth: 22,  Max-depth: 22,  no_expanded_nodes: 203,  Fringe-size: 244 ,  Elapsed time is 2241.074 seconds.
+Node: 21,  Depth: 23,  Max-depth: 23,  no_expanded_nodes: 204,  Fringe-size: 207 ,  Elapsed time is 2241.239 seconds.
+Node: 13,  Depth: 24,  Max-depth: 24,  no_expanded_nodes: 205,  Fringe-size: 208 ,  Elapsed time is 2241.3967 seconds.
+Node: 17,  Depth: 9,  Max-depth: 25,  no_expanded_nodes: 206,  Fringe-size: 209 ,  Elapsed time is 2241.5464 seconds.
+Node: 13,  Depth: 26,  Max-depth: 26,  no_expanded_nodes: 244,  Fringe-size: 222 ,  Elapsed time is 2248.8094 seconds.
+Node: 14,  Depth: 12,  Max-depth: 27,  no_expanded_nodes: 245,  Fringe-size: 222 ,  Elapsed time is 2248.9638 seconds.
+Node: 21,  Depth: 28,  Max-depth: 28,  no_expanded_nodes: 325,  Fringe-size: 293 ,  Elapsed time is 2265.4126 seconds.
+Node: 13,  Depth: 29,  Max-depth: 29,  no_expanded_nodes: 326,  Fringe-size: 285 ,  Elapsed time is 2265.5483 seconds.
+Node: 40,  Depth: 13,  Max-depth: 30,  no_expanded_nodes: 327,  Fringe-size: 289 ,  Elapsed time is 2265.6852 seconds.
+Node: 48,  Depth: 26,  Max-depth: 31,  no_expanded_nodes: 399,  Fringe-size: 348 ,  Elapsed time is 2279.1031 seconds.
+Node: 5,  Depth: 27,  Max-depth: 32,  no_expanded_nodes: 495,  Fringe-size: 348 ,  Elapsed time is 2296.5444 seconds.
+Node: 23,  Depth: 25,  Max-depth: 33,  no_expanded_nodes: 501,  Fringe-size: 293 ,  Elapsed time is 2297.3652 seconds.
+Node: 24,  Depth: 25,  Max-depth: 34,  no_expanded_nodes: 544,  Fringe-size: 307 ,  Elapsed time is 2304.4343 seconds.
+Node: 28,  Depth: 12,  Max-depth: 35,  no_expanded_nodes: 679,  Fringe-size: 316 ,  Elapsed time is 2325.8899 seconds.
+Node: 6,  Depth: 15,  Max-depth: 36,  no_expanded_nodes: 758,  Fringe-size: 295 ,  Elapsed time is 2337.9587 seconds.
+Node: 31,  Depth: 15,  Max-depth: 37,  no_expanded_nodes: 851,  Fringe-size: 222 ,  Elapsed time is 2351.489 seconds.
+Node: 48,  Depth: 38,  Max-depth: 38,  no_expanded_nodes: 868,  Fringe-size: 253 ,  Elapsed time is 2353.8676 seconds.
+Node: 5,  Depth: 39,  Max-depth: 39,  no_expanded_nodes: 869,  Fringe-size: 253 ,  Elapsed time is 2353.9659 seconds.
+Node: 31,  Depth: 14,  Max-depth: 40,  no_expanded_nodes: 870,  Fringe-size: 246 ,  Elapsed time is 2354.0609 seconds.
+Node: 25,  Depth: 31,  Max-depth: 41,  no_expanded_nodes: 914,  Fringe-size: 223 ,  Elapsed time is 2359.9607 seconds.
+Node: 40,  Depth: 11,  Max-depth: 42,  no_expanded_nodes: 967,  Fringe-size: 198 ,  Elapsed time is 2367.5436 seconds.
+Node: 34,  Depth: 43,  Max-depth: 43,  no_expanded_nodes: 1066,  Fringe-size: 177 ,  Elapsed time is 2382.4894 seconds.
+Node: 14,  Depth: 32,  Max-depth: 44,  no_expanded_nodes: 1067,  Fringe-size: 165 ,  Elapsed time is 2382.5734 seconds.
+Node: 25,  Depth: 45,  Max-depth: 45,  no_expanded_nodes: 1085,  Fringe-size: 163 ,  Elapsed time is 2385.0279 seconds.
+Node: 13,  Depth: 46,  Max-depth: 46,  no_expanded_nodes: 1086,  Fringe-size: 162 ,  Elapsed time is 2385.104 seconds.
+Node: 23,  Depth: 47,  Max-depth: 47,  no_expanded_nodes: 1087,  Fringe-size: 160 ,  Elapsed time is 2385.1798 seconds.
+
+ans =
+
+       10707
+
+
+ans =
+
+  1×1 cell array
+
+    {'11'}
+
+Node: 11,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47 ,  Elapsed time is 2385.4355 seconds.
+Node: 23,  Depth: 2,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 68 ,  Elapsed time is 2385.6586 seconds.
+Node: 14,  Depth: 3,  Max-depth: 3,  no_expanded_nodes: 4,  Fringe-size: 90 ,  Elapsed time is 2385.8887 seconds.
+Node: 15,  Depth: 1,  Max-depth: 4,  no_expanded_nodes: 5,  Fringe-size: 118 ,  Elapsed time is 2386.1274 seconds.
+Node: 47,  Depth: 2,  Max-depth: 5,  no_expanded_nodes: 16,  Fringe-size: 153 ,  Elapsed time is 2388.62 seconds.
+Node: 20,  Depth: 3,  Max-depth: 6,  no_expanded_nodes: 21,  Fringe-size: 180 ,  Elapsed time is 2389.7458 seconds.
+Node: 47,  Depth: 7,  Max-depth: 7,  no_expanded_nodes: 43,  Fringe-size: 230 ,  Elapsed time is 2394.4638 seconds.
+Node: 20,  Depth: 8,  Max-depth: 8,  no_expanded_nodes: 44,  Fringe-size: 222 ,  Elapsed time is 2394.6692 seconds.
+Node: 8,  Depth: 4,  Max-depth: 9,  no_expanded_nodes: 45,  Fringe-size: 233 ,  Elapsed time is 2394.8866 seconds.
+Node: 46,  Depth: 10,  Max-depth: 10,  no_expanded_nodes: 60,  Fringe-size: 299 ,  Elapsed time is 2398.2501 seconds.
+Node: 11,  Depth: 5,  Max-depth: 11,  no_expanded_nodes: 61,  Fringe-size: 299 ,  Elapsed time is 2398.4609 seconds.
+Node: 30,  Depth: 5,  Max-depth: 12,  no_expanded_nodes: 102,  Fringe-size: 347 ,  Elapsed time is 2407.3591 seconds.
+Node: 41,  Depth: 6,  Max-depth: 13,  no_expanded_nodes: 107,  Fringe-size: 369 ,  Elapsed time is 2408.3905 seconds.
+Node: 8,  Depth: 7,  Max-depth: 14,  no_expanded_nodes: 114,  Fringe-size: 392 ,  Elapsed time is 2409.9233 seconds.
+Node: 43,  Depth: 8,  Max-depth: 15,  no_expanded_nodes: 171,  Fringe-size: 347 ,  Elapsed time is 2422.3062 seconds.
+Node: 38,  Depth: 16,  Max-depth: 16,  no_expanded_nodes: 188,  Fringe-size: 357 ,  Elapsed time is 2425.9055 seconds.
+Node: 40,  Depth: 10,  Max-depth: 17,  no_expanded_nodes: 189,  Fringe-size: 335 ,  Elapsed time is 2426.1009 seconds.
+Node: 27,  Depth: 8,  Max-depth: 18,  no_expanded_nodes: 206,  Fringe-size: 363 ,  Elapsed time is 2429.513 seconds.
+Node: 38,  Depth: 19,  Max-depth: 19,  no_expanded_nodes: 236,  Fringe-size: 397 ,  Elapsed time is 2435.6835 seconds.
+Node: 14,  Depth: 10,  Max-depth: 20,  no_expanded_nodes: 237,  Fringe-size: 390 ,  Elapsed time is 2435.8643 seconds.
+Node: 14,  Depth: 11,  Max-depth: 21,  no_expanded_nodes: 267,  Fringe-size: 257 ,  Elapsed time is 2441.7787 seconds.
+Node: 21,  Depth: 22,  Max-depth: 22,  no_expanded_nodes: 276,  Fringe-size: 196 ,  Elapsed time is 2443.4812 seconds.
+Node: 13,  Depth: 23,  Max-depth: 23,  no_expanded_nodes: 277,  Fringe-size: 179 ,  Elapsed time is 2443.6468 seconds.
+Node: 9,  Depth: 20,  Max-depth: 24,  no_expanded_nodes: 278,  Fringe-size: 173 ,  Elapsed time is 2443.8072 seconds.
+Node: 13,  Depth: 25,  Max-depth: 25,  no_expanded_nodes: 286,  Fringe-size: 194 ,  Elapsed time is 2445.211 seconds.
+Node: 17,  Depth: 13,  Max-depth: 26,  no_expanded_nodes: 287,  Fringe-size: 195 ,  Elapsed time is 2445.3541 seconds.
+Node: 1,  Depth: 22,  Max-depth: 27,  no_expanded_nodes: 351,  Fringe-size: 306 ,  Elapsed time is 2457.658 seconds.
+Node: 21,  Depth: 12,  Max-depth: 28,  no_expanded_nodes: 412,  Fringe-size: 307 ,  Elapsed time is 2468.3832 seconds.
+Node: 23,  Depth: 26,  Max-depth: 29,  no_expanded_nodes: 488,  Fringe-size: 311 ,  Elapsed time is 2482.5303 seconds.
+Node: 22,  Depth: 30,  Max-depth: 30,  no_expanded_nodes: 583,  Fringe-size: 305 ,  Elapsed time is 2499.4613 seconds.
+Node: 3,  Depth: 31,  Max-depth: 31,  no_expanded_nodes: 584,  Fringe-size: 296 ,  Elapsed time is 2499.613 seconds.
+Node: 4,  Depth: 10,  Max-depth: 32,  no_expanded_nodes: 585,  Fringe-size: 289 ,  Elapsed time is 2499.7645 seconds.
+Node: 10,  Depth: 9,  Max-depth: 33,  no_expanded_nodes: 635,  Fringe-size: 228 ,  Elapsed time is 2507.7015 seconds.
+Node: 24,  Depth: 26,  Max-depth: 34,  no_expanded_nodes: 652,  Fringe-size: 293 ,  Elapsed time is 2510.2169 seconds.
+Node: 29,  Depth: 27,  Max-depth: 35,  no_expanded_nodes: 769,  Fringe-size: 411 ,  Elapsed time is 2530.3567 seconds.
+Node: 42,  Depth: 36,  Max-depth: 36,  no_expanded_nodes: 886,  Fringe-size: 379 ,  Elapsed time is 2548.3083 seconds.
+Node: 48,  Depth: 37,  Max-depth: 37,  no_expanded_nodes: 887,  Fringe-size: 370 ,  Elapsed time is 2548.416 seconds.
+Node: 5,  Depth: 38,  Max-depth: 38,  no_expanded_nodes: 888,  Fringe-size: 370 ,  Elapsed time is 2548.5233 seconds.
+Node: 25,  Depth: 31,  Max-depth: 39,  no_expanded_nodes: 889,  Fringe-size: 341 ,  Elapsed time is 2548.6391 seconds.
+Node: 29,  Depth: 40,  Max-depth: 40,  no_expanded_nodes: 1068,  Fringe-size: 262 ,  Elapsed time is 2574.9019 seconds.
+Node: 46,  Depth: 12,  Max-depth: 41,  no_expanded_nodes: 1069,  Fringe-size: 224 ,  Elapsed time is 2575.0002 seconds.
+Node: 5,  Depth: 39,  Max-depth: 42,  no_expanded_nodes: 1095,  Fringe-size: 246 ,  Elapsed time is 2579.1667 seconds.
+Node: 16,  Depth: 43,  Max-depth: 43,  no_expanded_nodes: 1156,  Fringe-size: 261 ,  Elapsed time is 2587.8248 seconds.
+Node: 22,  Depth: 44,  Max-depth: 44,  no_expanded_nodes: 1157,  Fringe-size: 263 ,  Elapsed time is 2587.918 seconds.
+Node: 3,  Depth: 45,  Max-depth: 45,  no_expanded_nodes: 1158,  Fringe-size: 257 ,  Elapsed time is 2588.0043 seconds.
+Node: 23,  Depth: 46,  Max-depth: 46,  no_expanded_nodes: 1159,  Fringe-size: 245 ,  Elapsed time is 2588.0851 seconds.
+Node: 11,  Depth: 47,  Max-depth: 47,  no_expanded_nodes: 1160,  Fringe-size: 238 ,  Elapsed time is 2588.1591 seconds.
+
+ans =
+
+       10663
+
+
+ans =
+
+  1×1 cell array
+
+    {'12'}
+
+Node: 21,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47 ,  Elapsed time is 2588.4163 seconds.
+Node: 47,  Depth: 2,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 78 ,  Elapsed time is 2588.6569 seconds.
+Node: 20,  Depth: 3,  Max-depth: 3,  no_expanded_nodes: 4,  Fringe-size: 77 ,  Elapsed time is 2588.8678 seconds.
+Node: 25,  Depth: 1,  Max-depth: 4,  no_expanded_nodes: 5,  Fringe-size: 100 ,  Elapsed time is 2589.0776 seconds.
+Node: 46,  Depth: 5,  Max-depth: 5,  no_expanded_nodes: 7,  Fringe-size: 126 ,  Elapsed time is 2589.5058 seconds.
+Node: 11,  Depth: 3,  Max-depth: 6,  no_expanded_nodes: 8,  Fringe-size: 137 ,  Elapsed time is 2589.7445 seconds.
+Node: 23,  Depth: 4,  Max-depth: 7,  no_expanded_nodes: 15,  Fringe-size: 168 ,  Elapsed time is 2591.2134 seconds.
+Node: 11,  Depth: 8,  Max-depth: 8,  no_expanded_nodes: 17,  Fringe-size: 144 ,  Elapsed time is 2591.6205 seconds.
+Node: 36,  Depth: 6,  Max-depth: 9,  no_expanded_nodes: 18,  Fringe-size: 159 ,  Elapsed time is 2591.835 seconds.
+Node: 32,  Depth: 2,  Max-depth: 10,  no_expanded_nodes: 20,  Fringe-size: 169 ,  Elapsed time is 2592.2414 seconds.
+Node: 28,  Depth: 7,  Max-depth: 11,  no_expanded_nodes: 40,  Fringe-size: 241 ,  Elapsed time is 2596.4315 seconds.
+Node: 32,  Depth: 2,  Max-depth: 12,  no_expanded_nodes: 82,  Fringe-size: 364 ,  Elapsed time is 2605.2535 seconds.
+Node: 6,  Depth: 13,  Max-depth: 13,  no_expanded_nodes: 104,  Fringe-size: 446 ,  Elapsed time is 2610.0224 seconds.
+Node: 28,  Depth: 14,  Max-depth: 14,  no_expanded_nodes: 105,  Fringe-size: 417 ,  Elapsed time is 2610.2239 seconds.
+Node: 7,  Depth: 15,  Max-depth: 15,  no_expanded_nodes: 106,  Fringe-size: 413 ,  Elapsed time is 2610.4333 seconds.
+Node: 18,  Depth: 16,  Max-depth: 16,  no_expanded_nodes: 107,  Fringe-size: 420 ,  Elapsed time is 2610.6345 seconds.
+Node: 44,  Depth: 17,  Max-depth: 17,  no_expanded_nodes: 108,  Fringe-size: 384 ,  Elapsed time is 2610.8204 seconds.
+Node: 31,  Depth: 18,  Max-depth: 18,  no_expanded_nodes: 109,  Fringe-size: 359 ,  Elapsed time is 2611.0021 seconds.
+Node: 38,  Depth: 19,  Max-depth: 19,  no_expanded_nodes: 110,  Fringe-size: 333 ,  Elapsed time is 2611.1794 seconds.
+Node: 33,  Depth: 7,  Max-depth: 20,  no_expanded_nodes: 111,  Fringe-size: 323 ,  Elapsed time is 2611.3482 seconds.
+Node: 15,  Depth: 11,  Max-depth: 21,  no_expanded_nodes: 143,  Fringe-size: 345 ,  Elapsed time is 2618.0094 seconds.
+Node: 15,  Depth: 22,  Max-depth: 22,  no_expanded_nodes: 193,  Fringe-size: 384 ,  Elapsed time is 2628.6262 seconds.
+Node: 12,  Depth: 23,  Max-depth: 23,  no_expanded_nodes: 194,  Fringe-size: 404 ,  Elapsed time is 2628.7861 seconds.
+Node: 11,  Depth: 24,  Max-depth: 24,  no_expanded_nodes: 195,  Fringe-size: 373 ,  Elapsed time is 2628.9645 seconds.
+Node: 34,  Depth: 6,  Max-depth: 25,  no_expanded_nodes: 196,  Fringe-size: 325 ,  Elapsed time is 2629.14 seconds.
+Node: 17,  Depth: 11,  Max-depth: 26,  no_expanded_nodes: 234,  Fringe-size: 328 ,  Elapsed time is 2636.8265 seconds.
+Node: 34,  Depth: 11,  Max-depth: 27,  no_expanded_nodes: 241,  Fringe-size: 338 ,  Elapsed time is 2638.0063 seconds.
+Node: 3,  Depth: 4,  Max-depth: 28,  no_expanded_nodes: 271,  Fringe-size: 334 ,  Elapsed time is 2644.1251 seconds.
+Node: 11,  Depth: 29,  Max-depth: 29,  no_expanded_nodes: 339,  Fringe-size: 378 ,  Elapsed time is 2657.6544 seconds.
+Node: 23,  Depth: 30,  Max-depth: 30,  no_expanded_nodes: 340,  Fringe-size: 350 ,  Elapsed time is 2657.7923 seconds.
+Node: 30,  Depth: 10,  Max-depth: 31,  no_expanded_nodes: 341,  Fringe-size: 339 ,  Elapsed time is 2657.9282 seconds.
+Node: 34,  Depth: 32,  Max-depth: 32,  no_expanded_nodes: 411,  Fringe-size: 327 ,  Elapsed time is 2671.5262 seconds.
+Node: 14,  Depth: 33,  Max-depth: 33,  no_expanded_nodes: 412,  Fringe-size: 296 ,  Elapsed time is 2671.6577 seconds.
+Node: 34,  Depth: 11,  Max-depth: 34,  no_expanded_nodes: 413,  Fringe-size: 301 ,  Elapsed time is 2671.7731 seconds.
+Node: 1,  Depth: 15,  Max-depth: 35,  no_expanded_nodes: 619,  Fringe-size: 260 ,  Elapsed time is 2710.4022 seconds.
+Node: 17,  Depth: 14,  Max-depth: 36,  no_expanded_nodes: 757,  Fringe-size: 173 ,  Elapsed time is 2733.3141 seconds.
+Node: 10,  Depth: 18,  Max-depth: 37,  no_expanded_nodes: 880,  Fringe-size: 148 ,  Elapsed time is 2752.1286 seconds.
+Node: 17,  Depth: 15,  Max-depth: 38,  no_expanded_nodes: 893,  Fringe-size: 152 ,  Elapsed time is 2754.0683 seconds.
+Node: 3,  Depth: 31,  Max-depth: 39,  no_expanded_nodes: 990,  Fringe-size: 156 ,  Elapsed time is 2767.2619 seconds.
+Node: 11,  Depth: 40,  Max-depth: 40,  no_expanded_nodes: 1003,  Fringe-size: 139 ,  Elapsed time is 2768.7557 seconds.
+Node: 5,  Depth: 37,  Max-depth: 41,  no_expanded_nodes: 1004,  Fringe-size: 140 ,  Elapsed time is 2768.8478 seconds.
+Node: 11,  Depth: 42,  Max-depth: 42,  no_expanded_nodes: 1030,  Fringe-size: 153 ,  Elapsed time is 2772.1219 seconds.
+Node: 42,  Depth: 37,  Max-depth: 43,  no_expanded_nodes: 1031,  Fringe-size: 152 ,  Elapsed time is 2772.2135 seconds.
+Node: 5,  Depth: 37,  Max-depth: 44,  no_expanded_nodes: 1046,  Fringe-size: 113 ,  Elapsed time is 2773.9011 seconds.
+Node: 39,  Depth: 45,  Max-depth: 45,  no_expanded_nodes: 1096,  Fringe-size: 133 ,  Elapsed time is 2779.7362 seconds.
+Node: 4,  Depth: 39,  Max-depth: 46,  no_expanded_nodes: 1097,  Fringe-size: 129 ,  Elapsed time is 2779.8164 seconds.
+Node: 14,  Depth: 47,  Max-depth: 47,  no_expanded_nodes: 1104,  Fringe-size: 118 ,  Elapsed time is 2780.5334 seconds.
+
+ans =
+
+       10699
+
+
+ans =
+
+  1×1 cell array
+
+    {'13'}
+
+Node: 23,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47 ,  Elapsed time is 2780.7958 seconds.
+Node: 11,  Depth: 2,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 64 ,  Elapsed time is 2781.022 seconds.
+Node: 12,  Depth: 3,  Max-depth: 3,  no_expanded_nodes: 4,  Fringe-size: 83 ,  Elapsed time is 2781.24 seconds.
+Node: 25,  Depth: 1,  Max-depth: 4,  no_expanded_nodes: 5,  Fringe-size: 107 ,  Elapsed time is 2781.4638 seconds.
+Node: 40,  Depth: 5,  Max-depth: 5,  no_expanded_nodes: 8,  Fringe-size: 129 ,  Elapsed time is 2782.1018 seconds.
+Node: 34,  Depth: 1,  Max-depth: 6,  no_expanded_nodes: 9,  Fringe-size: 136 ,  Elapsed time is 2782.3034 seconds.
+Node: 23,  Depth: 6,  Max-depth: 7,  no_expanded_nodes: 26,  Fringe-size: 182 ,  Elapsed time is 2785.8584 seconds.
+Node: 40,  Depth: 7,  Max-depth: 8,  no_expanded_nodes: 29,  Fringe-size: 205 ,  Elapsed time is 2786.4495 seconds.
+Node: 34,  Depth: 2,  Max-depth: 9,  no_expanded_nodes: 33,  Fringe-size: 220 ,  Elapsed time is 2787.2428 seconds.
+Node: 8,  Depth: 6,  Max-depth: 10,  no_expanded_nodes: 46,  Fringe-size: 336 ,  Elapsed time is 2789.9325 seconds.
+Node: 8,  Depth: 7,  Max-depth: 11,  no_expanded_nodes: 53,  Fringe-size: 348 ,  Elapsed time is 2791.3924 seconds.
+Node: 13,  Depth: 5,  Max-depth: 12,  no_expanded_nodes: 94,  Fringe-size: 419 ,  Elapsed time is 2800.3417 seconds.
+Node: 13,  Depth: 6,  Max-depth: 13,  no_expanded_nodes: 106,  Fringe-size: 381 ,  Elapsed time is 2802.8498 seconds.
+Node: 38,  Depth: 14,  Max-depth: 14,  no_expanded_nodes: 134,  Fringe-size: 440 ,  Elapsed time is 2808.8275 seconds.
+Node: 31,  Depth: 15,  Max-depth: 15,  no_expanded_nodes: 135,  Fringe-size: 430 ,  Elapsed time is 2809.0203 seconds.
+Node: 20,  Depth: 8,  Max-depth: 16,  no_expanded_nodes: 136,  Fringe-size: 433 ,  Elapsed time is 2809.2238 seconds.
+Node: 36,  Depth: 12,  Max-depth: 17,  no_expanded_nodes: 167,  Fringe-size: 455 ,  Elapsed time is 2815.5839 seconds.
+Node: 7,  Depth: 18,  Max-depth: 18,  no_expanded_nodes: 176,  Fringe-size: 499 ,  Elapsed time is 2817.3651 seconds.
+Node: 30,  Depth: 8,  Max-depth: 19,  no_expanded_nodes: 177,  Fringe-size: 516 ,  Elapsed time is 2817.547 seconds.
+Node: 33,  Depth: 11,  Max-depth: 20,  no_expanded_nodes: 263,  Fringe-size: 434 ,  Elapsed time is 2836.1006 seconds.
+Node: 36,  Depth: 21,  Max-depth: 21,  no_expanded_nodes: 313,  Fringe-size: 426 ,  Elapsed time is 2846.7215 seconds.
+Node: 46,  Depth: 22,  Max-depth: 22,  no_expanded_nodes: 314,  Fringe-size: 353 ,  Elapsed time is 2846.9164 seconds.
+Node: 8,  Depth: 9,  Max-depth: 23,  no_expanded_nodes: 315,  Fringe-size: 339 ,  Elapsed time is 2847.0856 seconds.
+Node: 9,  Depth: 20,  Max-depth: 24,  no_expanded_nodes: 323,  Fringe-size: 354 ,  Elapsed time is 2848.6349 seconds.
+Node: 12,  Depth: 10,  Max-depth: 25,  no_expanded_nodes: 365,  Fringe-size: 335 ,  Elapsed time is 2856.8807 seconds.
+Node: 21,  Depth: 26,  Max-depth: 26,  no_expanded_nodes: 386,  Fringe-size: 212 ,  Elapsed time is 2860.9999 seconds.
+Node: 39,  Depth: 11,  Max-depth: 27,  no_expanded_nodes: 387,  Fringe-size: 199 ,  Elapsed time is 2861.1438 seconds.
+Node: 12,  Depth: 26,  Max-depth: 28,  no_expanded_nodes: 427,  Fringe-size: 276 ,  Elapsed time is 2868.6056 seconds.
+Node: 34,  Depth: 8,  Max-depth: 29,  no_expanded_nodes: 452,  Fringe-size: 272 ,  Elapsed time is 2872.6798 seconds.
+Node: 20,  Depth: 30,  Max-depth: 30,  no_expanded_nodes: 467,  Fringe-size: 319 ,  Elapsed time is 2875.3817 seconds.
+Node: 47,  Depth: 31,  Max-depth: 31,  no_expanded_nodes: 468,  Fringe-size: 304 ,  Elapsed time is 2875.5147 seconds.
+Node: 21,  Depth: 32,  Max-depth: 32,  no_expanded_nodes: 469,  Fringe-size: 244 ,  Elapsed time is 2875.6479 seconds.
+Node: 13,  Depth: 33,  Max-depth: 33,  no_expanded_nodes: 470,  Fringe-size: 206 ,  Elapsed time is 2875.7733 seconds.
+Node: 12,  Depth: 10,  Max-depth: 34,  no_expanded_nodes: 471,  Fringe-size: 213 ,  Elapsed time is 2875.8903 seconds.
+Node: 42,  Depth: 10,  Max-depth: 35,  no_expanded_nodes: 586,  Fringe-size: 170 ,  Elapsed time is 2895.2429 seconds.
+Node: 10,  Depth: 11,  Max-depth: 36,  no_expanded_nodes: 606,  Fringe-size: 154 ,  Elapsed time is 2898.313 seconds.
+Node: 29,  Depth: 28,  Max-depth: 37,  no_expanded_nodes: 691,  Fringe-size: 162 ,  Elapsed time is 2912.8636 seconds.
+Node: 9,  Depth: 21,  Max-depth: 38,  no_expanded_nodes: 705,  Fringe-size: 172 ,  Elapsed time is 2915.4378 seconds.
+Node: 29,  Depth: 35,  Max-depth: 39,  no_expanded_nodes: 795,  Fringe-size: 201 ,  Elapsed time is 2929.1908 seconds.
+Node: 42,  Depth: 40,  Max-depth: 40,  no_expanded_nodes: 854,  Fringe-size: 133 ,  Elapsed time is 2936.2638 seconds.
+Node: 25,  Depth: 36,  Max-depth: 41,  no_expanded_nodes: 855,  Fringe-size: 121 ,  Elapsed time is 2936.3645 seconds.
+Node: 5,  Depth: 36,  Max-depth: 42,  no_expanded_nodes: 870,  Fringe-size: 121 ,  Elapsed time is 2938.0508 seconds.
+Node: 19,  Depth: 31,  Max-depth: 43,  no_expanded_nodes: 885,  Fringe-size: 145 ,  Elapsed time is 2939.8741 seconds.
+Node: 48,  Depth: 44,  Max-depth: 44,  no_expanded_nodes: 928,  Fringe-size: 151 ,  Elapsed time is 2944.7683 seconds.
+Node: 39,  Depth: 45,  Max-depth: 45,  no_expanded_nodes: 929,  Fringe-size: 136 ,  Elapsed time is 2944.8486 seconds.
+Node: 8,  Depth: 24,  Max-depth: 46,  no_expanded_nodes: 930,  Fringe-size: 126 ,  Elapsed time is 2944.9259 seconds.
+Node: 13,  Depth: 47,  Max-depth: 47,  no_expanded_nodes: 965,  Fringe-size: 98 ,  Elapsed time is 2948.6913 seconds.
+
+ans =
+
+       10829
+
+
+ans =
+
+  1×1 cell array
+
+    {'14'}
+
+Node: 40,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47 ,  Elapsed time is 2948.9562 seconds.
+Node: 46,  Depth: 1,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 65 ,  Elapsed time is 2949.1665 seconds.
+Node: 12,  Depth: 1,  Max-depth: 3,  no_expanded_nodes: 5,  Fringe-size: 85 ,  Elapsed time is 2949.5868 seconds.
+Node: 20,  Depth: 3,  Max-depth: 4,  no_expanded_nodes: 8,  Fringe-size: 100 ,  Elapsed time is 2950.2039 seconds.
+Node: 21,  Depth: 5,  Max-depth: 5,  no_expanded_nodes: 11,  Fringe-size: 131 ,  Elapsed time is 2950.8394 seconds.
+Node: 13,  Depth: 6,  Max-depth: 6,  no_expanded_nodes: 12,  Fringe-size: 149 ,  Elapsed time is 2951.041 seconds.
+Node: 14,  Depth: 4,  Max-depth: 7,  no_expanded_nodes: 13,  Fringe-size: 160 ,  Elapsed time is 2951.2408 seconds.
+Node: 25,  Depth: 5,  Max-depth: 8,  no_expanded_nodes: 33,  Fringe-size: 247 ,  Elapsed time is 2955.5475 seconds.
+Node: 22,  Depth: 3,  Max-depth: 9,  no_expanded_nodes: 50,  Fringe-size: 273 ,  Elapsed time is 2959.0148 seconds.
+Node: 3,  Depth: 3,  Max-depth: 10,  no_expanded_nodes: 67,  Fringe-size: 317 ,  Elapsed time is 2962.5518 seconds.
+Node: 32,  Depth: 7,  Max-depth: 11,  no_expanded_nodes: 114,  Fringe-size: 334 ,  Elapsed time is 2972.5725 seconds.
+Node: 30,  Depth: 9,  Max-depth: 12,  no_expanded_nodes: 143,  Fringe-size: 422 ,  Elapsed time is 2978.5597 seconds.
+Node: 39,  Depth: 7,  Max-depth: 13,  no_expanded_nodes: 166,  Fringe-size: 411 ,  Elapsed time is 2983.3434 seconds.
+Node: 30,  Depth: 11,  Max-depth: 14,  no_expanded_nodes: 187,  Fringe-size: 646 ,  Elapsed time is 2987.932 seconds.
+Node: 30,  Depth: 15,  Max-depth: 15,  no_expanded_nodes: 196,  Fringe-size: 489 ,  Elapsed time is 2989.9149 seconds.
+Node: 36,  Depth: 16,  Max-depth: 16,  no_expanded_nodes: 197,  Fringe-size: 408 ,  Elapsed time is 2990.1181 seconds.
+Node: 46,  Depth: 17,  Max-depth: 17,  no_expanded_nodes: 198,  Fringe-size: 367 ,  Elapsed time is 2990.2981 seconds.
+Node: 41,  Depth: 6,  Max-depth: 18,  no_expanded_nodes: 199,  Fringe-size: 358 ,  Elapsed time is 2990.4681 seconds.
+Node: 11,  Depth: 7,  Max-depth: 19,  no_expanded_nodes: 212,  Fringe-size: 279 ,  Elapsed time is 2993.1151 seconds.
+Node: 28,  Depth: 13,  Max-depth: 20,  no_expanded_nodes: 240,  Fringe-size: 369 ,  Elapsed time is 2998.452 seconds.
+Node: 44,  Depth: 12,  Max-depth: 21,  no_expanded_nodes: 251,  Fringe-size: 324 ,  Elapsed time is 3000.6471 seconds.
+Node: 13,  Depth: 22,  Max-depth: 22,  no_expanded_nodes: 273,  Fringe-size: 244 ,  Elapsed time is 3004.883 seconds.
+Node: 25,  Depth: 9,  Max-depth: 23,  no_expanded_nodes: 274,  Fringe-size: 237 ,  Elapsed time is 3005.0448 seconds.
+Node: 13,  Depth: 24,  Max-depth: 24,  no_expanded_nodes: 311,  Fringe-size: 316 ,  Elapsed time is 3012.1976 seconds.
+Node: 18,  Depth: 14,  Max-depth: 25,  no_expanded_nodes: 312,  Fringe-size: 312 ,  Elapsed time is 3012.3599 seconds.
+Node: 12,  Depth: 14,  Max-depth: 26,  no_expanded_nodes: 401,  Fringe-size: 326 ,  Elapsed time is 3029.155 seconds.
+Node: 13,  Depth: 27,  Max-depth: 27,  no_expanded_nodes: 406,  Fringe-size: 307 ,  Elapsed time is 3030.0539 seconds.
+Node: 27,  Depth: 18,  Max-depth: 28,  no_expanded_nodes: 407,  Fringe-size: 312 ,  Elapsed time is 3030.2073 seconds.
+Node: 39,  Depth: 25,  Max-depth: 29,  no_expanded_nodes: 507,  Fringe-size: 329 ,  Elapsed time is 3047.7929 seconds.
+Node: 9,  Depth: 15,  Max-depth: 30,  no_expanded_nodes: 588,  Fringe-size: 264 ,  Elapsed time is 3061.3144 seconds.
+Node: 13,  Depth: 31,  Max-depth: 31,  no_expanded_nodes: 647,  Fringe-size: 286 ,  Elapsed time is 3071.0119 seconds.
+Node: 2,  Depth: 12,  Max-depth: 32,  no_expanded_nodes: 648,  Fringe-size: 295 ,  Elapsed time is 3071.1362 seconds.
+Node: 45,  Depth: 19,  Max-depth: 33,  no_expanded_nodes: 785,  Fringe-size: 362 ,  Elapsed time is 3092.0836 seconds.
+Node: 13,  Depth: 32,  Max-depth: 34,  no_expanded_nodes: 926,  Fringe-size: 289 ,  Elapsed time is 3112.0903 seconds.
+Node: 11,  Depth: 29,  Max-depth: 35,  no_expanded_nodes: 996,  Fringe-size: 221 ,  Elapsed time is 3121.3369 seconds.
+Node: 48,  Depth: 36,  Max-depth: 36,  no_expanded_nodes: 1016,  Fringe-size: 241 ,  Elapsed time is 3123.9305 seconds.
+Node: 5,  Depth: 37,  Max-depth: 37,  no_expanded_nodes: 1017,  Fringe-size: 242 ,  Elapsed time is 3124.0447 seconds.
+Node: 28,  Depth: 23,  Max-depth: 38,  no_expanded_nodes: 1018,  Fringe-size: 233 ,  Elapsed time is 3124.1497 seconds.
+Node: 25,  Depth: 33,  Max-depth: 39,  no_expanded_nodes: 1058,  Fringe-size: 225 ,  Elapsed time is 3129.2641 seconds.
+Node: 32,  Depth: 34,  Max-depth: 40,  no_expanded_nodes: 1135,  Fringe-size: 245 ,  Elapsed time is 3139.0607 seconds.
+Node: 40,  Depth: 30,  Max-depth: 41,  no_expanded_nodes: 1190,  Fringe-size: 230 ,  Elapsed time is 3145.8435 seconds.
+Node: 18,  Depth: 20,  Max-depth: 42,  no_expanded_nodes: 1217,  Fringe-size: 286 ,  Elapsed time is 3149.4536 seconds.
+Node: 22,  Depth: 43,  Max-depth: 43,  no_expanded_nodes: 1223,  Fringe-size: 288 ,  Elapsed time is 3150.1922 seconds.
+Node: 3,  Depth: 44,  Max-depth: 44,  no_expanded_nodes: 1224,  Fringe-size: 273 ,  Elapsed time is 3150.2839 seconds.
+Node: 23,  Depth: 45,  Max-depth: 45,  no_expanded_nodes: 1225,  Fringe-size: 265 ,  Elapsed time is 3150.3812 seconds.
+Node: 11,  Depth: 46,  Max-depth: 46,  no_expanded_nodes: 1226,  Fringe-size: 260 ,  Elapsed time is 3150.459 seconds.
+Node: 12,  Depth: 47,  Max-depth: 47,  no_expanded_nodes: 1227,  Fringe-size: 248 ,  Elapsed time is 3150.5326 seconds.
+
+ans =
+
+       10700
+
+
+ans =
+
+  1×1 cell array
+
+    {'15'}
+
+Node: 3,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47 ,  Elapsed time is 3150.796 seconds.
+Node: 22,  Depth: 1,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 54 ,  Elapsed time is 3151.0231 seconds.
+Node: 23,  Depth: 3,  Max-depth: 3,  no_expanded_nodes: 5,  Fringe-size: 60 ,  Elapsed time is 3151.4603 seconds.
+Node: 41,  Depth: 1,  Max-depth: 4,  no_expanded_nodes: 6,  Fringe-size: 91 ,  Elapsed time is 3151.6636 seconds.
+Node: 12,  Depth: 5,  Max-depth: 5,  no_expanded_nodes: 11,  Fringe-size: 101 ,  Elapsed time is 3152.6967 seconds.
+Node: 8,  Depth: 1,  Max-depth: 6,  no_expanded_nodes: 12,  Fringe-size: 121 ,  Elapsed time is 3152.8916 seconds.
+Node: 9,  Depth: 3,  Max-depth: 7,  no_expanded_nodes: 26,  Fringe-size: 275 ,  Elapsed time is 3155.7607 seconds.
+Node: 11,  Depth: 7,  Max-depth: 8,  no_expanded_nodes: 39,  Fringe-size: 240 ,  Elapsed time is 3158.4998 seconds.
+Node: 44,  Depth: 6,  Max-depth: 9,  no_expanded_nodes: 41,  Fringe-size: 256 ,  Elapsed time is 3158.9133 seconds.
+Node: 41,  Depth: 3,  Max-depth: 10,  no_expanded_nodes: 49,  Fringe-size: 418 ,  Elapsed time is 3160.7372 seconds.
+Node: 36,  Depth: 7,  Max-depth: 11,  no_expanded_nodes: 57,  Fringe-size: 310 ,  Elapsed time is 3163.0409 seconds.
+Node: 19,  Depth: 12,  Max-depth: 12,  no_expanded_nodes: 123,  Fringe-size: 607 ,  Elapsed time is 3177.4587 seconds.
+Node: 30,  Depth: 10,  Max-depth: 13,  no_expanded_nodes: 124,  Fringe-size: 614 ,  Elapsed time is 3177.6601 seconds.
+Node: 30,  Depth: 11,  Max-depth: 14,  no_expanded_nodes: 135,  Fringe-size: 625 ,  Elapsed time is 3179.951 seconds.
+Node: 47,  Depth: 8,  Max-depth: 15,  no_expanded_nodes: 162,  Fringe-size: 516 ,  Elapsed time is 3185.638 seconds.
+Node: 30,  Depth: 16,  Max-depth: 16,  no_expanded_nodes: 188,  Fringe-size: 415 ,  Elapsed time is 3191.1963 seconds.
+Node: 36,  Depth: 17,  Max-depth: 17,  no_expanded_nodes: 189,  Fringe-size: 385 ,  Elapsed time is 3191.3886 seconds.
+Node: 46,  Depth: 18,  Max-depth: 18,  no_expanded_nodes: 190,  Fringe-size: 350 ,  Elapsed time is 3191.5748 seconds.
+Node: 12,  Depth: 8,  Max-depth: 19,  no_expanded_nodes: 191,  Fringe-size: 342 ,  Elapsed time is 3191.7486 seconds.
+Node: 6,  Depth: 11,  Max-depth: 20,  no_expanded_nodes: 198,  Fringe-size: 422 ,  Elapsed time is 3193.0455 seconds.
+Node: 7,  Depth: 15,  Max-depth: 21,  no_expanded_nodes: 210,  Fringe-size: 407 ,  Elapsed time is 3195.5724 seconds.
+Node: 6,  Depth: 12,  Max-depth: 22,  no_expanded_nodes: 254,  Fringe-size: 419 ,  Elapsed time is 3204.4494 seconds.
+Node: 13,  Depth: 23,  Max-depth: 23,  no_expanded_nodes: 278,  Fringe-size: 283 ,  Elapsed time is 3209.1494 seconds.
+Node: 11,  Depth: 12,  Max-depth: 24,  no_expanded_nodes: 279,  Fringe-size: 286 ,  Elapsed time is 3209.3014 seconds.
+Node: 1,  Depth: 12,  Max-depth: 25,  no_expanded_nodes: 286,  Fringe-size: 324 ,  Elapsed time is 3210.4972 seconds.
+Node: 47,  Depth: 24,  Max-depth: 26,  no_expanded_nodes: 391,  Fringe-size: 352 ,  Elapsed time is 3230.1249 seconds.
+Node: 17,  Depth: 16,  Max-depth: 27,  no_expanded_nodes: 395,  Fringe-size: 366 ,  Elapsed time is 3230.7036 seconds.
+Node: 23,  Depth: 24,  Max-depth: 28,  no_expanded_nodes: 404,  Fringe-size: 384 ,  Elapsed time is 3232.1533 seconds.
+Node: 21,  Depth: 29,  Max-depth: 29,  no_expanded_nodes: 435,  Fringe-size: 434 ,  Elapsed time is 3237.582 seconds.
+Node: 13,  Depth: 30,  Max-depth: 30,  no_expanded_nodes: 436,  Fringe-size: 397 ,  Elapsed time is 3237.721 seconds.
+Node: 25,  Depth: 25,  Max-depth: 31,  no_expanded_nodes: 437,  Fringe-size: 397 ,  Elapsed time is 3237.8525 seconds.
+Node: 1,  Depth: 13,  Max-depth: 32,  no_expanded_nodes: 531,  Fringe-size: 422 ,  Elapsed time is 3255.0063 seconds.
+Node: 48,  Depth: 26,  Max-depth: 33,  no_expanded_nodes: 561,  Fringe-size: 318 ,  Elapsed time is 3259.9242 seconds.
+Node: 48,  Depth: 32,  Max-depth: 34,  no_expanded_nodes: 676,  Fringe-size: 353 ,  Elapsed time is 3279.4752 seconds.
+Node: 48,  Depth: 35,  Max-depth: 35,  no_expanded_nodes: 768,  Fringe-size: 269 ,  Elapsed time is 3294.1704 seconds.
+Node: 13,  Depth: 30,  Max-depth: 36,  no_expanded_nodes: 769,  Fringe-size: 276 ,  Elapsed time is 3294.2782 seconds.
+Node: 10,  Depth: 14,  Max-depth: 37,  no_expanded_nodes: 875,  Fringe-size: 258 ,  Elapsed time is 3310.8017 seconds.
+Node: 13,  Depth: 35,  Max-depth: 38,  no_expanded_nodes: 1077,  Fringe-size: 350 ,  Elapsed time is 3342.0104 seconds.
+Node: 28,  Depth: 21,  Max-depth: 39,  no_expanded_nodes: 1159,  Fringe-size: 302 ,  Elapsed time is 3352.7358 seconds.
+Node: 26,  Depth: 40,  Max-depth: 40,  no_expanded_nodes: 1173,  Fringe-size: 315 ,  Elapsed time is 3354.5299 seconds.
+Node: 42,  Depth: 41,  Max-depth: 41,  no_expanded_nodes: 1174,  Fringe-size: 293 ,  Elapsed time is 3354.6323 seconds.
+Node: 48,  Depth: 42,  Max-depth: 42,  no_expanded_nodes: 1175,  Fringe-size: 282 ,  Elapsed time is 3354.733 seconds.
+Node: 5,  Depth: 43,  Max-depth: 43,  no_expanded_nodes: 1176,  Fringe-size: 284 ,  Elapsed time is 3354.8279 seconds.
+Node: 41,  Depth: 28,  Max-depth: 44,  no_expanded_nodes: 1177,  Fringe-size: 278 ,  Elapsed time is 3354.9158 seconds.
+Node: 29,  Depth: 45,  Max-depth: 45,  no_expanded_nodes: 1319,  Fringe-size: 241 ,  Elapsed time is 3372.4654 seconds.
+Node: 34,  Depth: 46,  Max-depth: 46,  no_expanded_nodes: 1320,  Fringe-size: 232 ,  Elapsed time is 3372.542 seconds.
+Node: 41,  Depth: 47,  Max-depth: 47,  no_expanded_nodes: 1321,  Fringe-size: 226 ,  Elapsed time is 3372.6135 seconds.
+
+ans =
+
+       10653
+
+
+ans =
+
+  1×1 cell array
+
+    {'16'}
+
+Node: 43,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47 ,  Elapsed time is 3372.8623 seconds.
+Node: 27,  Depth: 2,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 48 ,  Elapsed time is 3373.0702 seconds.
+Node: 30,  Depth: 2,  Max-depth: 3,  no_expanded_nodes: 4,  Fringe-size: 90 ,  Elapsed time is 3373.282 seconds.
+Node: 30,  Depth: 3,  Max-depth: 4,  no_expanded_nodes: 8,  Fringe-size: 114 ,  Elapsed time is 3374.1376 seconds.
+Node: 37,  Depth: 3,  Max-depth: 5,  no_expanded_nodes: 14,  Fringe-size: 200 ,  Elapsed time is 3375.4302 seconds.
+Node: 37,  Depth: 4,  Max-depth: 6,  no_expanded_nodes: 19,  Fringe-size: 179 ,  Elapsed time is 3376.5273 seconds.
+Node: 7,  Depth: 7,  Max-depth: 7,  no_expanded_nodes: 44,  Fringe-size: 280 ,  Elapsed time is 3381.9771 seconds.
+Node: 36,  Depth: 5,  Max-depth: 8,  no_expanded_nodes: 45,  Fringe-size: 297 ,  Elapsed time is 3382.1876 seconds.
+Node: 37,  Depth: 5,  Max-depth: 9,  no_expanded_nodes: 64,  Fringe-size: 325 ,  Elapsed time is 3386.2944 seconds.
+Node: 6,  Depth: 6,  Max-depth: 10,  no_expanded_nodes: 89,  Fringe-size: 176 ,  Elapsed time is 3391.5847 seconds.
+Node: 44,  Depth: 9,  Max-depth: 11,  no_expanded_nodes: 107,  Fringe-size: 219 ,  Elapsed time is 3395.2502 seconds.
+Node: 6,  Depth: 6,  Max-depth: 12,  no_expanded_nodes: 110,  Fringe-size: 235 ,  Elapsed time is 3395.8098 seconds.
+Node: 27,  Depth: 5,  Max-depth: 13,  no_expanded_nodes: 131,  Fringe-size: 293 ,  Elapsed time is 3400.0012 seconds.
+Node: 40,  Depth: 13,  Max-depth: 14,  no_expanded_nodes: 181,  Fringe-size: 350 ,  Elapsed time is 3409.8213 seconds.
+Node: 15,  Depth: 14,  Max-depth: 15,  no_expanded_nodes: 193,  Fringe-size: 363 ,  Elapsed time is 3412.1956 seconds.
+Node: 11,  Depth: 12,  Max-depth: 16,  no_expanded_nodes: 229,  Fringe-size: 444 ,  Elapsed time is 3419.3997 seconds.
+Node: 18,  Depth: 9,  Max-depth: 17,  no_expanded_nodes: 246,  Fringe-size: 396 ,  Elapsed time is 3422.69 seconds.
+Node: 6,  Depth: 7,  Max-depth: 18,  no_expanded_nodes: 312,  Fringe-size: 487 ,  Elapsed time is 3435.6827 seconds.
+Node: 32,  Depth: 10,  Max-depth: 19,  no_expanded_nodes: 337,  Fringe-size: 497 ,  Elapsed time is 3440.493 seconds.
+Node: 12,  Depth: 20,  Max-depth: 20,  no_expanded_nodes: 404,  Fringe-size: 640 ,  Elapsed time is 3453.8618 seconds.
+Node: 7,  Depth: 10,  Max-depth: 21,  no_expanded_nodes: 405,  Fringe-size: 659 ,  Elapsed time is 3454.0328 seconds.
+Node: 12,  Depth: 22,  Max-depth: 22,  no_expanded_nodes: 620,  Fringe-size: 689 ,  Elapsed time is 3497.289 seconds.
+Node: 41,  Depth: 18,  Max-depth: 23,  no_expanded_nodes: 621,  Fringe-size: 668 ,  Elapsed time is 3497.4673 seconds.
+Node: 47,  Depth: 19,  Max-depth: 24,  no_expanded_nodes: 653,  Fringe-size: 561 ,  Elapsed time is 3503.398 seconds.
+Node: 13,  Depth: 25,  Max-depth: 25,  no_expanded_nodes: 747,  Fringe-size: 596 ,  Elapsed time is 3521.184 seconds.
+Node: 40,  Depth: 18,  Max-depth: 26,  no_expanded_nodes: 748,  Fringe-size: 597 ,  Elapsed time is 3521.3358 seconds.
+Node: 1,  Depth: 16,  Max-depth: 27,  no_expanded_nodes: 1202,  Fringe-size: 993 ,  Elapsed time is 3610.9961 seconds.
+Node: 9,  Depth: 19,  Max-depth: 28,  no_expanded_nodes: 1587,  Fringe-size: 909 ,  Elapsed time is 3685.9438 seconds.
+Node: 14,  Depth: 29,  Max-depth: 29,  no_expanded_nodes: 1765,  Fringe-size: 731 ,  Elapsed time is 3719.8427 seconds.
+Node: 20,  Depth: 23,  Max-depth: 30,  no_expanded_nodes: 1766,  Fringe-size: 731 ,  Elapsed time is 3719.9833 seconds.
+Node: 13,  Depth: 31,  Max-depth: 31,  no_expanded_nodes: 1992,  Fringe-size: 785 ,  Elapsed time is 3761.6104 seconds.
+Node: 6,  Depth: 19,  Max-depth: 32,  no_expanded_nodes: 1993,  Fringe-size: 786 ,  Elapsed time is 3761.7516 seconds.
+Node: 32,  Depth: 22,  Max-depth: 33,  no_expanded_nodes: 2642,  Fringe-size: 514 ,  Elapsed time is 3877.083 seconds.
+Node: 40,  Depth: 34,  Max-depth: 34,  no_expanded_nodes: 2931,  Fringe-size: 501 ,  Elapsed time is 3923.1498 seconds.
+Node: 25,  Depth: 28,  Max-depth: 35,  no_expanded_nodes: 2932,  Fringe-size: 497 ,  Elapsed time is 3923.2689 seconds.
+Node: 14,  Depth: 25,  Max-depth: 36,  no_expanded_nodes: 3176,  Fringe-size: 544 ,  Elapsed time is 3961.2092 seconds.
+Node: 8,  Depth: 37,  Max-depth: 37,  no_expanded_nodes: 3217,  Fringe-size: 626 ,  Elapsed time is 3967.5843 seconds.
+Node: 38,  Depth: 38,  Max-depth: 38,  no_expanded_nodes: 3218,  Fringe-size: 598 ,  Elapsed time is 3967.7021 seconds.
+Node: 31,  Depth: 39,  Max-depth: 39,  no_expanded_nodes: 3219,  Fringe-size: 571 ,  Elapsed time is 3967.8125 seconds.
+Node: 44,  Depth: 40,  Max-depth: 40,  no_expanded_nodes: 3220,  Fringe-size: 555 ,  Elapsed time is 3967.9208 seconds.
+Node: 18,  Depth: 41,  Max-depth: 41,  no_expanded_nodes: 3221,  Fringe-size: 543 ,  Elapsed time is 3968.0208 seconds.
+Node: 7,  Depth: 42,  Max-depth: 42,  no_expanded_nodes: 3222,  Fringe-size: 540 ,  Elapsed time is 3968.1216 seconds.
+Node: 28,  Depth: 43,  Max-depth: 43,  no_expanded_nodes: 3223,  Fringe-size: 533 ,  Elapsed time is 3968.2161 seconds.
+Node: 6,  Depth: 44,  Max-depth: 44,  no_expanded_nodes: 3224,  Fringe-size: 530 ,  Elapsed time is 3968.2992 seconds.
+Node: 37,  Depth: 45,  Max-depth: 45,  no_expanded_nodes: 3225,  Fringe-size: 523 ,  Elapsed time is 3968.3912 seconds.
+Node: 19,  Depth: 46,  Max-depth: 46,  no_expanded_nodes: 3226,  Fringe-size: 521 ,  Elapsed time is 3968.4718 seconds.
+Node: 27,  Depth: 47,  Max-depth: 47,  no_expanded_nodes: 3227,  Fringe-size: 518 ,  Elapsed time is 3968.549 seconds.
+
+ans =
+
+       10648
+
+
+ans =
+
+  1×1 cell array
+
+    {'17'}
+
+Node: 36,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47 ,  Elapsed time is 3968.7966 seconds.
+Node: 7,  Depth: 1,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 55 ,  Elapsed time is 3969.0031 seconds.
+Node: 30,  Depth: 2,  Max-depth: 3,  no_expanded_nodes: 5,  Fringe-size: 106 ,  Elapsed time is 3969.4258 seconds.
+Node: 43,  Depth: 3,  Max-depth: 4,  no_expanded_nodes: 11,  Fringe-size: 85 ,  Elapsed time is 3970.6737 seconds.
+Node: 37,  Depth: 3,  Max-depth: 5,  no_expanded_nodes: 17,  Fringe-size: 101 ,  Elapsed time is 3971.892 seconds.
+Node: 19,  Depth: 6,  Max-depth: 6,  no_expanded_nodes: 27,  Fringe-size: 173 ,  Elapsed time is 3973.9279 seconds.
+Node: 37,  Depth: 7,  Max-depth: 7,  no_expanded_nodes: 28,  Fringe-size: 203 ,  Elapsed time is 3974.1229 seconds.
+Node: 6,  Depth: 8,  Max-depth: 8,  no_expanded_nodes: 29,  Fringe-size: 173 ,  Elapsed time is 3974.3169 seconds.
+Node: 28,  Depth: 9,  Max-depth: 9,  no_expanded_nodes: 30,  Fringe-size: 146 ,  Elapsed time is 3974.5054 seconds.
+Node: 43,  Depth: 4,  Max-depth: 10,  no_expanded_nodes: 31,  Fringe-size: 148 ,  Elapsed time is 3974.7152 seconds.
+Node: 15,  Depth: 6,  Max-depth: 11,  no_expanded_nodes: 48,  Fringe-size: 153 ,  Elapsed time is 3978.1131 seconds.
+Node: 33,  Depth: 5,  Max-depth: 12,  no_expanded_nodes: 115,  Fringe-size: 348 ,  Elapsed time is 3991.9415 seconds.
+Node: 40,  Depth: 10,  Max-depth: 13,  no_expanded_nodes: 128,  Fringe-size: 327 ,  Elapsed time is 3994.6702 seconds.
+Node: 15,  Depth: 11,  Max-depth: 14,  no_expanded_nodes: 137,  Fringe-size: 419 ,  Elapsed time is 3996.5458 seconds.
+Node: 17,  Depth: 5,  Max-depth: 15,  no_expanded_nodes: 172,  Fringe-size: 425 ,  Elapsed time is 4003.8408 seconds.
+Node: 13,  Depth: 16,  Max-depth: 16,  no_expanded_nodes: 242,  Fringe-size: 402 ,  Elapsed time is 4018.3589 seconds.
+Node: 23,  Depth: 11,  Max-depth: 17,  no_expanded_nodes: 243,  Fringe-size: 396 ,  Elapsed time is 4018.5314 seconds.
+Node: 47,  Depth: 15,  Max-depth: 18,  no_expanded_nodes: 315,  Fringe-size: 465 ,  Elapsed time is 4033.0935 seconds.
+Node: 46,  Depth: 14,  Max-depth: 19,  no_expanded_nodes: 330,  Fringe-size: 438 ,  Elapsed time is 4035.9614 seconds.
+Node: 16,  Depth: 17,  Max-depth: 20,  no_expanded_nodes: 379,  Fringe-size: 399 ,  Elapsed time is 4045.7666 seconds.
+Node: 23,  Depth: 20,  Max-depth: 21,  no_expanded_nodes: 428,  Fringe-size: 570 ,  Elapsed time is 4055.4404 seconds.
+Node: 12,  Depth: 22,  Max-depth: 22,  no_expanded_nodes: 448,  Fringe-size: 500 ,  Elapsed time is 4059.6029 seconds.
+Node: 40,  Depth: 20,  Max-depth: 23,  no_expanded_nodes: 449,  Fringe-size: 520 ,  Elapsed time is 4059.7705 seconds.
+Node: 12,  Depth: 24,  Max-depth: 24,  no_expanded_nodes: 608,  Fringe-size: 621 ,  Elapsed time is 4090.8426 seconds.
+Node: 14,  Depth: 22,  Max-depth: 25,  no_expanded_nodes: 609,  Fringe-size: 604 ,  Elapsed time is 4091.0054 seconds.
+Node: 34,  Depth: 26,  Max-depth: 26,  no_expanded_nodes: 705,  Fringe-size: 499 ,  Elapsed time is 4109.0659 seconds.
+Node: 14,  Depth: 27,  Max-depth: 27,  no_expanded_nodes: 706,  Fringe-size: 443 ,  Elapsed time is 4109.2207 seconds.
+Node: 25,  Depth: 18,  Max-depth: 28,  no_expanded_nodes: 707,  Fringe-size: 442 ,  Elapsed time is 4109.363 seconds.
+Node: 13,  Depth: 29,  Max-depth: 29,  no_expanded_nodes: 790,  Fringe-size: 427 ,  Elapsed time is 4124.0051 seconds.
+Node: 36,  Depth: 15,  Max-depth: 30,  no_expanded_nodes: 791,  Fringe-size: 436 ,  Elapsed time is 4124.1358 seconds.
+Node: 3,  Depth: 23,  Max-depth: 31,  no_expanded_nodes: 1026,  Fringe-size: 467 ,  Elapsed time is 4164.9108 seconds.
+Node: 35,  Depth: 21,  Max-depth: 32,  no_expanded_nodes: 1216,  Fringe-size: 437 ,  Elapsed time is 4195.0365 seconds.
+Node: 5,  Depth: 27,  Max-depth: 33,  no_expanded_nodes: 1442,  Fringe-size: 380 ,  Elapsed time is 4229.0246 seconds.
+Node: 11,  Depth: 34,  Max-depth: 34,  no_expanded_nodes: 1463,  Fringe-size: 324 ,  Elapsed time is 4231.9725 seconds.
+Node: 12,  Depth: 35,  Max-depth: 35,  no_expanded_nodes: 1464,  Fringe-size: 317 ,  Elapsed time is 4232.0884 seconds.
+Node: 15,  Depth: 36,  Max-depth: 36,  no_expanded_nodes: 1465,  Fringe-size: 318 ,  Elapsed time is 4232.1993 seconds.
+Node: 40,  Depth: 37,  Max-depth: 37,  no_expanded_nodes: 1466,  Fringe-size: 301 ,  Elapsed time is 4232.3083 seconds.
+Node: 21,  Depth: 30,  Max-depth: 38,  no_expanded_nodes: 1467,  Fringe-size: 283 ,  Elapsed time is 4232.4136 seconds.
+Node: 7,  Depth: 30,  Max-depth: 39,  no_expanded_nodes: 1536,  Fringe-size: 270 ,  Elapsed time is 4242.0287 seconds.
+Node: 1,  Depth: 33,  Max-depth: 40,  no_expanded_nodes: 1644,  Fringe-size: 293 ,  Elapsed time is 4256.4742 seconds.
+Node: 40,  Depth: 41,  Max-depth: 41,  no_expanded_nodes: 1705,  Fringe-size: 223 ,  Elapsed time is 4264.1395 seconds.
+Node: 7,  Depth: 30,  Max-depth: 42,  no_expanded_nodes: 1706,  Fringe-size: 217 ,  Elapsed time is 4264.2286 seconds.
+Node: 14,  Depth: 26,  Max-depth: 43,  no_expanded_nodes: 1736,  Fringe-size: 257 ,  Elapsed time is 4267.9371 seconds.
+Node: 8,  Depth: 44,  Max-depth: 44,  no_expanded_nodes: 1801,  Fringe-size: 217 ,  Elapsed time is 4275.5057 seconds.
+Node: 38,  Depth: 45,  Max-depth: 45,  no_expanded_nodes: 1802,  Fringe-size: 204 ,  Elapsed time is 4275.5863 seconds.
+Node: 31,  Depth: 46,  Max-depth: 46,  no_expanded_nodes: 1803,  Fringe-size: 194 ,  Elapsed time is 4275.663 seconds.
+Node: 44,  Depth: 47,  Max-depth: 47,  no_expanded_nodes: 1804,  Fringe-size: 189 ,  Elapsed time is 4275.7328 seconds.
+
+ans =
+
+       10746
+
+
+ans =
+
+  1×1 cell array
+
+    {'18'}
+
+Node: 37,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47 ,  Elapsed time is 4275.9791 seconds.
+Node: 6,  Depth: 2,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 66 ,  Elapsed time is 4276.1854 seconds.
+Node: 27,  Depth: 1,  Max-depth: 3,  no_expanded_nodes: 4,  Fringe-size: 53 ,  Elapsed time is 4276.3919 seconds.
+Node: 30,  Depth: 4,  Max-depth: 4,  no_expanded_nodes: 8,  Fringe-size: 93 ,  Elapsed time is 4277.2371 seconds.
+Node: 37,  Depth: 2,  Max-depth: 5,  no_expanded_nodes: 9,  Fringe-size: 93 ,  Elapsed time is 4277.4372 seconds.
+Node: 17,  Depth: 3,  Max-depth: 6,  no_expanded_nodes: 12,  Fringe-size: 137 ,  Elapsed time is 4278.0855 seconds.
+Node: 18,  Depth: 5,  Max-depth: 7,  no_expanded_nodes: 29,  Fringe-size: 279 ,  Elapsed time is 4281.6087 seconds.
+Node: 18,  Depth: 7,  Max-depth: 8,  no_expanded_nodes: 39,  Fringe-size: 317 ,  Elapsed time is 4283.6681 seconds.
+Node: 44,  Depth: 6,  Max-depth: 9,  no_expanded_nodes: 44,  Fringe-size: 351 ,  Elapsed time is 4284.7068 seconds.
+Node: 33,  Depth: 5,  Max-depth: 10,  no_expanded_nodes: 56,  Fringe-size: 183 ,  Elapsed time is 4287.0898 seconds.
+Node: 8,  Depth: 9,  Max-depth: 11,  no_expanded_nodes: 74,  Fringe-size: 174 ,  Elapsed time is 4290.7033 seconds.
+Node: 44,  Depth: 7,  Max-depth: 12,  no_expanded_nodes: 82,  Fringe-size: 229 ,  Elapsed time is 4292.2914 seconds.
+Node: 18,  Depth: 8,  Max-depth: 13,  no_expanded_nodes: 107,  Fringe-size: 304 ,  Elapsed time is 4297.1555 seconds.
+Node: 12,  Depth: 8,  Max-depth: 14,  no_expanded_nodes: 114,  Fringe-size: 351 ,  Elapsed time is 4298.5186 seconds.
+Node: 44,  Depth: 8,  Max-depth: 15,  no_expanded_nodes: 146,  Fringe-size: 391 ,  Elapsed time is 4304.9636 seconds.
+Node: 46,  Depth: 14,  Max-depth: 16,  no_expanded_nodes: 175,  Fringe-size: 411 ,  Elapsed time is 4310.7219 seconds.
+Node: 12,  Depth: 17,  Max-depth: 17,  no_expanded_nodes: 202,  Fringe-size: 411 ,  Elapsed time is 4316.1934 seconds.
+Node: 18,  Depth: 10,  Max-depth: 18,  no_expanded_nodes: 203,  Fringe-size: 430 ,  Elapsed time is 4316.3712 seconds.
+Node: 12,  Depth: 19,  Max-depth: 19,  no_expanded_nodes: 355,  Fringe-size: 612 ,  Elapsed time is 4346.5166 seconds.
+Node: 14,  Depth: 17,  Max-depth: 20,  no_expanded_nodes: 356,  Fringe-size: 599 ,  Elapsed time is 4346.6997 seconds.
+Node: 36,  Depth: 11,  Max-depth: 21,  no_expanded_nodes: 453,  Fringe-size: 658 ,  Elapsed time is 4366.0622 seconds.
+Node: 14,  Depth: 22,  Max-depth: 22,  no_expanded_nodes: 459,  Fringe-size: 456 ,  Elapsed time is 4367.2033 seconds.
+Node: 16,  Depth: 15,  Max-depth: 23,  no_expanded_nodes: 460,  Fringe-size: 455 ,  Elapsed time is 4367.3686 seconds.
+Node: 13,  Depth: 24,  Max-depth: 24,  no_expanded_nodes: 518,  Fringe-size: 487 ,  Elapsed time is 4378.4818 seconds.
+Node: 44,  Depth: 9,  Max-depth: 25,  no_expanded_nodes: 519,  Fringe-size: 490 ,  Elapsed time is 4378.6361 seconds.
+Node: 27,  Depth: 9,  Max-depth: 26,  no_expanded_nodes: 686,  Fringe-size: 759 ,  Elapsed time is 4409.6228 seconds.
+Node: 46,  Depth: 21,  Max-depth: 27,  no_expanded_nodes: 817,  Fringe-size: 562 ,  Elapsed time is 4434.6866 seconds.
+Node: 48,  Depth: 24,  Max-depth: 28,  no_expanded_nodes: 923,  Fringe-size: 707 ,  Elapsed time is 4454.2581 seconds.
+Node: 12,  Depth: 29,  Max-depth: 29,  no_expanded_nodes: 1179,  Fringe-size: 634 ,  Elapsed time is 4500.9379 seconds.
+Node: 18,  Depth: 19,  Max-depth: 30,  no_expanded_nodes: 1180,  Fringe-size: 620 ,  Elapsed time is 4501.0897 seconds.
+Node: 47,  Depth: 24,  Max-depth: 31,  no_expanded_nodes: 1279,  Fringe-size: 682 ,  Elapsed time is 4518.403 seconds.
+Node: 4,  Depth: 20,  Max-depth: 32,  no_expanded_nodes: 1397,  Fringe-size: 579 ,  Elapsed time is 4538.1697 seconds.
+Node: 10,  Depth: 18,  Max-depth: 33,  no_expanded_nodes: 1497,  Fringe-size: 471 ,  Elapsed time is 4554.6277 seconds.
+Node: 41,  Depth: 25,  Max-depth: 34,  no_expanded_nodes: 1635,  Fringe-size: 439 ,  Elapsed time is 4576.7322 seconds.
+Node: 15,  Depth: 35,  Max-depth: 35,  no_expanded_nodes: 1717,  Fringe-size: 403 ,  Elapsed time is 4588.7892 seconds.
+Node: 40,  Depth: 36,  Max-depth: 36,  no_expanded_nodes: 1718,  Fringe-size: 389 ,  Elapsed time is 4588.9041 seconds.
+Node: 20,  Depth: 28,  Max-depth: 37,  no_expanded_nodes: 1719,  Fringe-size: 390 ,  Elapsed time is 4589.012 seconds.
+Node: 8,  Depth: 29,  Max-depth: 38,  no_expanded_nodes: 1762,  Fringe-size: 312 ,  Elapsed time is 4594.9959 seconds.
+Node: 17,  Depth: 24,  Max-depth: 39,  no_expanded_nodes: 1842,  Fringe-size: 328 ,  Elapsed time is 4609.8767 seconds.
+Node: 38,  Depth: 40,  Max-depth: 40,  no_expanded_nodes: 1852,  Fringe-size: 286 ,  Elapsed time is 4612.483 seconds.
+Node: 31,  Depth: 41,  Max-depth: 41,  no_expanded_nodes: 1853,  Fringe-size: 256 ,  Elapsed time is 4612.5935 seconds.
+Node: 44,  Depth: 42,  Max-depth: 42,  no_expanded_nodes: 1854,  Fringe-size: 244 ,  Elapsed time is 4612.72 seconds.
+Node: 18,  Depth: 43,  Max-depth: 43,  no_expanded_nodes: 1855,  Fringe-size: 234 ,  Elapsed time is 4612.8165 seconds.
+Node: 7,  Depth: 44,  Max-depth: 44,  no_expanded_nodes: 1856,  Fringe-size: 229 ,  Elapsed time is 4612.9616 seconds.
+Node: 28,  Depth: 45,  Max-depth: 45,  no_expanded_nodes: 1857,  Fringe-size: 218 ,  Elapsed time is 4613.1511 seconds.
+Node: 6,  Depth: 46,  Max-depth: 46,  no_expanded_nodes: 1858,  Fringe-size: 212 ,  Elapsed time is 4613.3538 seconds.
+Node: 37,  Depth: 47,  Max-depth: 47,  no_expanded_nodes: 1859,  Fringe-size: 210 ,  Elapsed time is 4613.5709 seconds.
+
+ans =
+
+       10628
+
+
+ans =
+
+  1×1 cell array
+
+    {'19'}
+
+Node: 33,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47 ,  Elapsed time is 4614.0033 seconds.
+Node: 46,  Depth: 2,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 79 ,  Elapsed time is 4614.3055 seconds.
+Node: 47,  Depth: 1,  Max-depth: 3,  no_expanded_nodes: 4,  Fringe-size: 95 ,  Elapsed time is 4614.7151 seconds.
+Node: 12,  Depth: 1,  Max-depth: 4,  no_expanded_nodes: 7,  Fringe-size: 96 ,  Elapsed time is 4615.8008 seconds.
+Node: 15,  Depth: 2,  Max-depth: 5,  no_expanded_nodes: 12,  Fringe-size: 124 ,  Elapsed time is 4617.4293 seconds.
+Node: 23,  Depth: 3,  Max-depth: 6,  no_expanded_nodes: 14,  Fringe-size: 154 ,  Elapsed time is 4617.8815 seconds.
+Node: 7,  Depth: 4,  Max-depth: 7,  no_expanded_nodes: 26,  Fringe-size: 169 ,  Elapsed time is 4620.848 seconds.
+Node: 12,  Depth: 8,  Max-depth: 8,  no_expanded_nodes: 41,  Fringe-size: 245 ,  Elapsed time is 4624.5614 seconds.
+Node: 18,  Depth: 4,  Max-depth: 9,  no_expanded_nodes: 42,  Fringe-size: 253 ,  Elapsed time is 4624.7554 seconds.
+Node: 39,  Depth: 4,  Max-depth: 10,  no_expanded_nodes: 61,  Fringe-size: 279 ,  Elapsed time is 4629.3678 seconds.
+Node: 43,  Depth: 5,  Max-depth: 11,  no_expanded_nodes: 69,  Fringe-size: 288 ,  Elapsed time is 4631.1597 seconds.
+Node: 7,  Depth: 12,  Max-depth: 12,  no_expanded_nodes: 107,  Fringe-size: 329 ,  Elapsed time is 4639.3885 seconds.
+Node: 18,  Depth: 13,  Max-depth: 13,  no_expanded_nodes: 108,  Fringe-size: 338 ,  Elapsed time is 4639.6018 seconds.
+Node: 44,  Depth: 14,  Max-depth: 14,  no_expanded_nodes: 109,  Fringe-size: 292 ,  Elapsed time is 4639.7919 seconds.
+Node: 31,  Depth: 15,  Max-depth: 15,  no_expanded_nodes: 110,  Fringe-size: 280 ,  Elapsed time is 4639.9901 seconds.
+Node: 38,  Depth: 16,  Max-depth: 16,  no_expanded_nodes: 111,  Fringe-size: 263 ,  Elapsed time is 4640.1713 seconds.
+Node: 8,  Depth: 6,  Max-depth: 17,  no_expanded_nodes: 112,  Fringe-size: 250 ,  Elapsed time is 4640.357 seconds.
+Node: 43,  Depth: 7,  Max-depth: 18,  no_expanded_nodes: 158,  Fringe-size: 408 ,  Elapsed time is 4650.1656 seconds.
+Node: 43,  Depth: 7,  Max-depth: 19,  no_expanded_nodes: 209,  Fringe-size: 418 ,  Elapsed time is 4660.5654 seconds.
+Node: 8,  Depth: 17,  Max-depth: 20,  no_expanded_nodes: 221,  Fringe-size: 338 ,  Elapsed time is 4663.4917 seconds.
+Node: 30,  Depth: 7,  Max-depth: 21,  no_expanded_nodes: 240,  Fringe-size: 289 ,  Elapsed time is 4667.4945 seconds.
+Node: 22,  Depth: 9,  Max-depth: 22,  no_expanded_nodes: 257,  Fringe-size: 219 ,  Elapsed time is 4670.9473 seconds.
+Node: 41,  Depth: 6,  Max-depth: 23,  no_expanded_nodes: 289,  Fringe-size: 246 ,  Elapsed time is 4677.7523 seconds.
+Node: 33,  Depth: 10,  Max-depth: 24,  no_expanded_nodes: 299,  Fringe-size: 276 ,  Elapsed time is 4679.7431 seconds.
+Node: 17,  Depth: 9,  Max-depth: 25,  no_expanded_nodes: 329,  Fringe-size: 281 ,  Elapsed time is 4685.5754 seconds.
+Node: 13,  Depth: 9,  Max-depth: 26,  no_expanded_nodes: 386,  Fringe-size: 288 ,  Elapsed time is 4696.085 seconds.
+Node: 23,  Depth: 27,  Max-depth: 27,  no_expanded_nodes: 393,  Fringe-size: 318 ,  Elapsed time is 4697.3728 seconds.
+Node: 36,  Depth: 12,  Max-depth: 28,  no_expanded_nodes: 394,  Fringe-size: 282 ,  Elapsed time is 4697.5374 seconds.
+Node: 34,  Depth: 29,  Max-depth: 29,  no_expanded_nodes: 474,  Fringe-size: 258 ,  Elapsed time is 4712.1171 seconds.
+Node: 14,  Depth: 30,  Max-depth: 30,  no_expanded_nodes: 475,  Fringe-size: 210 ,  Elapsed time is 4712.2511 seconds.
+Node: 30,  Depth: 12,  Max-depth: 31,  no_expanded_nodes: 476,  Fringe-size: 213 ,  Elapsed time is 4712.3739 seconds.
+Node: 13,  Depth: 32,  Max-depth: 32,  no_expanded_nodes: 501,  Fringe-size: 198 ,  Elapsed time is 4716.8593 seconds.
+Node: 13,  Depth: 25,  Max-depth: 33,  no_expanded_nodes: 502,  Fringe-size: 203 ,  Elapsed time is 4716.9864 seconds.
+Node: 3,  Depth: 26,  Max-depth: 34,  no_expanded_nodes: 637,  Fringe-size: 299 ,  Elapsed time is 4740.6341 seconds.
+Node: 25,  Depth: 28,  Max-depth: 35,  no_expanded_nodes: 734,  Fringe-size: 357 ,  Elapsed time is 4755.5275 seconds.
+Node: 34,  Depth: 31,  Max-depth: 36,  no_expanded_nodes: 993,  Fringe-size: 300 ,  Elapsed time is 4794.0771 seconds.
+Node: 36,  Depth: 21,  Max-depth: 37,  no_expanded_nodes: 1046,  Fringe-size: 263 ,  Elapsed time is 4801.5916 seconds.
+Node: 42,  Depth: 38,  Max-depth: 38,  no_expanded_nodes: 1138,  Fringe-size: 245 ,  Elapsed time is 4814.2316 seconds.
+Node: 5,  Depth: 39,  Max-depth: 39,  no_expanded_nodes: 1139,  Fringe-size: 239 ,  Elapsed time is 4814.3383 seconds.
+Node: 48,  Depth: 40,  Max-depth: 40,  no_expanded_nodes: 1140,  Fringe-size: 238 ,  Elapsed time is 4814.4447 seconds.
+Node: 5,  Depth: 34,  Max-depth: 41,  no_expanded_nodes: 1141,  Fringe-size: 216 ,  Elapsed time is 4814.5415 seconds.
+Node: 32,  Depth: 42,  Max-depth: 42,  no_expanded_nodes: 1216,  Fringe-size: 234 ,  Elapsed time is 4824.4553 seconds.
+Node: 21,  Depth: 43,  Max-depth: 43,  no_expanded_nodes: 1217,  Fringe-size: 227 ,  Elapsed time is 4824.5549 seconds.
+Node: 14,  Depth: 29,  Max-depth: 44,  no_expanded_nodes: 1218,  Fringe-size: 227 ,  Elapsed time is 4824.6411 seconds.
+Node: 13,  Depth: 45,  Max-depth: 45,  no_expanded_nodes: 1329,  Fringe-size: 132 ,  Elapsed time is 4839.3248 seconds.
+Node: 21,  Depth: 46,  Max-depth: 46,  no_expanded_nodes: 1330,  Fringe-size: 130 ,  Elapsed time is 4839.4017 seconds.
+Node: 47,  Depth: 47,  Max-depth: 47,  no_expanded_nodes: 1331,  Fringe-size: 128 ,  Elapsed time is 4839.4726 seconds.
+
+ans =
+
+       10731
+
+
+ans =
+
+  1×1 cell array
+
+    {'20'}
+
+Node: 13,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47 ,  Elapsed time is 4839.722 seconds.
+Node: 47,  Depth: 1,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 70 ,  Elapsed time is 4839.9466 seconds.
+Node: 33,  Depth: 3,  Max-depth: 3,  no_expanded_nodes: 5,  Fringe-size: 89 ,  Elapsed time is 4840.3758 seconds.
+Node: 46,  Depth: 4,  Max-depth: 4,  no_expanded_nodes: 6,  Fringe-size: 116 ,  Elapsed time is 4840.5833 seconds.
+Node: 11,  Depth: 2,  Max-depth: 5,  no_expanded_nodes: 7,  Fringe-size: 131 ,  Elapsed time is 4840.7888 seconds.
+Node: 23,  Depth: 3,  Max-depth: 6,  no_expanded_nodes: 10,  Fringe-size: 148 ,  Elapsed time is 4841.4322 seconds.
+Node: 11,  Depth: 7,  Max-depth: 7,  no_expanded_nodes: 13,  Fringe-size: 147 ,  Elapsed time is 4842.0619 seconds.
+Node: 25,  Depth: 2,  Max-depth: 8,  no_expanded_nodes: 14,  Fringe-size: 161 ,  Elapsed time is 4842.2617 seconds.
+Node: 14,  Depth: 2,  Max-depth: 9,  no_expanded_nodes: 18,  Fringe-size: 162 ,  Elapsed time is 4843.1189 seconds.
+Node: 13,  Depth: 4,  Max-depth: 10,  no_expanded_nodes: 36,  Fringe-size: 238 ,  Elapsed time is 4846.786 seconds.
+Node: 13,  Depth: 3,  Max-depth: 11,  no_expanded_nodes: 79,  Fringe-size: 360 ,  Elapsed time is 4855.9529 seconds.
+Node: 6,  Depth: 12,  Max-depth: 12,  no_expanded_nodes: 98,  Fringe-size: 387 ,  Elapsed time is 4860.248 seconds.
+Node: 28,  Depth: 13,  Max-depth: 13,  no_expanded_nodes: 99,  Fringe-size: 357 ,  Elapsed time is 4860.4471 seconds.
+Node: 7,  Depth: 14,  Max-depth: 14,  no_expanded_nodes: 100,  Fringe-size: 352 ,  Elapsed time is 4860.6394 seconds.
+Node: 18,  Depth: 15,  Max-depth: 15,  no_expanded_nodes: 101,  Fringe-size: 359 ,  Elapsed time is 4860.8423 seconds.
+Node: 44,  Depth: 16,  Max-depth: 16,  no_expanded_nodes: 102,  Fringe-size: 324 ,  Elapsed time is 4861.0606 seconds.
+Node: 31,  Depth: 17,  Max-depth: 17,  no_expanded_nodes: 103,  Fringe-size: 309 ,  Elapsed time is 4861.2447 seconds.
+Node: 38,  Depth: 18,  Max-depth: 18,  no_expanded_nodes: 104,  Fringe-size: 288 ,  Elapsed time is 4861.4328 seconds.
+Node: 16,  Depth: 6,  Max-depth: 19,  no_expanded_nodes: 105,  Fringe-size: 279 ,  Elapsed time is 4861.5988 seconds.
+Node: 1,  Depth: 9,  Max-depth: 20,  no_expanded_nodes: 145,  Fringe-size: 433 ,  Elapsed time is 4870.5244 seconds.
+Node: 15,  Depth: 21,  Max-depth: 21,  no_expanded_nodes: 206,  Fringe-size: 328 ,  Elapsed time is 4883.0823 seconds.
+Node: 12,  Depth: 22,  Max-depth: 22,  no_expanded_nodes: 207,  Fringe-size: 352 ,  Elapsed time is 4883.2425 seconds.
+Node: 11,  Depth: 23,  Max-depth: 23,  no_expanded_nodes: 208,  Fringe-size: 329 ,  Elapsed time is 4883.4029 seconds.
+Node: 22,  Depth: 11,  Max-depth: 24,  no_expanded_nodes: 209,  Fringe-size: 313 ,  Elapsed time is 4883.5614 seconds.
+Node: 9,  Depth: 10,  Max-depth: 25,  no_expanded_nodes: 242,  Fringe-size: 335 ,  Elapsed time is 4890.125 seconds.
+Node: 9,  Depth: 9,  Max-depth: 26,  no_expanded_nodes: 255,  Fringe-size: 373 ,  Elapsed time is 4892.692 seconds.
+Node: 13,  Depth: 11,  Max-depth: 27,  no_expanded_nodes: 275,  Fringe-size: 256 ,  Elapsed time is 4896.6384 seconds.
+Node: 11,  Depth: 28,  Max-depth: 28,  no_expanded_nodes: 335,  Fringe-size: 325 ,  Elapsed time is 4907.9543 seconds.
+Node: 23,  Depth: 29,  Max-depth: 29,  no_expanded_nodes: 336,  Fringe-size: 318 ,  Elapsed time is 4908.0961 seconds.
+Node: 8,  Depth: 14,  Max-depth: 30,  no_expanded_nodes: 337,  Fringe-size: 306 ,  Elapsed time is 4908.2437 seconds.
+Node: 34,  Depth: 31,  Max-depth: 31,  no_expanded_nodes: 393,  Fringe-size: 308 ,  Elapsed time is 4918.7429 seconds.
+Node: 14,  Depth: 32,  Max-depth: 32,  no_expanded_nodes: 394,  Fringe-size: 283 ,  Elapsed time is 4918.8755 seconds.
+Node: 48,  Depth: 10,  Max-depth: 33,  no_expanded_nodes: 395,  Fringe-size: 287 ,  Elapsed time is 4918.9973 seconds.
+Node: 20,  Depth: 14,  Max-depth: 34,  no_expanded_nodes: 483,  Fringe-size: 319 ,  Elapsed time is 4935.4975 seconds.
+Node: 3,  Depth: 26,  Max-depth: 35,  no_expanded_nodes: 557,  Fringe-size: 262 ,  Elapsed time is 4949.0159 seconds.
+Node: 29,  Depth: 32,  Max-depth: 36,  no_expanded_nodes: 656,  Fringe-size: 198 ,  Elapsed time is 4966.0252 seconds.
+Node: 32,  Depth: 21,  Max-depth: 37,  no_expanded_nodes: 815,  Fringe-size: 168 ,  Elapsed time is 4991.3341 seconds.
+Node: 2,  Depth: 18,  Max-depth: 38,  no_expanded_nodes: 848,  Fringe-size: 193 ,  Elapsed time is 4995.9366 seconds.
+Node: 2,  Depth: 39,  Max-depth: 39,  no_expanded_nodes: 921,  Fringe-size: 165 ,  Elapsed time is 5006.3446 seconds.
+Node: 42,  Depth: 40,  Max-depth: 40,  no_expanded_nodes: 922,  Fringe-size: 156 ,  Elapsed time is 5006.4465 seconds.
+Node: 47,  Depth: 17,  Max-depth: 41,  no_expanded_nodes: 923,  Fringe-size: 149 ,  Elapsed time is 5006.5439 seconds.
+Node: 13,  Depth: 35,  Max-depth: 42,  no_expanded_nodes: 986,  Fringe-size: 110 ,  Elapsed time is 5015.385 seconds.
+Node: 15,  Depth: 15,  Max-depth: 43,  no_expanded_nodes: 998,  Fringe-size: 120 ,  Elapsed time is 5016.8954 seconds.
+Node: 5,  Depth: 36,  Max-depth: 44,  no_expanded_nodes: 1039,  Fringe-size: 117 ,  Elapsed time is 5022.3361 seconds.
+Node: 35,  Depth: 43,  Max-depth: 45,  no_expanded_nodes: 1065,  Fringe-size: 105 ,  Elapsed time is 5025.4578 seconds.
+Node: 24,  Depth: 46,  Max-depth: 46,  no_expanded_nodes: 1068,  Fringe-size: 103 ,  Elapsed time is 5025.6949 seconds.
+Node: 32,  Depth: 47,  Max-depth: 47,  no_expanded_nodes: 1069,  Fringe-size: 99 ,  Elapsed time is 5025.7645 seconds.
+
+ans =
+
+       10842
+
+
+ans =
+
+  1×1 cell array
+
+    {'21'}
+
+Node: 16,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47 ,  Elapsed time is 5026.0164 seconds.
+Node: 3,  Depth: 1,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 73 ,  Elapsed time is 5026.2473 seconds.
+Node: 23,  Depth: 2,  Max-depth: 3,  no_expanded_nodes: 5,  Fringe-size: 98 ,  Elapsed time is 5026.6801 seconds.
+Node: 1,  Depth: 2,  Max-depth: 4,  no_expanded_nodes: 7,  Fringe-size: 158 ,  Elapsed time is 5027.0984 seconds.
+Node: 11,  Depth: 4,  Max-depth: 5,  no_expanded_nodes: 10,  Fringe-size: 139 ,  Elapsed time is 5027.7606 seconds.
+Node: 41,  Depth: 2,  Max-depth: 6,  no_expanded_nodes: 12,  Fringe-size: 181 ,  Elapsed time is 5028.1661 seconds.
+Node: 14,  Depth: 4,  Max-depth: 7,  no_expanded_nodes: 22,  Fringe-size: 246 ,  Elapsed time is 5030.3088 seconds.
+Node: 44,  Depth: 7,  Max-depth: 8,  no_expanded_nodes: 31,  Fringe-size: 205 ,  Elapsed time is 5032.1668 seconds.
+Node: 23,  Depth: 5,  Max-depth: 9,  no_expanded_nodes: 35,  Fringe-size: 213 ,  Elapsed time is 5032.9904 seconds.
+Node: 41,  Depth: 3,  Max-depth: 10,  no_expanded_nodes: 37,  Fringe-size: 262 ,  Elapsed time is 5033.4059 seconds.
+Node: 33,  Depth: 7,  Max-depth: 11,  no_expanded_nodes: 72,  Fringe-size: 431 ,  Elapsed time is 5040.9184 seconds.
+Node: 37,  Depth: 12,  Max-depth: 12,  no_expanded_nodes: 129,  Fringe-size: 656 ,  Elapsed time is 5053.684 seconds.
+Node: 19,  Depth: 13,  Max-depth: 13,  no_expanded_nodes: 130,  Fringe-size: 688 ,  Elapsed time is 5053.8874 seconds.
+Node: 30,  Depth: 11,  Max-depth: 14,  no_expanded_nodes: 131,  Fringe-size: 694 ,  Elapsed time is 5054.117 seconds.
+Node: 47,  Depth: 8,  Max-depth: 15,  no_expanded_nodes: 154,  Fringe-size: 533 ,  Elapsed time is 5059.2455 seconds.
+Node: 43,  Depth: 16,  Max-depth: 16,  no_expanded_nodes: 187,  Fringe-size: 523 ,  Elapsed time is 5066.2494 seconds.
+Node: 30,  Depth: 17,  Max-depth: 17,  no_expanded_nodes: 188,  Fringe-size: 475 ,  Elapsed time is 5066.4437 seconds.
+Node: 36,  Depth: 18,  Max-depth: 18,  no_expanded_nodes: 189,  Fringe-size: 446 ,  Elapsed time is 5066.631 seconds.
+Node: 46,  Depth: 19,  Max-depth: 19,  no_expanded_nodes: 190,  Fringe-size: 408 ,  Elapsed time is 5066.8118 seconds.
+Node: 9,  Depth: 10,  Max-depth: 20,  no_expanded_nodes: 191,  Fringe-size: 402 ,  Elapsed time is 5066.9926 seconds.
+Node: 32,  Depth: 5,  Max-depth: 21,  no_expanded_nodes: 200,  Fringe-size: 376 ,  Elapsed time is 5068.816 seconds.
+Node: 40,  Depth: 10,  Max-depth: 22,  no_expanded_nodes: 224,  Fringe-size: 379 ,  Elapsed time is 5073.6473 seconds.
+Node: 21,  Depth: 23,  Max-depth: 23,  no_expanded_nodes: 246,  Fringe-size: 347 ,  Elapsed time is 5077.9335 seconds.
+Node: 13,  Depth: 24,  Max-depth: 24,  no_expanded_nodes: 247,  Fringe-size: 338 ,  Elapsed time is 5078.0996 seconds.
+Node: 28,  Depth: 11,  Max-depth: 25,  no_expanded_nodes: 248,  Fringe-size: 339 ,  Elapsed time is 5078.253 seconds.
+Node: 18,  Depth: 14,  Max-depth: 26,  no_expanded_nodes: 327,  Fringe-size: 381 ,  Elapsed time is 5093.5486 seconds.
+Node: 47,  Depth: 25,  Max-depth: 27,  no_expanded_nodes: 346,  Fringe-size: 351 ,  Elapsed time is 5097.0914 seconds.
+Node: 23,  Depth: 11,  Max-depth: 28,  no_expanded_nodes: 350,  Fringe-size: 367 ,  Elapsed time is 5097.6742 seconds.
+Node: 13,  Depth: 29,  Max-depth: 29,  no_expanded_nodes: 404,  Fringe-size: 319 ,  Elapsed time is 5107.4596 seconds.
+Node: 23,  Depth: 27,  Max-depth: 30,  no_expanded_nodes: 405,  Fringe-size: 320 ,  Elapsed time is 5107.5901 seconds.
+Node: 4,  Depth: 7,  Max-depth: 31,  no_expanded_nodes: 487,  Fringe-size: 392 ,  Elapsed time is 5122.8938 seconds.
+Node: 17,  Depth: 21,  Max-depth: 32,  no_expanded_nodes: 516,  Fringe-size: 322 ,  Elapsed time is 5128.0811 seconds.
+Node: 48,  Depth: 31,  Max-depth: 33,  no_expanded_nodes: 655,  Fringe-size: 347 ,  Elapsed time is 5153.0281 seconds.
+Node: 7,  Depth: 20,  Max-depth: 34,  no_expanded_nodes: 714,  Fringe-size: 340 ,  Elapsed time is 5162.9491 seconds.
+Node: 1,  Depth: 15,  Max-depth: 35,  no_expanded_nodes: 733,  Fringe-size: 256 ,  Elapsed time is 5166.1591 seconds.
+Node: 9,  Depth: 15,  Max-depth: 36,  no_expanded_nodes: 815,  Fringe-size: 227 ,  Elapsed time is 5179.3621 seconds.
+Node: 29,  Depth: 29,  Max-depth: 37,  no_expanded_nodes: 1007,  Fringe-size: 235 ,  Elapsed time is 5210.1802 seconds.
+Node: 31,  Depth: 17,  Max-depth: 38,  no_expanded_nodes: 1066,  Fringe-size: 257 ,  Elapsed time is 5218.5049 seconds.
+Node: 26,  Depth: 39,  Max-depth: 39,  no_expanded_nodes: 1089,  Fringe-size: 299 ,  Elapsed time is 5221.9665 seconds.
+Node: 42,  Depth: 40,  Max-depth: 40,  no_expanded_nodes: 1090,  Fringe-size: 278 ,  Elapsed time is 5222.0648 seconds.
+Node: 48,  Depth: 41,  Max-depth: 41,  no_expanded_nodes: 1091,  Fringe-size: 267 ,  Elapsed time is 5222.159 seconds.
+Node: 5,  Depth: 42,  Max-depth: 42,  no_expanded_nodes: 1092,  Fringe-size: 268 ,  Elapsed time is 5222.2492 seconds.
+Node: 34,  Depth: 35,  Max-depth: 43,  no_expanded_nodes: 1093,  Fringe-size: 260 ,  Elapsed time is 5222.337 seconds.
+Node: 29,  Depth: 44,  Max-depth: 44,  no_expanded_nodes: 1257,  Fringe-size: 224 ,  Elapsed time is 5245.034 seconds.
+Node: 34,  Depth: 45,  Max-depth: 45,  no_expanded_nodes: 1258,  Fringe-size: 203 ,  Elapsed time is 5245.1176 seconds.
+Node: 41,  Depth: 46,  Max-depth: 46,  no_expanded_nodes: 1259,  Fringe-size: 197 ,  Elapsed time is 5245.2062 seconds.
+Node: 16,  Depth: 47,  Max-depth: 47,  no_expanded_nodes: 1260,  Fringe-size: 194 ,  Elapsed time is 5245.279 seconds.
+
+ans =
+
+       10653
+
+
+ans =
+
+  1×1 cell array
+
+    {'22'}
+
+Node: 11,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47 ,  Elapsed time is 5245.5332 seconds.
+Node: 12,  Depth: 2,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 69 ,  Elapsed time is 5245.7694 seconds.
+Node: 14,  Depth: 1,  Max-depth: 3,  no_expanded_nodes: 4,  Fringe-size: 93 ,  Elapsed time is 5245.9888 seconds.
+Node: 25,  Depth: 2,  Max-depth: 4,  no_expanded_nodes: 7,  Fringe-size: 120 ,  Elapsed time is 5246.7329 seconds.
+Node: 47,  Depth: 2,  Max-depth: 5,  no_expanded_nodes: 10,  Fringe-size: 116 ,  Elapsed time is 5247.4202 seconds.
+Node: 22,  Depth: 2,  Max-depth: 6,  no_expanded_nodes: 18,  Fringe-size: 179 ,  Elapsed time is 5249.138 seconds.
+Node: 15,  Depth: 7,  Max-depth: 7,  no_expanded_nodes: 28,  Fringe-size: 214 ,  Elapsed time is 5251.2287 seconds.
+Node: 40,  Depth: 8,  Max-depth: 8,  no_expanded_nodes: 29,  Fringe-size: 201 ,  Elapsed time is 5251.4268 seconds.
+Node: 1,  Depth: 4,  Max-depth: 9,  no_expanded_nodes: 30,  Fringe-size: 200 ,  Elapsed time is 5251.6284 seconds.
+Node: 18,  Depth: 7,  Max-depth: 10,  no_expanded_nodes: 70,  Fringe-size: 296 ,  Elapsed time is 5260.2203 seconds.
+Node: 18,  Depth: 10,  Max-depth: 11,  no_expanded_nodes: 80,  Fringe-size: 323 ,  Elapsed time is 5262.2941 seconds.
+Node: 34,  Depth: 6,  Max-depth: 12,  no_expanded_nodes: 82,  Fringe-size: 358 ,  Elapsed time is 5262.7016 seconds.
+Node: 8,  Depth: 7,  Max-depth: 13,  no_expanded_nodes: 98,  Fringe-size: 350 ,  Elapsed time is 5266.1833 seconds.
+Node: 1,  Depth: 9,  Max-depth: 14,  no_expanded_nodes: 129,  Fringe-size: 299 ,  Elapsed time is 5272.777 seconds.
+Node: 36,  Depth: 12,  Max-depth: 15,  no_expanded_nodes: 137,  Fringe-size: 406 ,  Elapsed time is 5274.353 seconds.
+Node: 20,  Depth: 7,  Max-depth: 16,  no_expanded_nodes: 142,  Fringe-size: 455 ,  Elapsed time is 5275.3233 seconds.
+Node: 20,  Depth: 8,  Max-depth: 17,  no_expanded_nodes: 195,  Fringe-size: 380 ,  Elapsed time is 5286.5867 seconds.
+Node: 30,  Depth: 18,  Max-depth: 18,  no_expanded_nodes: 213,  Fringe-size: 414 ,  Elapsed time is 5290.1985 seconds.
+Node: 36,  Depth: 19,  Max-depth: 19,  no_expanded_nodes: 214,  Fringe-size: 361 ,  Elapsed time is 5290.3904 seconds.
+Node: 46,  Depth: 20,  Max-depth: 20,  no_expanded_nodes: 215,  Fringe-size: 289 ,  Elapsed time is 5290.5654 seconds.
+Node: 33,  Depth: 21,  Max-depth: 21,  no_expanded_nodes: 216,  Fringe-size: 287 ,  Elapsed time is 5290.7359 seconds.
+Node: 20,  Depth: 22,  Max-depth: 22,  no_expanded_nodes: 217,  Fringe-size: 268 ,  Elapsed time is 5290.8992 seconds.
+Node: 47,  Depth: 23,  Max-depth: 23,  no_expanded_nodes: 218,  Fringe-size: 266 ,  Elapsed time is 5291.0574 seconds.
+Node: 21,  Depth: 24,  Max-depth: 24,  no_expanded_nodes: 219,  Fringe-size: 255 ,  Elapsed time is 5291.2209 seconds.
+Node: 13,  Depth: 25,  Max-depth: 25,  no_expanded_nodes: 220,  Fringe-size: 255 ,  Elapsed time is 5291.3676 seconds.
+Node: 17,  Depth: 10,  Max-depth: 26,  no_expanded_nodes: 221,  Fringe-size: 244 ,  Elapsed time is 5291.5154 seconds.
+Node: 13,  Depth: 27,  Max-depth: 27,  no_expanded_nodes: 257,  Fringe-size: 270 ,  Elapsed time is 5298.1689 seconds.
+Node: 9,  Depth: 13,  Max-depth: 28,  no_expanded_nodes: 258,  Fringe-size: 271 ,  Elapsed time is 5298.3087 seconds.
+Node: 21,  Depth: 29,  Max-depth: 29,  no_expanded_nodes: 305,  Fringe-size: 288 ,  Elapsed time is 5307.0251 seconds.
+Node: 13,  Depth: 30,  Max-depth: 30,  no_expanded_nodes: 306,  Fringe-size: 277 ,  Elapsed time is 5307.1826 seconds.
+Node: 28,  Depth: 18,  Max-depth: 31,  no_expanded_nodes: 307,  Fringe-size: 280 ,  Elapsed time is 5307.3167 seconds.
+Node: 17,  Depth: 23,  Max-depth: 32,  no_expanded_nodes: 384,  Fringe-size: 298 ,  Elapsed time is 5321.4146 seconds.
+Node: 39,  Depth: 10,  Max-depth: 33,  no_expanded_nodes: 394,  Fringe-size: 310 ,  Elapsed time is 5322.8061 seconds.
+Node: 25,  Depth: 33,  Max-depth: 34,  no_expanded_nodes: 486,  Fringe-size: 300 ,  Elapsed time is 5339.464 seconds.
+Node: 3,  Depth: 30,  Max-depth: 35,  no_expanded_nodes: 569,  Fringe-size: 223 ,  Elapsed time is 5352.7838 seconds.
+Node: 42,  Depth: 31,  Max-depth: 36,  no_expanded_nodes: 625,  Fringe-size: 226 ,  Elapsed time is 5361.6227 seconds.
+Node: 34,  Depth: 34,  Max-depth: 37,  no_expanded_nodes: 724,  Fringe-size: 202 ,  Elapsed time is 5376.2114 seconds.
+Node: 5,  Depth: 38,  Max-depth: 38,  no_expanded_nodes: 758,  Fringe-size: 171 ,  Elapsed time is 5380.9301 seconds.
+Node: 2,  Depth: 28,  Max-depth: 39,  no_expanded_nodes: 759,  Fringe-size: 153 ,  Elapsed time is 5381.0477 seconds.
+Node: 5,  Depth: 40,  Max-depth: 40,  no_expanded_nodes: 782,  Fringe-size: 147 ,  Elapsed time is 5383.938 seconds.
+Node: 8,  Depth: 29,  Max-depth: 41,  no_expanded_nodes: 783,  Fringe-size: 139 ,  Elapsed time is 5384.0382 seconds.
+Node: 29,  Depth: 42,  Max-depth: 42,  no_expanded_nodes: 853,  Fringe-size: 122 ,  Elapsed time is 5392.5836 seconds.
+Node: 3,  Depth: 32,  Max-depth: 43,  no_expanded_nodes: 854,  Fringe-size: 105 ,  Elapsed time is 5392.6738 seconds.
+Node: 39,  Depth: 34,  Max-depth: 44,  no_expanded_nodes: 884,  Fringe-size: 133 ,  Elapsed time is 5396.472 seconds.
+Node: 25,  Depth: 32,  Max-depth: 45,  no_expanded_nodes: 903,  Fringe-size: 63 ,  Elapsed time is 5398.6283 seconds.
+Node: 25,  Depth: 46,  Max-depth: 46,  no_expanded_nodes: 909,  Fringe-size: 61 ,  Elapsed time is 5399.2605 seconds.
+Node: 13,  Depth: 47,  Max-depth: 47,  no_expanded_nodes: 910,  Fringe-size: 58 ,  Elapsed time is 5399.338 seconds.
+
+ans =
+
+       10707
+
+
+ans =
+
+  1×1 cell array
+
+    {'23'}
+
+Node: 45,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47 ,  Elapsed time is 5399.6067 seconds.
+Node: 35,  Depth: 2,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 91 ,  Elapsed time is 5399.8241 seconds.
+Node: 32,  Depth: 1,  Max-depth: 3,  no_expanded_nodes: 4,  Fringe-size: 88 ,  Elapsed time is 5400.0393 seconds.
+Node: 26,  Depth: 4,  Max-depth: 4,  no_expanded_nodes: 8,  Fringe-size: 168 ,  Elapsed time is 5400.9211 seconds.
+Node: 42,  Depth: 1,  Max-depth: 5,  no_expanded_nodes: 9,  Fringe-size: 138 ,  Elapsed time is 5401.1304 seconds.
+Node: 5,  Depth: 1,  Max-depth: 6,  no_expanded_nodes: 16,  Fringe-size: 132 ,  Elapsed time is 5402.6316 seconds.
+Node: 46,  Depth: 7,  Max-depth: 7,  no_expanded_nodes: 26,  Fringe-size: 145 ,  Elapsed time is 5404.6926 seconds.
+Node: 25,  Depth: 5,  Max-depth: 8,  no_expanded_nodes: 27,  Fringe-size: 155 ,  Elapsed time is 5404.8991 seconds.
+Node: 11,  Depth: 9,  Max-depth: 9,  no_expanded_nodes: 44,  Fringe-size: 216 ,  Elapsed time is 5408.3671 seconds.
+Node: 12,  Depth: 10,  Max-depth: 10,  no_expanded_nodes: 45,  Fringe-size: 206 ,  Elapsed time is 5408.567 seconds.
+Node: 42,  Depth: 6,  Max-depth: 11,  no_expanded_nodes: 46,  Fringe-size: 222 ,  Elapsed time is 5408.7592 seconds.
+Node: 40,  Depth: 9,  Max-depth: 12,  no_expanded_nodes: 68,  Fringe-size: 288 ,  Elapsed time is 5413.3781 seconds.
+Node: 48,  Depth: 3,  Max-depth: 13,  no_expanded_nodes: 70,  Fringe-size: 286 ,  Elapsed time is 5413.7802 seconds.
+Node: 15,  Depth: 14,  Max-depth: 14,  no_expanded_nodes: 80,  Fringe-size: 270 ,  Elapsed time is 5415.8106 seconds.
+Node: 40,  Depth: 15,  Max-depth: 15,  no_expanded_nodes: 81,  Fringe-size: 268 ,  Elapsed time is 5415.9915 seconds.
+Node: 44,  Depth: 8,  Max-depth: 16,  no_expanded_nodes: 82,  Fringe-size: 277 ,  Elapsed time is 5416.1796 seconds.
+Node: 18,  Depth: 10,  Max-depth: 17,  no_expanded_nodes: 167,  Fringe-size: 324 ,  Elapsed time is 5434.1846 seconds.
+Node: 18,  Depth: 18,  Max-depth: 18,  no_expanded_nodes: 230,  Fringe-size: 533 ,  Elapsed time is 5447.4825 seconds.
+Node: 44,  Depth: 19,  Max-depth: 19,  no_expanded_nodes: 231,  Fringe-size: 470 ,  Elapsed time is 5447.6792 seconds.
+Node: 31,  Depth: 20,  Max-depth: 20,  no_expanded_nodes: 232,  Fringe-size: 433 ,  Elapsed time is 5447.8745 seconds.
+Node: 38,  Depth: 21,  Max-depth: 21,  no_expanded_nodes: 233,  Fringe-size: 400 ,  Elapsed time is 5448.0463 seconds.
+Node: 33,  Depth: 7,  Max-depth: 22,  no_expanded_nodes: 234,  Fringe-size: 385 ,  Elapsed time is 5448.2162 seconds.
+Node: 1,  Depth: 16,  Max-depth: 23,  no_expanded_nodes: 289,  Fringe-size: 516 ,  Elapsed time is 5459.3715 seconds.
+Node: 43,  Depth: 13,  Max-depth: 24,  no_expanded_nodes: 347,  Fringe-size: 496 ,  Elapsed time is 5471.1745 seconds.
+Node: 8,  Depth: 10,  Max-depth: 25,  no_expanded_nodes: 361,  Fringe-size: 509 ,  Elapsed time is 5473.8757 seconds.
+Node: 11,  Depth: 26,  Max-depth: 26,  no_expanded_nodes: 377,  Fringe-size: 406 ,  Elapsed time is 5476.9448 seconds.
+Node: 22,  Depth: 14,  Max-depth: 27,  no_expanded_nodes: 378,  Fringe-size: 392 ,  Elapsed time is 5477.0924 seconds.
+Node: 9,  Depth: 25,  Max-depth: 28,  no_expanded_nodes: 421,  Fringe-size: 358 ,  Elapsed time is 5485.1579 seconds.
+Node: 25,  Depth: 11,  Max-depth: 29,  no_expanded_nodes: 442,  Fringe-size: 320 ,  Elapsed time is 5488.8886 seconds.
+Node: 22,  Depth: 18,  Max-depth: 30,  no_expanded_nodes: 480,  Fringe-size: 274 ,  Elapsed time is 5495.5916 seconds.
+Node: 8,  Depth: 25,  Max-depth: 31,  no_expanded_nodes: 534,  Fringe-size: 254 ,  Elapsed time is 5504.6356 seconds.
+Node: 23,  Depth: 32,  Max-depth: 32,  no_expanded_nodes: 591,  Fringe-size: 309 ,  Elapsed time is 5514.2685 seconds.
+Node: 13,  Depth: 13,  Max-depth: 33,  no_expanded_nodes: 592,  Fringe-size: 268 ,  Elapsed time is 5514.4091 seconds.
+Node: 22,  Depth: 34,  Max-depth: 34,  no_expanded_nodes: 673,  Fringe-size: 247 ,  Elapsed time is 5528.3461 seconds.
+Node: 16,  Depth: 35,  Max-depth: 35,  no_expanded_nodes: 674,  Fringe-size: 256 ,  Elapsed time is 5528.4594 seconds.
+Node: 41,  Depth: 36,  Max-depth: 36,  no_expanded_nodes: 675,  Fringe-size: 238 ,  Elapsed time is 5528.5718 seconds.
+Node: 34,  Depth: 37,  Max-depth: 37,  no_expanded_nodes: 676,  Fringe-size: 195 ,  Elapsed time is 5528.6894 seconds.
+Node: 1,  Depth: 26,  Max-depth: 38,  no_expanded_nodes: 677,  Fringe-size: 145 ,  Elapsed time is 5528.7942 seconds.
+Node: 40,  Depth: 32,  Max-depth: 39,  no_expanded_nodes: 738,  Fringe-size: 114 ,  Elapsed time is 5538.2077 seconds.
+Node: 48,  Depth: 40,  Max-depth: 40,  no_expanded_nodes: 767,  Fringe-size: 88 ,  Elapsed time is 5543.1577 seconds.
+Node: 47,  Depth: 16,  Max-depth: 41,  no_expanded_nodes: 768,  Fringe-size: 74 ,  Elapsed time is 5543.2568 seconds.
+Node: 8,  Depth: 33,  Max-depth: 42,  no_expanded_nodes: 807,  Fringe-size: 87 ,  Elapsed time is 5548.9399 seconds.
+Node: 40,  Depth: 35,  Max-depth: 43,  no_expanded_nodes: 844,  Fringe-size: 72 ,  Elapsed time is 5554.5362 seconds.
+Node: 26,  Depth: 44,  Max-depth: 44,  no_expanded_nodes: 895,  Fringe-size: 78 ,  Elapsed time is 5561.8322 seconds.
+Node: 36,  Depth: 22,  Max-depth: 45,  no_expanded_nodes: 896,  Fringe-size: 69 ,  Elapsed time is 5561.9134 seconds.
+Node: 45,  Depth: 46,  Max-depth: 46,  no_expanded_nodes: 935,  Fringe-size: 76 ,  Elapsed time is 5566.5322 seconds.
+Node: 10,  Depth: 47,  Max-depth: 47,  no_expanded_nodes: 936,  Fringe-size: 71 ,  Elapsed time is 5566.6022 seconds.
+
+ans =
+
+       10799
+
+
+ans =
+
+  1×1 cell array
+
+    {'24'}
+
+Node: 13,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47 ,  Elapsed time is 5566.8516 seconds.
+Node: 14,  Depth: 1,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 62 ,  Elapsed time is 5567.0931 seconds.
+Node: 11,  Depth: 3,  Max-depth: 3,  no_expanded_nodes: 5,  Fringe-size: 99 ,  Elapsed time is 5567.5234 seconds.
+Node: 12,  Depth: 4,  Max-depth: 4,  no_expanded_nodes: 6,  Fringe-size: 102 ,  Elapsed time is 5567.7341 seconds.
+Node: 21,  Depth: 2,  Max-depth: 5,  no_expanded_nodes: 7,  Fringe-size: 125 ,  Elapsed time is 5567.9353 seconds.
+Node: 46,  Depth: 6,  Max-depth: 6,  no_expanded_nodes: 11,  Fringe-size: 176 ,  Elapsed time is 5568.7787 seconds.
+Node: 15,  Depth: 5,  Max-depth: 7,  no_expanded_nodes: 12,  Fringe-size: 185 ,  Elapsed time is 5568.9801 seconds.
+Node: 23,  Depth: 5,  Max-depth: 8,  no_expanded_nodes: 25,  Fringe-size: 251 ,  Elapsed time is 5572.0142 seconds.
+Node: 11,  Depth: 9,  Max-depth: 9,  no_expanded_nodes: 29,  Fringe-size: 232 ,  Elapsed time is 5572.9103 seconds.
+Node: 11,  Depth: 4,  Max-depth: 10,  no_expanded_nodes: 30,  Fringe-size: 237 ,  Elapsed time is 5573.1039 seconds.
+Node: 32,  Depth: 3,  Max-depth: 11,  no_expanded_nodes: 38,  Fringe-size: 252 ,  Elapsed time is 5574.8815 seconds.
+Node: 3,  Depth: 7,  Max-depth: 12,  no_expanded_nodes: 83,  Fringe-size: 381 ,  Elapsed time is 5584.5641 seconds.
+Node: 43,  Depth: 9,  Max-depth: 13,  no_expanded_nodes: 128,  Fringe-size: 337 ,  Elapsed time is 5594.7857 seconds.
+Node: 28,  Depth: 9,  Max-depth: 14,  no_expanded_nodes: 134,  Fringe-size: 383 ,  Elapsed time is 5596.0639 seconds.
+Node: 38,  Depth: 15,  Max-depth: 15,  no_expanded_nodes: 169,  Fringe-size: 409 ,  Elapsed time is 5603.5973 seconds.
+Node: 31,  Depth: 16,  Max-depth: 16,  no_expanded_nodes: 170,  Fringe-size: 407 ,  Elapsed time is 5603.7764 seconds.
+Node: 14,  Depth: 11,  Max-depth: 17,  no_expanded_nodes: 171,  Fringe-size: 417 ,  Elapsed time is 5603.9535 seconds.
+Node: 44,  Depth: 18,  Max-depth: 18,  no_expanded_nodes: 189,  Fringe-size: 366 ,  Elapsed time is 5607.609 seconds.
+Node: 31,  Depth: 19,  Max-depth: 19,  no_expanded_nodes: 190,  Fringe-size: 353 ,  Elapsed time is 5607.7938 seconds.
+Node: 38,  Depth: 20,  Max-depth: 20,  no_expanded_nodes: 191,  Fringe-size: 338 ,  Elapsed time is 5607.9742 seconds.
+Node: 15,  Depth: 11,  Max-depth: 21,  no_expanded_nodes: 192,  Fringe-size: 316 ,  Elapsed time is 5608.1411 seconds.
+Node: 3,  Depth: 10,  Max-depth: 22,  no_expanded_nodes: 224,  Fringe-size: 358 ,  Elapsed time is 5614.4395 seconds.
+Node: 15,  Depth: 23,  Max-depth: 23,  no_expanded_nodes: 269,  Fringe-size: 356 ,  Elapsed time is 5623.6212 seconds.
+Node: 12,  Depth: 24,  Max-depth: 24,  no_expanded_nodes: 270,  Fringe-size: 375 ,  Elapsed time is 5623.7678 seconds.
+Node: 11,  Depth: 25,  Max-depth: 25,  no_expanded_nodes: 271,  Fringe-size: 355 ,  Elapsed time is 5623.9183 seconds.
+Node: 8,  Depth: 21,  Max-depth: 26,  no_expanded_nodes: 272,  Fringe-size: 343 ,  Elapsed time is 5624.065 seconds.
+Node: 17,  Depth: 12,  Max-depth: 27,  no_expanded_nodes: 311,  Fringe-size: 317 ,  Elapsed time is 5631.541 seconds.
+Node: 2,  Depth: 5,  Max-depth: 28,  no_expanded_nodes: 332,  Fringe-size: 364 ,  Elapsed time is 5635.2796 seconds.
+Node: 29,  Depth: 5,  Max-depth: 29,  no_expanded_nodes: 351,  Fringe-size: 339 ,  Elapsed time is 5638.8389 seconds.
+Node: 11,  Depth: 30,  Max-depth: 30,  no_expanded_nodes: 430,  Fringe-size: 359 ,  Elapsed time is 5653.5831 seconds.
+Node: 23,  Depth: 31,  Max-depth: 31,  no_expanded_nodes: 431,  Fringe-size: 348 ,  Elapsed time is 5653.7293 seconds.
+Node: 41,  Depth: 11,  Max-depth: 32,  no_expanded_nodes: 432,  Fringe-size: 329 ,  Elapsed time is 5653.8591 seconds.
+Node: 34,  Depth: 33,  Max-depth: 33,  no_expanded_nodes: 507,  Fringe-size: 212 ,  Elapsed time is 5667.6882 seconds.
+Node: 43,  Depth: 19,  Max-depth: 34,  no_expanded_nodes: 508,  Fringe-size: 181 ,  Elapsed time is 5667.8197 seconds.
+Node: 3,  Depth: 28,  Max-depth: 35,  no_expanded_nodes: 580,  Fringe-size: 155 ,  Elapsed time is 5680.0904 seconds.
+Node: 8,  Depth: 14,  Max-depth: 36,  no_expanded_nodes: 603,  Fringe-size: 139 ,  Elapsed time is 5683.3567 seconds.
+Node: 39,  Depth: 36,  Max-depth: 37,  no_expanded_nodes: 653,  Fringe-size: 133 ,  Elapsed time is 5691.4374 seconds.
+Node: 2,  Depth: 15,  Max-depth: 38,  no_expanded_nodes: 663,  Fringe-size: 146 ,  Elapsed time is 5692.9625 seconds.
+Node: 42,  Depth: 36,  Max-depth: 39,  no_expanded_nodes: 745,  Fringe-size: 232 ,  Elapsed time is 5706.0676 seconds.
+Node: 35,  Depth: 38,  Max-depth: 40,  no_expanded_nodes: 782,  Fringe-size: 228 ,  Elapsed time is 5711.0302 seconds.
+Node: 39,  Depth: 30,  Max-depth: 41,  no_expanded_nodes: 793,  Fringe-size: 212 ,  Elapsed time is 5712.617 seconds.
+Node: 42,  Depth: 42,  Max-depth: 42,  no_expanded_nodes: 832,  Fringe-size: 224 ,  Elapsed time is 5717.76 seconds.
+Node: 5,  Depth: 43,  Max-depth: 43,  no_expanded_nodes: 833,  Fringe-size: 222 ,  Elapsed time is 5717.8471 seconds.
+Node: 48,  Depth: 44,  Max-depth: 44,  no_expanded_nodes: 834,  Fringe-size: 223 ,  Elapsed time is 5717.9372 seconds.
+Node: 13,  Depth: 34,  Max-depth: 45,  no_expanded_nodes: 835,  Fringe-size: 214 ,  Elapsed time is 5718.02 seconds.
+Node: 1,  Depth: 22,  Max-depth: 46,  no_expanded_nodes: 844,  Fringe-size: 213 ,  Elapsed time is 5718.9337 seconds.
+Node: 14,  Depth: 47,  Max-depth: 47,  no_expanded_nodes: 891,  Fringe-size: 206 ,  Elapsed time is 5725.4297 seconds.
+
+ans =
+
+       10794
+
+
+ans =
+
+  1×1 cell array
+
+    {'25'}
+
+Node: 4,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47 ,  Elapsed time is 5725.6859 seconds.
+Node: 35,  Depth: 2,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 86 ,  Elapsed time is 5725.8986 seconds.
+Node: 45,  Depth: 3,  Max-depth: 3,  no_expanded_nodes: 4,  Fringe-size: 129 ,  Elapsed time is 5726.1183 seconds.
+Node: 24,  Depth: 4,  Max-depth: 4,  no_expanded_nodes: 5,  Fringe-size: 117 ,  Elapsed time is 5726.3387 seconds.
+Node: 2,  Depth: 2,  Max-depth: 5,  no_expanded_nodes: 6,  Fringe-size: 61 ,  Elapsed time is 5726.5757 seconds.
+Node: 10,  Depth: 5,  Max-depth: 6,  no_expanded_nodes: 13,  Fringe-size: 125 ,  Elapsed time is 5728.0935 seconds.
+Node: 5,  Depth: 2,  Max-depth: 7,  no_expanded_nodes: 16,  Fringe-size: 109 ,  Elapsed time is 5728.7228 seconds.
+Node: 39,  Depth: 7,  Max-depth: 8,  no_expanded_nodes: 34,  Fringe-size: 187 ,  Elapsed time is 5732.4886 seconds.
+Node: 48,  Depth: 8,  Max-depth: 9,  no_expanded_nodes: 40,  Fringe-size: 137 ,  Elapsed time is 5733.6998 seconds.
+Node: 12,  Depth: 10,  Max-depth: 10,  no_expanded_nodes: 47,  Fringe-size: 150 ,  Elapsed time is 5735.1294 seconds.
+Node: 21,  Depth: 8,  Max-depth: 11,  no_expanded_nodes: 48,  Fringe-size: 165 ,  Elapsed time is 5735.3346 seconds.
+Node: 46,  Depth: 12,  Max-depth: 12,  no_expanded_nodes: 61,  Fringe-size: 213 ,  Elapsed time is 5737.9121 seconds.
+Node: 23,  Depth: 9,  Max-depth: 13,  no_expanded_nodes: 62,  Fringe-size: 216 ,  Elapsed time is 5738.0943 seconds.
+Node: 11,  Depth: 14,  Max-depth: 14,  no_expanded_nodes: 90,  Fringe-size: 265 ,  Elapsed time is 5743.5535 seconds.
+Node: 12,  Depth: 15,  Max-depth: 15,  no_expanded_nodes: 91,  Fringe-size: 238 ,  Elapsed time is 5743.759 seconds.
+Node: 32,  Depth: 7,  Max-depth: 16,  no_expanded_nodes: 92,  Fringe-size: 243 ,  Elapsed time is 5743.9504 seconds.
+Node: 41,  Depth: 6,  Max-depth: 17,  no_expanded_nodes: 136,  Fringe-size: 371 ,  Elapsed time is 5752.883 seconds.
+Node: 4,  Depth: 2,  Max-depth: 18,  no_expanded_nodes: 152,  Fringe-size: 407 ,  Elapsed time is 5756.1484 seconds.
+Node: 15,  Depth: 19,  Max-depth: 19,  no_expanded_nodes: 180,  Fringe-size: 460 ,  Elapsed time is 5761.8279 seconds.
+Node: 40,  Depth: 20,  Max-depth: 20,  no_expanded_nodes: 181,  Fringe-size: 453 ,  Elapsed time is 5761.9969 seconds.
+Node: 25,  Depth: 6,  Max-depth: 21,  no_expanded_nodes: 182,  Fringe-size: 451 ,  Elapsed time is 5762.1663 seconds.
+Node: 18,  Depth: 15,  Max-depth: 22,  no_expanded_nodes: 301,  Fringe-size: 558 ,  Elapsed time is 5786.9627 seconds.
+Node: 18,  Depth: 23,  Max-depth: 23,  no_expanded_nodes: 388,  Fringe-size: 748 ,  Elapsed time is 5804.7188 seconds.
+Node: 44,  Depth: 24,  Max-depth: 24,  no_expanded_nodes: 389,  Fringe-size: 699 ,  Elapsed time is 5804.8981 seconds.
+Node: 31,  Depth: 25,  Max-depth: 25,  no_expanded_nodes: 390,  Fringe-size: 680 ,  Elapsed time is 5805.0686 seconds.
+Node: 38,  Depth: 26,  Max-depth: 26,  no_expanded_nodes: 391,  Fringe-size: 655 ,  Elapsed time is 5805.238 seconds.
+Node: 33,  Depth: 11,  Max-depth: 27,  no_expanded_nodes: 392,  Fringe-size: 641 ,  Elapsed time is 5805.4002 seconds.
+Node: 1,  Depth: 21,  Max-depth: 28,  no_expanded_nodes: 482,  Fringe-size: 406 ,  Elapsed time is 5822.632 seconds.
+Node: 15,  Depth: 29,  Max-depth: 29,  no_expanded_nodes: 574,  Fringe-size: 483 ,  Elapsed time is 5839.5174 seconds.
+Node: 12,  Depth: 30,  Max-depth: 30,  no_expanded_nodes: 575,  Fringe-size: 496 ,  Elapsed time is 5839.6477 seconds.
+Node: 11,  Depth: 31,  Max-depth: 31,  no_expanded_nodes: 576,  Fringe-size: 474 ,  Elapsed time is 5839.7835 seconds.
+Node: 48,  Depth: 20,  Max-depth: 32,  no_expanded_nodes: 577,  Fringe-size: 452 ,  Elapsed time is 5839.923 seconds.
+Node: 14,  Depth: 16,  Max-depth: 33,  no_expanded_nodes: 626,  Fringe-size: 351 ,  Elapsed time is 5848.7524 seconds.
+Node: 37,  Depth: 23,  Max-depth: 34,  no_expanded_nodes: 631,  Fringe-size: 371 ,  Elapsed time is 5849.4521 seconds.
+Node: 22,  Depth: 19,  Max-depth: 35,  no_expanded_nodes: 662,  Fringe-size: 334 ,  Elapsed time is 5854.9422 seconds.
+Node: 43,  Depth: 23,  Max-depth: 36,  no_expanded_nodes: 691,  Fringe-size: 324 ,  Elapsed time is 5859.8064 seconds.
+Node: 9,  Depth: 19,  Max-depth: 37,  no_expanded_nodes: 721,  Fringe-size: 245 ,  Elapsed time is 5864.2422 seconds.
+Node: 40,  Depth: 33,  Max-depth: 38,  no_expanded_nodes: 738,  Fringe-size: 247 ,  Elapsed time is 5866.9708 seconds.
+Node: 2,  Depth: 12,  Max-depth: 39,  no_expanded_nodes: 764,  Fringe-size: 253 ,  Elapsed time is 5871.1334 seconds.
+Node: 14,  Depth: 40,  Max-depth: 40,  no_expanded_nodes: 799,  Fringe-size: 233 ,  Elapsed time is 5877.3301 seconds.
+Node: 16,  Depth: 24,  Max-depth: 41,  no_expanded_nodes: 800,  Fringe-size: 216 ,  Elapsed time is 5877.4308 seconds.
+Node: 34,  Depth: 42,  Max-depth: 42,  no_expanded_nodes: 861,  Fringe-size: 198 ,  Elapsed time is 5887.3595 seconds.
+Node: 42,  Depth: 22,  Max-depth: 43,  no_expanded_nodes: 862,  Fringe-size: 167 ,  Elapsed time is 5887.4531 seconds.
+Node: 28,  Depth: 22,  Max-depth: 44,  no_expanded_nodes: 908,  Fringe-size: 171 ,  Elapsed time is 5895.1893 seconds.
+Node: 48,  Depth: 45,  Max-depth: 45,  no_expanded_nodes: 932,  Fringe-size: 171 ,  Elapsed time is 5898.3244 seconds.
+Node: 42,  Depth: 22,  Max-depth: 46,  no_expanded_nodes: 933,  Fringe-size: 162 ,  Elapsed time is 5898.4055 seconds.
+Node: 2,  Depth: 47,  Max-depth: 47,  no_expanded_nodes: 978,  Fringe-size: 137 ,  Elapsed time is 5904.5288 seconds.
+
+ans =
+
+       10858
+
+
+ans =
+
+  1×1 cell array
+
+    {'26'}
+
+Node: 19,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47 ,  Elapsed time is 5904.7885 seconds.
+Node: 37,  Depth: 2,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 91 ,  Elapsed time is 5905.0216 seconds.
+Node: 43,  Depth: 1,  Max-depth: 3,  no_expanded_nodes: 4,  Fringe-size: 76 ,  Elapsed time is 5905.2406 seconds.
+Node: 17,  Depth: 2,  Max-depth: 4,  no_expanded_nodes: 7,  Fringe-size: 99 ,  Elapsed time is 5905.9081 seconds.
+Node: 6,  Depth: 5,  Max-depth: 5,  no_expanded_nodes: 10,  Fringe-size: 147 ,  Elapsed time is 5906.5413 seconds.
+Node: 30,  Depth: 3,  Max-depth: 6,  no_expanded_nodes: 11,  Fringe-size: 147 ,  Elapsed time is 5906.739 seconds.
+Node: 7,  Depth: 7,  Max-depth: 7,  no_expanded_nodes: 33,  Fringe-size: 240 ,  Elapsed time is 5911.3755 seconds.
+Node: 18,  Depth: 6,  Max-depth: 8,  no_expanded_nodes: 34,  Fringe-size: 257 ,  Elapsed time is 5911.6032 seconds.
+Node: 36,  Depth: 7,  Max-depth: 9,  no_expanded_nodes: 47,  Fringe-size: 288 ,  Elapsed time is 5914.8775 seconds.
+Node: 36,  Depth: 7,  Max-depth: 10,  no_expanded_nodes: 56,  Fringe-size: 182 ,  Elapsed time is 5916.8469 seconds.
+Node: 33,  Depth: 6,  Max-depth: 11,  no_expanded_nodes: 71,  Fringe-size: 174 ,  Elapsed time is 5920.1714 seconds.
+Node: 36,  Depth: 9,  Max-depth: 12,  no_expanded_nodes: 85,  Fringe-size: 222 ,  Elapsed time is 5923.2036 seconds.
+Node: 15,  Depth: 12,  Max-depth: 13,  no_expanded_nodes: 103,  Fringe-size: 258 ,  Elapsed time is 5926.9501 seconds.
+Node: 30,  Depth: 6,  Max-depth: 14,  no_expanded_nodes: 124,  Fringe-size: 294 ,  Elapsed time is 5931.1836 seconds.
+Node: 46,  Depth: 11,  Max-depth: 15,  no_expanded_nodes: 132,  Fringe-size: 334 ,  Elapsed time is 5932.9172 seconds.
+Node: 44,  Depth: 9,  Max-depth: 16,  no_expanded_nodes: 168,  Fringe-size: 379 ,  Elapsed time is 5940.2873 seconds.
+Node: 7,  Depth: 10,  Max-depth: 17,  no_expanded_nodes: 186,  Fringe-size: 398 ,  Elapsed time is 5943.8498 seconds.
+Node: 12,  Depth: 18,  Max-depth: 18,  no_expanded_nodes: 208,  Fringe-size: 438 ,  Elapsed time is 5948.5164 seconds.
+Node: 44,  Depth: 9,  Max-depth: 19,  no_expanded_nodes: 209,  Fringe-size: 455 ,  Elapsed time is 5948.7027 seconds.
+Node: 12,  Depth: 20,  Max-depth: 20,  no_expanded_nodes: 313,  Fringe-size: 548 ,  Elapsed time is 5970.0955 seconds.
+Node: 8,  Depth: 12,  Max-depth: 21,  no_expanded_nodes: 314,  Fringe-size: 568 ,  Elapsed time is 5970.2702 seconds.
+Node: 33,  Depth: 18,  Max-depth: 22,  no_expanded_nodes: 465,  Fringe-size: 730 ,  Elapsed time is 6000.7114 seconds.
+Node: 14,  Depth: 23,  Max-depth: 23,  no_expanded_nodes: 472,  Fringe-size: 492 ,  Elapsed time is 6002.0635 seconds.
+Node: 20,  Depth: 18,  Max-depth: 24,  no_expanded_nodes: 473,  Fringe-size: 490 ,  Elapsed time is 6002.2271 seconds.
+Node: 13,  Depth: 25,  Max-depth: 25,  no_expanded_nodes: 531,  Fringe-size: 526 ,  Elapsed time is 6013.3312 seconds.
+Node: 46,  Depth: 17,  Max-depth: 26,  no_expanded_nodes: 532,  Fringe-size: 534 ,  Elapsed time is 6013.4835 seconds.
+Node: 7,  Depth: 9,  Max-depth: 27,  no_expanded_nodes: 856,  Fringe-size: 876 ,  Elapsed time is 6078.2588 seconds.
+Node: 32,  Depth: 19,  Max-depth: 28,  no_expanded_nodes: 1075,  Fringe-size: 806 ,  Elapsed time is 6121.6069 seconds.
+Node: 12,  Depth: 29,  Max-depth: 29,  no_expanded_nodes: 1633,  Fringe-size: 728 ,  Elapsed time is 6226.073 seconds.
+Node: 40,  Depth: 22,  Max-depth: 30,  no_expanded_nodes: 1634,  Fringe-size: 714 ,  Elapsed time is 6226.2216 seconds.
+Node: 33,  Depth: 20,  Max-depth: 31,  no_expanded_nodes: 1713,  Fringe-size: 658 ,  Elapsed time is 6240.6109 seconds.
+Node: 33,  Depth: 25,  Max-depth: 32,  no_expanded_nodes: 1761,  Fringe-size: 668 ,  Elapsed time is 6249.1331 seconds.
+Node: 13,  Depth: 27,  Max-depth: 33,  no_expanded_nodes: 2232,  Fringe-size: 500 ,  Elapsed time is 6327.3812 seconds.
+Node: 32,  Depth: 27,  Max-depth: 34,  no_expanded_nodes: 2243,  Fringe-size: 449 ,  Elapsed time is 6328.9802 seconds.
+Node: 23,  Depth: 35,  Max-depth: 35,  no_expanded_nodes: 2324,  Fringe-size: 390 ,  Elapsed time is 6341.3797 seconds.
+Node: 4,  Depth: 24,  Max-depth: 36,  no_expanded_nodes: 2325,  Fringe-size: 375 ,  Elapsed time is 6341.4963 seconds.
+Node: 11,  Depth: 37,  Max-depth: 37,  no_expanded_nodes: 2346,  Fringe-size: 370 ,  Elapsed time is 6344.4654 seconds.
+Node: 12,  Depth: 38,  Max-depth: 38,  no_expanded_nodes: 2347,  Fringe-size: 337 ,  Elapsed time is 6344.5769 seconds.
+Node: 46,  Depth: 31,  Max-depth: 39,  no_expanded_nodes: 2348,  Fringe-size: 329 ,  Elapsed time is 6344.681 seconds.
+Node: 40,  Depth: 18,  Max-depth: 40,  no_expanded_nodes: 2438,  Fringe-size: 290 ,  Elapsed time is 6357.6519 seconds.
+Node: 1,  Depth: 30,  Max-depth: 41,  no_expanded_nodes: 2461,  Fringe-size: 329 ,  Elapsed time is 6360.8392 seconds.
+Node: 33,  Depth: 42,  Max-depth: 42,  no_expanded_nodes: 2507,  Fringe-size: 241 ,  Elapsed time is 6366.7266 seconds.
+Node: 46,  Depth: 43,  Max-depth: 43,  no_expanded_nodes: 2508,  Fringe-size: 239 ,  Elapsed time is 6366.8184 seconds.
+Node: 36,  Depth: 44,  Max-depth: 44,  no_expanded_nodes: 2509,  Fringe-size: 222 ,  Elapsed time is 6366.9075 seconds.
+Node: 30,  Depth: 45,  Max-depth: 45,  no_expanded_nodes: 2510,  Fringe-size: 210 ,  Elapsed time is 6366.9959 seconds.
+Node: 46,  Depth: 30,  Max-depth: 46,  no_expanded_nodes: 2511,  Fringe-size: 205 ,  Elapsed time is 6367.074 seconds.
+Node: 17,  Depth: 47,  Max-depth: 47,  no_expanded_nodes: 2544,  Fringe-size: 151 ,  Elapsed time is 6371.2635 seconds.
+
+ans =
+
+       10731
+
+
+ans =
+
+  1×1 cell array
+
+    {'27'}
+
+Node: 7,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47 ,  Elapsed time is 6371.5319 seconds.
+Node: 36,  Depth: 1,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 82 ,  Elapsed time is 6371.7472 seconds.
+Node: 30,  Depth: 1,  Max-depth: 3,  no_expanded_nodes: 5,  Fringe-size: 98 ,  Elapsed time is 6372.2134 seconds.
+Node: 7,  Depth: 2,  Max-depth: 4,  no_expanded_nodes: 9,  Fringe-size: 147 ,  Elapsed time is 6373.074 seconds.
+Node: 43,  Depth: 2,  Max-depth: 5,  no_expanded_nodes: 11,  Fringe-size: 183 ,  Elapsed time is 6373.5224 seconds.
+Node: 43,  Depth: 6,  Max-depth: 6,  no_expanded_nodes: 15,  Fringe-size: 245 ,  Elapsed time is 6374.3607 seconds.
+Node: 30,  Depth: 7,  Max-depth: 7,  no_expanded_nodes: 16,  Fringe-size: 179 ,  Elapsed time is 6374.5761 seconds.
+Node: 36,  Depth: 8,  Max-depth: 8,  no_expanded_nodes: 17,  Fringe-size: 133 ,  Elapsed time is 6374.7792 seconds.
+Node: 37,  Depth: 3,  Max-depth: 9,  no_expanded_nodes: 18,  Fringe-size: 145 ,  Elapsed time is 6374.9786 seconds.
+Node: 19,  Depth: 4,  Max-depth: 10,  no_expanded_nodes: 20,  Fringe-size: 182 ,  Elapsed time is 6375.3743 seconds.
+Node: 19,  Depth: 5,  Max-depth: 11,  no_expanded_nodes: 49,  Fringe-size: 301 ,  Elapsed time is 6381.5639 seconds.
+Node: 8,  Depth: 6,  Max-depth: 12,  no_expanded_nodes: 96,  Fringe-size: 295 ,  Elapsed time is 6392.0118 seconds.
+Node: 27,  Depth: 6,  Max-depth: 13,  no_expanded_nodes: 117,  Fringe-size: 408 ,  Elapsed time is 6396.5537 seconds.
+Node: 13,  Depth: 14,  Max-depth: 14,  no_expanded_nodes: 124,  Fringe-size: 282 ,  Elapsed time is 6398.0379 seconds.
+Node: 25,  Depth: 8,  Max-depth: 15,  no_expanded_nodes: 125,  Fringe-size: 281 ,  Elapsed time is 6398.2177 seconds.
+Node: 21,  Depth: 15,  Max-depth: 16,  no_expanded_nodes: 184,  Fringe-size: 373 ,  Elapsed time is 6410.664 seconds.
+Node: 25,  Depth: 10,  Max-depth: 17,  no_expanded_nodes: 186,  Fringe-size: 352 ,  Elapsed time is 6411.0496 seconds.
+Node: 14,  Depth: 11,  Max-depth: 18,  no_expanded_nodes: 270,  Fringe-size: 449 ,  Elapsed time is 6428.3742 seconds.
+Node: 8,  Depth: 15,  Max-depth: 19,  no_expanded_nodes: 302,  Fringe-size: 437 ,  Elapsed time is 6434.7941 seconds.
+Node: 15,  Depth: 20,  Max-depth: 20,  no_expanded_nodes: 334,  Fringe-size: 471 ,  Elapsed time is 6440.8118 seconds.
+Node: 40,  Depth: 21,  Max-depth: 21,  no_expanded_nodes: 335,  Fringe-size: 459 ,  Elapsed time is 6440.987 seconds.
+Node: 47,  Depth: 15,  Max-depth: 22,  no_expanded_nodes: 336,  Fringe-size: 439 ,  Elapsed time is 6441.1582 seconds.
+Node: 33,  Depth: 14,  Max-depth: 23,  no_expanded_nodes: 454,  Fringe-size: 605 ,  Elapsed time is 6464.0785 seconds.
+Node: 41,  Depth: 17,  Max-depth: 24,  no_expanded_nodes: 585,  Fringe-size: 681 ,  Elapsed time is 6491.1746 seconds.
+Node: 40,  Depth: 17,  Max-depth: 25,  no_expanded_nodes: 678,  Fringe-size: 568 ,  Elapsed time is 6509.3372 seconds.
+Node: 6,  Depth: 6,  Max-depth: 26,  no_expanded_nodes: 770,  Fringe-size: 572 ,  Elapsed time is 6526.6603 seconds.
+Node: 31,  Depth: 16,  Max-depth: 27,  no_expanded_nodes: 801,  Fringe-size: 608 ,  Elapsed time is 6532.6153 seconds.
+Node: 1,  Depth: 23,  Max-depth: 28,  no_expanded_nodes: 873,  Fringe-size: 495 ,  Elapsed time is 6546.0425 seconds.
+Node: 8,  Depth: 17,  Max-depth: 29,  no_expanded_nodes: 1015,  Fringe-size: 562 ,  Elapsed time is 6572.346 seconds.
+Node: 44,  Depth: 22,  Max-depth: 30,  no_expanded_nodes: 1087,  Fringe-size: 582 ,  Elapsed time is 6585.4201 seconds.
+Node: 20,  Depth: 26,  Max-depth: 31,  no_expanded_nodes: 1211,  Fringe-size: 619 ,  Elapsed time is 6607.5303 seconds.
+Node: 31,  Depth: 25,  Max-depth: 32,  no_expanded_nodes: 1426,  Fringe-size: 443 ,  Elapsed time is 6644.7324 seconds.
+Node: 14,  Depth: 30,  Max-depth: 33,  no_expanded_nodes: 1756,  Fringe-size: 390 ,  Elapsed time is 6695.1311 seconds.
+Node: 23,  Depth: 34,  Max-depth: 34,  no_expanded_nodes: 1795,  Fringe-size: 430 ,  Elapsed time is 6700.9639 seconds.
+Node: 3,  Depth: 35,  Max-depth: 35,  no_expanded_nodes: 1796,  Fringe-size: 421 ,  Elapsed time is 6701.0881 seconds.
+Node: 9,  Depth: 29,  Max-depth: 36,  no_expanded_nodes: 1797,  Fringe-size: 421 ,  Elapsed time is 6701.2138 seconds.
+Node: 41,  Depth: 29,  Max-depth: 37,  no_expanded_nodes: 1885,  Fringe-size: 352 ,  Elapsed time is 6713.1955 seconds.
+Node: 44,  Depth: 38,  Max-depth: 38,  no_expanded_nodes: 1894,  Fringe-size: 301 ,  Elapsed time is 6714.2721 seconds.
+Node: 18,  Depth: 39,  Max-depth: 39,  no_expanded_nodes: 1895,  Fringe-size: 291 ,  Elapsed time is 6714.371 seconds.
+Node: 21,  Depth: 29,  Max-depth: 40,  no_expanded_nodes: 1896,  Fringe-size: 288 ,  Elapsed time is 6714.4666 seconds.
+Node: 3,  Depth: 36,  Max-depth: 41,  no_expanded_nodes: 1937,  Fringe-size: 313 ,  Elapsed time is 6719.7234 seconds.
+Node: 20,  Depth: 32,  Max-depth: 42,  no_expanded_nodes: 1952,  Fringe-size: 269 ,  Elapsed time is 6721.6208 seconds.
+Node: 19,  Depth: 43,  Max-depth: 43,  no_expanded_nodes: 1981,  Fringe-size: 309 ,  Elapsed time is 6725.1349 seconds.
+Node: 47,  Depth: 32,  Max-depth: 44,  no_expanded_nodes: 1982,  Fringe-size: 307 ,  Elapsed time is 6725.2198 seconds.
+Node: 32,  Depth: 30,  Max-depth: 45,  no_expanded_nodes: 2024,  Fringe-size: 267 ,  Elapsed time is 6730.2416 seconds.
+Node: 43,  Depth: 46,  Max-depth: 46,  no_expanded_nodes: 2040,  Fringe-size: 215 ,  Elapsed time is 6732.0973 seconds.
+Node: 30,  Depth: 47,  Max-depth: 47,  no_expanded_nodes: 2041,  Fringe-size: 211 ,  Elapsed time is 6732.1796 seconds.
+
+ans =
+
+       10702
+
+
+ans =
+
+  1×1 cell array
+
+    {'28'}
+
+Node: 5,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47 ,  Elapsed time is 6732.4426 seconds.
+Node: 2,  Depth: 1,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 92 ,  Elapsed time is 6732.6556 seconds.
+Node: 26,  Depth: 3,  Max-depth: 3,  no_expanded_nodes: 7,  Fringe-size: 93 ,  Elapsed time is 6733.5231 seconds.
+Node: 42,  Depth: 2,  Max-depth: 4,  no_expanded_nodes: 8,  Fringe-size: 90 ,  Elapsed time is 6733.723 seconds.
+Node: 23,  Depth: 5,  Max-depth: 5,  no_expanded_nodes: 15,  Fringe-size: 98 ,  Elapsed time is 6735.207 seconds.
+Node: 41,  Depth: 2,  Max-depth: 6,  no_expanded_nodes: 16,  Fringe-size: 119 ,  Elapsed time is 6735.4212 seconds.
+Node: 12,  Depth: 7,  Max-depth: 7,  no_expanded_nodes: 19,  Fringe-size: 131 ,  Elapsed time is 6736.0532 seconds.
+Node: 48,  Depth: 2,  Max-depth: 8,  no_expanded_nodes: 20,  Fringe-size: 149 ,  Elapsed time is 6736.2483 seconds.
+Node: 42,  Depth: 3,  Max-depth: 9,  no_expanded_nodes: 28,  Fringe-size: 168 ,  Elapsed time is 6737.906 seconds.
+Node: 11,  Depth: 7,  Max-depth: 10,  no_expanded_nodes: 31,  Fringe-size: 180 ,  Elapsed time is 6738.5193 seconds.
+Node: 33,  Depth: 8,  Max-depth: 11,  no_expanded_nodes: 57,  Fringe-size: 186 ,  Elapsed time is 6743.921 seconds.
+Node: 14,  Depth: 4,  Max-depth: 12,  no_expanded_nodes: 70,  Fringe-size: 264 ,  Elapsed time is 6746.6775 seconds.
+Node: 1,  Depth: 6,  Max-depth: 13,  no_expanded_nodes: 98,  Fringe-size: 464 ,  Elapsed time is 6752.7088 seconds.
+Node: 47,  Depth: 7,  Max-depth: 14,  no_expanded_nodes: 128,  Fringe-size: 433 ,  Elapsed time is 6759.3193 seconds.
+Node: 31,  Depth: 15,  Max-depth: 15,  no_expanded_nodes: 149,  Fringe-size: 391 ,  Elapsed time is 6763.6937 seconds.
+Node: 22,  Depth: 8,  Max-depth: 16,  no_expanded_nodes: 150,  Fringe-size: 404 ,  Elapsed time is 6763.876 seconds.
+Node: 15,  Depth: 10,  Max-depth: 17,  no_expanded_nodes: 191,  Fringe-size: 559 ,  Elapsed time is 6772.7466 seconds.
+Node: 7,  Depth: 13,  Max-depth: 18,  no_expanded_nodes: 203,  Fringe-size: 467 ,  Elapsed time is 6775.1668 seconds.
+Node: 23,  Depth: 7,  Max-depth: 19,  no_expanded_nodes: 213,  Fringe-size: 525 ,  Elapsed time is 6777.2051 seconds.
+Node: 28,  Depth: 14,  Max-depth: 20,  no_expanded_nodes: 286,  Fringe-size: 566 ,  Elapsed time is 6792.929 seconds.
+Node: 36,  Depth: 21,  Max-depth: 21,  no_expanded_nodes: 299,  Fringe-size: 416 ,  Elapsed time is 6795.5564 seconds.
+Node: 46,  Depth: 22,  Max-depth: 22,  no_expanded_nodes: 300,  Fringe-size: 343 ,  Elapsed time is 6795.7372 seconds.
+Node: 28,  Depth: 19,  Max-depth: 23,  no_expanded_nodes: 301,  Fringe-size: 334 ,  Elapsed time is 6795.9145 seconds.
+Node: 5,  Depth: 9,  Max-depth: 24,  no_expanded_nodes: 316,  Fringe-size: 375 ,  Elapsed time is 6799.046 seconds.
+Node: 15,  Depth: 10,  Max-depth: 25,  no_expanded_nodes: 366,  Fringe-size: 394 ,  Elapsed time is 6808.4561 seconds.
+Node: 21,  Depth: 26,  Max-depth: 26,  no_expanded_nodes: 400,  Fringe-size: 338 ,  Elapsed time is 6814.7854 seconds.
+Node: 13,  Depth: 27,  Max-depth: 27,  no_expanded_nodes: 401,  Fringe-size: 325 ,  Elapsed time is 6814.9436 seconds.
+Node: 34,  Depth: 7,  Max-depth: 28,  no_expanded_nodes: 402,  Fringe-size: 329 ,  Elapsed time is 6815.0849 seconds.
+Node: 27,  Depth: 22,  Max-depth: 29,  no_expanded_nodes: 481,  Fringe-size: 423 ,  Elapsed time is 6828.8577 seconds.
+Node: 47,  Depth: 28,  Max-depth: 30,  no_expanded_nodes: 511,  Fringe-size: 314 ,  Elapsed time is 6834.0339 seconds.
+Node: 36,  Depth: 20,  Max-depth: 31,  no_expanded_nodes: 515,  Fringe-size: 329 ,  Elapsed time is 6834.5507 seconds.
+Node: 21,  Depth: 32,  Max-depth: 32,  no_expanded_nodes: 543,  Fringe-size: 315 ,  Elapsed time is 6839.3488 seconds.
+Node: 13,  Depth: 33,  Max-depth: 33,  no_expanded_nodes: 544,  Fringe-size: 296 ,  Elapsed time is 6839.4911 seconds.
+Node: 2,  Depth: 4,  Max-depth: 34,  no_expanded_nodes: 545,  Fringe-size: 297 ,  Elapsed time is 6839.6096 seconds.
+Node: 21,  Depth: 35,  Max-depth: 35,  no_expanded_nodes: 571,  Fringe-size: 341 ,  Elapsed time is 6843.6977 seconds.
+Node: 44,  Depth: 20,  Max-depth: 36,  no_expanded_nodes: 572,  Fringe-size: 264 ,  Elapsed time is 6843.8346 seconds.
+Node: 39,  Depth: 37,  Max-depth: 37,  no_expanded_nodes: 603,  Fringe-size: 254 ,  Elapsed time is 6849.0037 seconds.
+Node: 48,  Depth: 38,  Max-depth: 38,  no_expanded_nodes: 604,  Fringe-size: 213 ,  Elapsed time is 6849.1314 seconds.
+Node: 8,  Depth: 15,  Max-depth: 39,  no_expanded_nodes: 605,  Fringe-size: 210 ,  Elapsed time is 6849.2568 seconds.
+Node: 8,  Depth: 24,  Max-depth: 40,  no_expanded_nodes: 671,  Fringe-size: 226 ,  Elapsed time is 6860.5436 seconds.
+Node: 16,  Depth: 20,  Max-depth: 41,  no_expanded_nodes: 728,  Fringe-size: 161 ,  Elapsed time is 6869.7039 seconds.
+Node: 22,  Depth: 16,  Max-depth: 42,  no_expanded_nodes: 811,  Fringe-size: 173 ,  Elapsed time is 6882.8429 seconds.
+Node: 8,  Depth: 22,  Max-depth: 43,  no_expanded_nodes: 866,  Fringe-size: 192 ,  Elapsed time is 6891.7781 seconds.
+Node: 35,  Depth: 44,  Max-depth: 44,  no_expanded_nodes: 903,  Fringe-size: 196 ,  Elapsed time is 6897.076 seconds.
+Node: 4,  Depth: 41,  Max-depth: 45,  no_expanded_nodes: 904,  Fringe-size: 192 ,  Elapsed time is 6897.1557 seconds.
+Node: 26,  Depth: 46,  Max-depth: 46,  no_expanded_nodes: 914,  Fringe-size: 218 ,  Elapsed time is 6898.3968 seconds.
+Node: 2,  Depth: 47,  Max-depth: 47,  no_expanded_nodes: 915,  Fringe-size: 212 ,  Elapsed time is 6898.4759 seconds.
+
+ans =
+
+       10628
+
+
+ans =
+
+  1×1 cell array
+
+    {'29'}
+
+Node: 43,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47 ,  Elapsed time is 6898.7395 seconds.
+Node: 37,  Depth: 1,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 90 ,  Elapsed time is 6898.9494 seconds.
+Node: 6,  Depth: 1,  Max-depth: 3,  no_expanded_nodes: 5,  Fringe-size: 144 ,  Elapsed time is 6899.367 seconds.
+Node: 19,  Depth: 4,  Max-depth: 4,  no_expanded_nodes: 9,  Fringe-size: 208 ,  Elapsed time is 6900.2656 seconds.
+Node: 37,  Depth: 5,  Max-depth: 5,  no_expanded_nodes: 10,  Fringe-size: 240 ,  Elapsed time is 6900.4817 seconds.
+Node: 17,  Depth: 3,  Max-depth: 6,  no_expanded_nodes: 11,  Fringe-size: 194 ,  Elapsed time is 6900.7122 seconds.
+Node: 18,  Depth: 2,  Max-depth: 7,  no_expanded_nodes: 16,  Fringe-size: 152 ,  Elapsed time is 6901.8346 seconds.
+Node: 7,  Depth: 8,  Max-depth: 8,  no_expanded_nodes: 20,  Fringe-size: 167 ,  Elapsed time is 6902.6955 seconds.
+Node: 18,  Depth: 3,  Max-depth: 9,  no_expanded_nodes: 21,  Fringe-size: 182 ,  Elapsed time is 6902.9187 seconds.
+Node: 18,  Depth: 9,  Max-depth: 10,  no_expanded_nodes: 27,  Fringe-size: 252 ,  Elapsed time is 6904.2068 seconds.
+Node: 31,  Depth: 11,  Max-depth: 11,  no_expanded_nodes: 47,  Fringe-size: 288 ,  Elapsed time is 6908.7037 seconds.
+Node: 38,  Depth: 12,  Max-depth: 12,  no_expanded_nodes: 48,  Fringe-size: 245 ,  Elapsed time is 6908.9002 seconds.
+Node: 47,  Depth: 5,  Max-depth: 13,  no_expanded_nodes: 49,  Fringe-size: 225 ,  Elapsed time is 6909.0854 seconds.
+Node: 33,  Depth: 9,  Max-depth: 14,  no_expanded_nodes: 71,  Fringe-size: 262 ,  Elapsed time is 6913.7883 seconds.
+Node: 44,  Depth: 10,  Max-depth: 15,  no_expanded_nodes: 107,  Fringe-size: 299 ,  Elapsed time is 6921.2724 seconds.
+Node: 8,  Depth: 14,  Max-depth: 16,  no_expanded_nodes: 124,  Fringe-size: 377 ,  Elapsed time is 6924.7321 seconds.
+Node: 33,  Depth: 12,  Max-depth: 17,  no_expanded_nodes: 164,  Fringe-size: 411 ,  Elapsed time is 6932.9451 seconds.
+Node: 14,  Depth: 8,  Max-depth: 18,  no_expanded_nodes: 174,  Fringe-size: 433 ,  Elapsed time is 6934.884 seconds.
+Node: 32,  Depth: 8,  Max-depth: 19,  no_expanded_nodes: 218,  Fringe-size: 489 ,  Elapsed time is 6943.8059 seconds.
+Node: 46,  Depth: 18,  Max-depth: 20,  no_expanded_nodes: 245,  Fringe-size: 489 ,  Elapsed time is 6949.1131 seconds.
+Node: 12,  Depth: 21,  Max-depth: 21,  no_expanded_nodes: 268,  Fringe-size: 503 ,  Elapsed time is 6953.6699 seconds.
+Node: 1,  Depth: 16,  Max-depth: 22,  no_expanded_nodes: 269,  Fringe-size: 524 ,  Elapsed time is 6953.8304 seconds.
+Node: 12,  Depth: 23,  Max-depth: 23,  no_expanded_nodes: 439,  Fringe-size: 634 ,  Elapsed time is 6987.8379 seconds.
+Node: 14,  Depth: 21,  Max-depth: 24,  no_expanded_nodes: 440,  Fringe-size: 612 ,  Elapsed time is 6988.0033 seconds.
+Node: 47,  Depth: 15,  Max-depth: 25,  no_expanded_nodes: 528,  Fringe-size: 687 ,  Elapsed time is 7005.3272 seconds.
+Node: 14,  Depth: 26,  Max-depth: 26,  no_expanded_nodes: 537,  Fringe-size: 473 ,  Elapsed time is 7007.0615 seconds.
+Node: 20,  Depth: 21,  Max-depth: 27,  no_expanded_nodes: 538,  Fringe-size: 473 ,  Elapsed time is 7007.2258 seconds.
+Node: 13,  Depth: 28,  Max-depth: 28,  no_expanded_nodes: 636,  Fringe-size: 495 ,  Elapsed time is 7025.9985 seconds.
+Node: 39,  Depth: 17,  Max-depth: 29,  no_expanded_nodes: 637,  Fringe-size: 501 ,  Elapsed time is 7026.1424 seconds.
+Node: 5,  Depth: 19,  Max-depth: 30,  no_expanded_nodes: 928,  Fringe-size: 831 ,  Elapsed time is 7081.8939 seconds.
+Node: 29,  Depth: 26,  Max-depth: 31,  no_expanded_nodes: 1124,  Fringe-size: 789 ,  Elapsed time is 7119.1811 seconds.
+Node: 20,  Depth: 28,  Max-depth: 32,  no_expanded_nodes: 1652,  Fringe-size: 548 ,  Elapsed time is 7212.9867 seconds.
+Node: 11,  Depth: 33,  Max-depth: 33,  no_expanded_nodes: 1841,  Fringe-size: 529 ,  Elapsed time is 7242.67 seconds.
+Node: 12,  Depth: 34,  Max-depth: 34,  no_expanded_nodes: 1842,  Fringe-size: 521 ,  Elapsed time is 7242.8082 seconds.
+Node: 15,  Depth: 35,  Max-depth: 35,  no_expanded_nodes: 1843,  Fringe-size: 522 ,  Elapsed time is 7242.9376 seconds.
+Node: 40,  Depth: 36,  Max-depth: 36,  no_expanded_nodes: 1844,  Fringe-size: 502 ,  Elapsed time is 7243.0554 seconds.
+Node: 38,  Depth: 24,  Max-depth: 37,  no_expanded_nodes: 1845,  Fringe-size: 498 ,  Elapsed time is 7243.1713 seconds.
+Node: 39,  Depth: 26,  Max-depth: 38,  no_expanded_nodes: 2024,  Fringe-size: 577 ,  Elapsed time is 7270.3066 seconds.
+Node: 17,  Depth: 22,  Max-depth: 39,  no_expanded_nodes: 2145,  Fringe-size: 358 ,  Elapsed time is 7287.4921 seconds.
+Node: 11,  Depth: 40,  Max-depth: 40,  no_expanded_nodes: 2168,  Fringe-size: 348 ,  Elapsed time is 7290.5775 seconds.
+Node: 12,  Depth: 41,  Max-depth: 41,  no_expanded_nodes: 2169,  Fringe-size: 334 ,  Elapsed time is 7290.6773 seconds.
+Node: 41,  Depth: 30,  Max-depth: 42,  no_expanded_nodes: 2170,  Fringe-size: 331 ,  Elapsed time is 7290.7739 seconds.
+Node: 16,  Depth: 34,  Max-depth: 43,  no_expanded_nodes: 2259,  Fringe-size: 178 ,  Elapsed time is 7302.0414 seconds.
+Node: 1,  Depth: 33,  Max-depth: 44,  no_expanded_nodes: 2266,  Fringe-size: 180 ,  Elapsed time is 7302.7631 seconds.
+Node: 15,  Depth: 31,  Max-depth: 45,  no_expanded_nodes: 2271,  Fringe-size: 182 ,  Elapsed time is 7303.2868 seconds.
+Node: 46,  Depth: 46,  Max-depth: 46,  no_expanded_nodes: 2300,  Fringe-size: 126 ,  Elapsed time is 7306.4734 seconds.
+Node: 36,  Depth: 47,  Max-depth: 47,  no_expanded_nodes: 2301,  Fringe-size: 112 ,  Elapsed time is 7306.5474 seconds.
+
+ans =
+
+       10731
+
+
+ans =
+
+  1×1 cell array
+
+    {'30'}
+
+Node: 38,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47 ,  Elapsed time is 28.8013 seconds.
+Node: 44,  Depth: 1,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 61 ,  Elapsed time is 29.0881 seconds.
+Node: 18,  Depth: 2,  Max-depth: 3,  no_expanded_nodes: 5,  Fringe-size: 84 ,  Elapsed time is 29.5945 seconds.
+Node: 40,  Depth: 3,  Max-depth: 4,  no_expanded_nodes: 7,  Fringe-size: 135 ,  Elapsed time is 30.0753 seconds.
+Node: 8,  Depth: 3,  Max-depth: 5,  no_expanded_nodes: 11,  Fringe-size: 119 ,  Elapsed time is 30.9993 seconds.
+Node: 15,  Depth: 6,  Max-depth: 6,  no_expanded_nodes: 18,  Fringe-size: 154 ,  Elapsed time is 32.5443 seconds.
+Node: 18,  Depth: 3,  Max-depth: 7,  no_expanded_nodes: 19,  Fringe-size: 175 ,  Elapsed time is 32.7542 seconds.
+Node: 6,  Depth: 5,  Max-depth: 8,  no_expanded_nodes: 33,  Fringe-size: 247 ,  Elapsed time is 35.9172 seconds.
+Node: 23,  Depth: 8,  Max-depth: 9,  no_expanded_nodes: 47,  Fringe-size: 308 ,  Elapsed time is 38.7739 seconds.
+Node: 12,  Depth: 10,  Max-depth: 10,  no_expanded_nodes: 56,  Fringe-size: 358 ,  Elapsed time is 40.6397 seconds.
+Node: 40,  Depth: 8,  Max-depth: 11,  no_expanded_nodes: 57,  Fringe-size: 377 ,  Elapsed time is 40.8397 seconds.
+Node: 36,  Depth: 12,  Max-depth: 12,  no_expanded_nodes: 61,  Fringe-size: 375 ,  Elapsed time is 41.6505 seconds.
+Node: 46,  Depth: 13,  Max-depth: 13,  no_expanded_nodes: 62,  Fringe-size: 329 ,  Elapsed time is 41.8501 seconds.
+Node: 6,  Depth: 6,  Max-depth: 14,  no_expanded_nodes: 63,  Fringe-size: 311 ,  Elapsed time is 42.0348 seconds.
+Node: 7,  Depth: 4,  Max-depth: 15,  no_expanded_nodes: 71,  Fringe-size: 366 ,  Elapsed time is 43.7104 seconds.
+Node: 28,  Depth: 5,  Max-depth: 16,  no_expanded_nodes: 100,  Fringe-size: 425 ,  Elapsed time is 49.9949 seconds.
+Node: 21,  Depth: 17,  Max-depth: 17,  no_expanded_nodes: 130,  Fringe-size: 479 ,  Elapsed time is 56.2418 seconds.
+Node: 13,  Depth: 18,  Max-depth: 18,  no_expanded_nodes: 131,  Fringe-size: 446 ,  Elapsed time is 56.4365 seconds.
+Node: 15,  Depth: 9,  Max-depth: 19,  no_expanded_nodes: 132,  Fringe-size: 443 ,  Elapsed time is 56.6155 seconds.
+Node: 21,  Depth: 19,  Max-depth: 20,  no_expanded_nodes: 194,  Fringe-size: 475 ,  Elapsed time is 68.866 seconds.
+Node: 30,  Depth: 6,  Max-depth: 21,  no_expanded_nodes: 196,  Fringe-size: 445 ,  Elapsed time is 69.194 seconds.
+Node: 18,  Depth: 7,  Max-depth: 22,  no_expanded_nodes: 293,  Fringe-size: 570 ,  Elapsed time is 88.5721 seconds.
+Node: 9,  Depth: 5,  Max-depth: 23,  no_expanded_nodes: 339,  Fringe-size: 665 ,  Elapsed time is 97.8038 seconds.
+Node: 15,  Depth: 24,  Max-depth: 24,  no_expanded_nodes: 364,  Fringe-size: 645 ,  Elapsed time is 102.6471 seconds.
+Node: 40,  Depth: 25,  Max-depth: 25,  no_expanded_nodes: 365,  Fringe-size: 624 ,  Elapsed time is 102.8124 seconds.
+Node: 28,  Depth: 6,  Max-depth: 26,  no_expanded_nodes: 366,  Fringe-size: 591 ,  Elapsed time is 102.9718 seconds.
+Node: 32,  Depth: 16,  Max-depth: 27,  no_expanded_nodes: 516,  Fringe-size: 691 ,  Elapsed time is 132.3371 seconds.
+Node: 28,  Depth: 14,  Max-depth: 28,  no_expanded_nodes: 680,  Fringe-size: 840 ,  Elapsed time is 164.2005 seconds.
+Node: 20,  Depth: 19,  Max-depth: 29,  no_expanded_nodes: 1124,  Fringe-size: 830 ,  Elapsed time is 247.8097 seconds.
+Node: 40,  Depth: 28,  Max-depth: 30,  no_expanded_nodes: 1431,  Fringe-size: 627 ,  Elapsed time is 299.9196 seconds.
+Node: 40,  Depth: 28,  Max-depth: 31,  no_expanded_nodes: 1628,  Fringe-size: 746 ,  Elapsed time is 330.497 seconds.
+Node: 26,  Depth: 32,  Max-depth: 32,  no_expanded_nodes: 1779,  Fringe-size: 691 ,  Elapsed time is 353.9562 seconds.
+Node: 42,  Depth: 33,  Max-depth: 33,  no_expanded_nodes: 1780,  Fringe-size: 647 ,  Elapsed time is 354.0947 seconds.
+Node: 48,  Depth: 34,  Max-depth: 34,  no_expanded_nodes: 1781,  Fringe-size: 611 ,  Elapsed time is 354.2315 seconds.
+Node: 5,  Depth: 35,  Max-depth: 35,  no_expanded_nodes: 1782,  Fringe-size: 607 ,  Elapsed time is 354.3494 seconds.
+Node: 1,  Depth: 29,  Max-depth: 36,  no_expanded_nodes: 1783,  Fringe-size: 600 ,  Elapsed time is 354.4652 seconds.
+Node: 12,  Depth: 37,  Max-depth: 37,  no_expanded_nodes: 1887,  Fringe-size: 596 ,  Elapsed time is 369.1574 seconds.
+Node: 15,  Depth: 38,  Max-depth: 38,  no_expanded_nodes: 1888,  Fringe-size: 598 ,  Elapsed time is 369.264 seconds.
+Node: 40,  Depth: 39,  Max-depth: 39,  no_expanded_nodes: 1889,  Fringe-size: 561 ,  Elapsed time is 369.3788 seconds.
+Node: 1,  Depth: 29,  Max-depth: 40,  no_expanded_nodes: 1890,  Fringe-size: 523 ,  Elapsed time is 369.4946 seconds.
+Node: 8,  Depth: 30,  Max-depth: 41,  no_expanded_nodes: 2021,  Fringe-size: 572 ,  Elapsed time is 387.0975 seconds.
+Node: 15,  Depth: 42,  Max-depth: 42,  no_expanded_nodes: 2116,  Fringe-size: 449 ,  Elapsed time is 399.4393 seconds.
+Node: 40,  Depth: 43,  Max-depth: 43,  no_expanded_nodes: 2117,  Fringe-size: 439 ,  Elapsed time is 399.543 seconds.
+Node: 8,  Depth: 31,  Max-depth: 44,  no_expanded_nodes: 2118,  Fringe-size: 423 ,  Elapsed time is 399.6892 seconds.
+Node: 38,  Depth: 30,  Max-depth: 45,  no_expanded_nodes: 2203,  Fringe-size: 390 ,  Elapsed time is 410.3562 seconds.
+Node: 8,  Depth: 46,  Max-depth: 46,  no_expanded_nodes: 2228,  Fringe-size: 404 ,  Elapsed time is 413.5078 seconds.
+Node: 38,  Depth: 47,  Max-depth: 47,  no_expanded_nodes: 2229,  Fringe-size: 385 ,  Elapsed time is 413.5929 seconds.
+
+ans =
+
+       10628
+
+
+ans =
+
+  1×1 cell array
+
+    {'31'}
+
+Node: 21,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47 ,  Elapsed time is 0.24354 seconds.
+Node: 47,  Depth: 2,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 62 ,  Elapsed time is 0.47476 seconds.
+Node: 13,  Depth: 2,  Max-depth: 3,  no_expanded_nodes: 4,  Fringe-size: 76 ,  Elapsed time is 0.72529 seconds.
+Node: 20,  Depth: 3,  Max-depth: 4,  no_expanded_nodes: 6,  Fringe-size: 133 ,  Elapsed time is 1.1783 seconds.
+Node: 46,  Depth: 5,  Max-depth: 5,  no_expanded_nodes: 8,  Fringe-size: 139 ,  Elapsed time is 1.5893 seconds.
+Node: 11,  Depth: 3,  Max-depth: 6,  no_expanded_nodes: 9,  Fringe-size: 152 ,  Elapsed time is 1.7976 seconds.
+Node: 23,  Depth: 4,  Max-depth: 7,  no_expanded_nodes: 16,  Fringe-size: 264 ,  Elapsed time is 3.292 seconds.
+Node: 11,  Depth: 8,  Max-depth: 8,  no_expanded_nodes: 21,  Fringe-size: 207 ,  Elapsed time is 4.3347 seconds.
+Node: 25,  Depth: 3,  Max-depth: 9,  no_expanded_nodes: 22,  Fringe-size: 214 ,  Elapsed time is 4.5354 seconds.
+Node: 33,  Depth: 5,  Max-depth: 10,  no_expanded_nodes: 29,  Fringe-size: 253 ,  Elapsed time is 6.0701 seconds.
+Node: 12,  Depth: 8,  Max-depth: 11,  no_expanded_nodes: 39,  Fringe-size: 378 ,  Elapsed time is 8.211 seconds.
+Node: 3,  Depth: 5,  Max-depth: 12,  no_expanded_nodes: 81,  Fringe-size: 667 ,  Elapsed time is 17.4718 seconds.
+Node: 40,  Depth: 13,  Max-depth: 13,  no_expanded_nodes: 108,  Fringe-size: 502 ,  Elapsed time is 23.3535 seconds.
+Node: 18,  Depth: 8,  Max-depth: 14,  no_expanded_nodes: 109,  Fringe-size: 498 ,  Elapsed time is 23.5517 seconds.
+Node: 7,  Depth: 15,  Max-depth: 15,  no_expanded_nodes: 173,  Fringe-size: 574 ,  Elapsed time is 37.4382 seconds.
+Node: 18,  Depth: 16,  Max-depth: 16,  no_expanded_nodes: 174,  Fringe-size: 577 ,  Elapsed time is 37.6573 seconds.
+Node: 44,  Depth: 17,  Max-depth: 17,  no_expanded_nodes: 175,  Fringe-size: 507 ,  Elapsed time is 37.8699 seconds.
+Node: 31,  Depth: 18,  Max-depth: 18,  no_expanded_nodes: 176,  Fringe-size: 489 ,  Elapsed time is 38.0609 seconds.
+Node: 38,  Depth: 19,  Max-depth: 19,  no_expanded_nodes: 177,  Fringe-size: 466 ,  Elapsed time is 38.2595 seconds.
+Node: 9,  Depth: 10,  Max-depth: 20,  no_expanded_nodes: 178,  Fringe-size: 459 ,  Elapsed time is 38.43 seconds.
+Node: 48,  Depth: 2,  Max-depth: 21,  no_expanded_nodes: 243,  Fringe-size: 640 ,  Elapsed time is 52.378 seconds.
+Node: 15,  Depth: 22,  Max-depth: 22,  no_expanded_nodes: 323,  Fringe-size: 572 ,  Elapsed time is 68.4797 seconds.
+Node: 12,  Depth: 23,  Max-depth: 23,  no_expanded_nodes: 324,  Fringe-size: 595 ,  Elapsed time is 68.6407 seconds.
+Node: 11,  Depth: 24,  Max-depth: 24,  no_expanded_nodes: 325,  Fringe-size: 565 ,  Elapsed time is 68.8025 seconds.
+Node: 48,  Depth: 8,  Max-depth: 25,  no_expanded_nodes: 326,  Fringe-size: 525 ,  Elapsed time is 68.9594 seconds.
+Node: 9,  Depth: 11,  Max-depth: 26,  no_expanded_nodes: 367,  Fringe-size: 511 ,  Elapsed time is 77.4293 seconds.
+Node: 10,  Depth: 3,  Max-depth: 27,  no_expanded_nodes: 379,  Fringe-size: 571 ,  Elapsed time is 80.1547 seconds.
+Node: 28,  Depth: 14,  Max-depth: 28,  no_expanded_nodes: 409,  Fringe-size: 514 ,  Elapsed time is 86.0359 seconds.
+Node: 39,  Depth: 2,  Max-depth: 29,  no_expanded_nodes: 433,  Fringe-size: 474 ,  Elapsed time is 90.5328 seconds.
+Node: 23,  Depth: 30,  Max-depth: 30,  no_expanded_nodes: 490,  Fringe-size: 543 ,  Elapsed time is 101.7218 seconds.
+Node: 4,  Depth: 6,  Max-depth: 31,  no_expanded_nodes: 491,  Fringe-size: 522 ,  Elapsed time is 101.8562 seconds.
+Node: 14,  Depth: 6,  Max-depth: 32,  no_expanded_nodes: 521,  Fringe-size: 589 ,  Elapsed time is 107.4443 seconds.
+Node: 14,  Depth: 33,  Max-depth: 33,  no_expanded_nodes: 583,  Fringe-size: 418 ,  Elapsed time is 118.6565 seconds.
+Node: 47,  Depth: 11,  Max-depth: 34,  no_expanded_nodes: 584,  Fringe-size: 425 ,  Elapsed time is 118.7773 seconds.
+Node: 25,  Depth: 35,  Max-depth: 35,  no_expanded_nodes: 660,  Fringe-size: 615 ,  Elapsed time is 133.6081 seconds.
+Node: 48,  Depth: 14,  Max-depth: 36,  no_expanded_nodes: 661,  Fringe-size: 541 ,  Elapsed time is 133.7485 seconds.
+Node: 16,  Depth: 31,  Max-depth: 37,  no_expanded_nodes: 869,  Fringe-size: 368 ,  Elapsed time is 172.0164 seconds.
+Node: 27,  Depth: 19,  Max-depth: 38,  no_expanded_nodes: 1090,  Fringe-size: 353 ,  Elapsed time is 210.1483 seconds.
+Node: 35,  Depth: 17,  Max-depth: 39,  no_expanded_nodes: 1249,  Fringe-size: 289 ,  Elapsed time is 235.2424 seconds.
+Node: 2,  Depth: 40,  Max-depth: 40,  no_expanded_nodes: 1281,  Fringe-size: 313 ,  Elapsed time is 240.1452 seconds.
+Node: 42,  Depth: 41,  Max-depth: 41,  no_expanded_nodes: 1282,  Fringe-size: 297 ,  Elapsed time is 240.2421 seconds.
+Node: 17,  Depth: 22,  Max-depth: 42,  no_expanded_nodes: 1283,  Fringe-size: 292 ,  Elapsed time is 240.33 seconds.
+Node: 23,  Depth: 15,  Max-depth: 43,  no_expanded_nodes: 1449,  Fringe-size: 287 ,  Elapsed time is 265.3499 seconds.
+Node: 14,  Depth: 37,  Max-depth: 44,  no_expanded_nodes: 1512,  Fringe-size: 274 ,  Elapsed time is 274.0333 seconds.
+Node: 25,  Depth: 38,  Max-depth: 45,  no_expanded_nodes: 1575,  Fringe-size: 295 ,  Elapsed time is 282.397 seconds.
+Node: 10,  Depth: 46,  Max-depth: 46,  no_expanded_nodes: 1595,  Fringe-size: 253 ,  Elapsed time is 285.0513 seconds.
+Node: 24,  Depth: 47,  Max-depth: 47,  no_expanded_nodes: 1596,  Fringe-size: 248 ,  Elapsed time is 285.1293 seconds.
+
+ans =
+
+       10757
+
+
+ans =
+
+  1×1 cell array
+
+    {'32'}
+
+Node: 46,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47 ,  Elapsed time is 0.22451 seconds.
+Node: 20,  Depth: 1,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 69 ,  Elapsed time is 0.4566 seconds.
+Node: 21,  Depth: 3,  Max-depth: 3,  no_expanded_nodes: 5,  Fringe-size: 91 ,  Elapsed time is 0.92026 seconds.
+Node: 13,  Depth: 4,  Max-depth: 4,  no_expanded_nodes: 6,  Fringe-size: 118 ,  Elapsed time is 1.1371 seconds.
+Node: 15,  Depth: 2,  Max-depth: 5,  no_expanded_nodes: 7,  Fringe-size: 132 ,  Elapsed time is 1.3398 seconds.
+Node: 23,  Depth: 4,  Max-depth: 6,  no_expanded_nodes: 28,  Fringe-size: 367 ,  Elapsed time is 5.8764 seconds.
+Node: 12,  Depth: 7,  Max-depth: 7,  no_expanded_nodes: 46,  Fringe-size: 440 ,  Elapsed time is 9.9091 seconds.
+Node: 32,  Depth: 4,  Max-depth: 8,  no_expanded_nodes: 47,  Fringe-size: 412 ,  Elapsed time is 10.1269 seconds.
+Node: 12,  Depth: 9,  Max-depth: 9,  no_expanded_nodes: 72,  Fringe-size: 497 ,  Elapsed time is 15.631 seconds.
+Node: 38,  Depth: 2,  Max-depth: 10,  no_expanded_nodes: 73,  Fringe-size: 487 ,  Elapsed time is 15.8396 seconds.
+Node: 7,  Depth: 11,  Max-depth: 11,  no_expanded_nodes: 127,  Fringe-size: 603 ,  Elapsed time is 28.3404 seconds.
+Node: 18,  Depth: 12,  Max-depth: 12,  no_expanded_nodes: 128,  Fringe-size: 614 ,  Elapsed time is 28.5382 seconds.
+Node: 44,  Depth: 13,  Max-depth: 13,  no_expanded_nodes: 129,  Fringe-size: 549 ,  Elapsed time is 28.758 seconds.
+Node: 31,  Depth: 14,  Max-depth: 14,  no_expanded_nodes: 130,  Fringe-size: 530 ,  Elapsed time is 28.9492 seconds.
+Node: 38,  Depth: 15,  Max-depth: 15,  no_expanded_nodes: 131,  Fringe-size: 509 ,  Elapsed time is 29.1393 seconds.
+Node: 9,  Depth: 5,  Max-depth: 16,  no_expanded_nodes: 132,  Fringe-size: 494 ,  Elapsed time is 29.3359 seconds.
+Node: 25,  Depth: 6,  Max-depth: 17,  no_expanded_nodes: 170,  Fringe-size: 642 ,  Elapsed time is 37.6088 seconds.
+Node: 22,  Depth: 7,  Max-depth: 18,  no_expanded_nodes: 258,  Fringe-size: 747 ,  Elapsed time is 57.6937 seconds.
+Node: 23,  Depth: 7,  Max-depth: 19,  no_expanded_nodes: 275,  Fringe-size: 796 ,  Elapsed time is 61.4972 seconds.
+Node: 3,  Depth: 10,  Max-depth: 20,  no_expanded_nodes: 322,  Fringe-size: 698 ,  Elapsed time is 71.9805 seconds.
+Node: 5,  Depth: 7,  Max-depth: 21,  no_expanded_nodes: 331,  Fringe-size: 750 ,  Elapsed time is 73.8243 seconds.
+Node: 17,  Depth: 12,  Max-depth: 22,  no_expanded_nodes: 397,  Fringe-size: 532 ,  Elapsed time is 87.7013 seconds.
+Node: 14,  Depth: 11,  Max-depth: 23,  no_expanded_nodes: 427,  Fringe-size: 604 ,  Elapsed time is 93.7626 seconds.
+Node: 7,  Depth: 8,  Max-depth: 24,  no_expanded_nodes: 477,  Fringe-size: 684 ,  Elapsed time is 104.452 seconds.
+Node: 14,  Depth: 12,  Max-depth: 25,  no_expanded_nodes: 559,  Fringe-size: 670 ,  Elapsed time is 120.6111 seconds.
+Node: 23,  Depth: 26,  Max-depth: 26,  no_expanded_nodes: 564,  Fringe-size: 698 ,  Elapsed time is 121.5461 seconds.
+Node: 36,  Depth: 13,  Max-depth: 27,  no_expanded_nodes: 565,  Fringe-size: 644 ,  Elapsed time is 121.7013 seconds.
+Node: 34,  Depth: 28,  Max-depth: 28,  no_expanded_nodes: 697,  Fringe-size: 491 ,  Elapsed time is 146.0999 seconds.
+Node: 14,  Depth: 29,  Max-depth: 29,  no_expanded_nodes: 698,  Fringe-size: 433 ,  Elapsed time is 146.256 seconds.
+Node: 10,  Depth: 7,  Max-depth: 30,  no_expanded_nodes: 699,  Fringe-size: 434 ,  Elapsed time is 146.3876 seconds.
+Node: 13,  Depth: 31,  Max-depth: 31,  no_expanded_nodes: 790,  Fringe-size: 473 ,  Elapsed time is 162.6923 seconds.
+Node: 36,  Depth: 18,  Max-depth: 32,  no_expanded_nodes: 791,  Fringe-size: 479 ,  Elapsed time is 162.8165 seconds.
+Node: 3,  Depth: 25,  Max-depth: 33,  no_expanded_nodes: 1029,  Fringe-size: 392 ,  Elapsed time is 203.321 seconds.
+Node: 23,  Depth: 28,  Max-depth: 34,  no_expanded_nodes: 1188,  Fringe-size: 410 ,  Elapsed time is 226.6208 seconds.
+Node: 14,  Depth: 30,  Max-depth: 35,  no_expanded_nodes: 1444,  Fringe-size: 672 ,  Elapsed time is 263.4352 seconds.
+Node: 15,  Depth: 32,  Max-depth: 36,  no_expanded_nodes: 1464,  Fringe-size: 547 ,  Elapsed time is 266.2211 seconds.
+Node: 42,  Depth: 37,  Max-depth: 37,  no_expanded_nodes: 1568,  Fringe-size: 427 ,  Elapsed time is 280.2079 seconds.
+Node: 10,  Depth: 29,  Max-depth: 38,  no_expanded_nodes: 1569,  Fringe-size: 424 ,  Elapsed time is 280.3134 seconds.
+Node: 17,  Depth: 23,  Max-depth: 39,  no_expanded_nodes: 1728,  Fringe-size: 351 ,  Elapsed time is 301.5283 seconds.
+Node: 47,  Depth: 35,  Max-depth: 40,  no_expanded_nodes: 1792,  Fringe-size: 301 ,  Elapsed time is 309.516 seconds.
+Node: 9,  Depth: 30,  Max-depth: 41,  no_expanded_nodes: 1831,  Fringe-size: 300 ,  Elapsed time is 314.1666 seconds.
+Node: 30,  Depth: 42,  Max-depth: 42,  no_expanded_nodes: 1932,  Fringe-size: 379 ,  Elapsed time is 326.1538 seconds.
+Node: 36,  Depth: 43,  Max-depth: 43,  no_expanded_nodes: 1933,  Fringe-size: 352 ,  Elapsed time is 326.2473 seconds.
+Node: 18,  Depth: 34,  Max-depth: 44,  no_expanded_nodes: 1934,  Fringe-size: 286 ,  Elapsed time is 326.3474 seconds.
+Node: 21,  Depth: 45,  Max-depth: 45,  no_expanded_nodes: 1943,  Fringe-size: 234 ,  Elapsed time is 327.3101 seconds.
+Node: 47,  Depth: 46,  Max-depth: 46,  no_expanded_nodes: 1944,  Fringe-size: 222 ,  Elapsed time is 327.3866 seconds.
+Node: 20,  Depth: 47,  Max-depth: 47,  no_expanded_nodes: 1945,  Fringe-size: 201 ,  Elapsed time is 327.4625 seconds.
+
+ans =
+
+       10769
+
+
+ans =
+
+  1×1 cell array
+
+    {'33'}
+
+Node: 3,  Depth: 1,  Max-depth: 1,  no_expanded_nodes: 2,  Fringe-size: 47 ,  Elapsed time is 0.2306 seconds.
+Node: 14,  Depth: 1,  Max-depth: 2,  no_expanded_nodes: 3,  Fringe-size: 65 ,  Elapsed time is 0.43923 seconds.
+Node: 25,  Depth: 2,  Max-depth: 3,  no_expanded_nodes: 6,  Fringe-size: 159 ,  Elapsed time is 1.0708 seconds.
+Node: 23,  Depth: 4,  Max-depth: 4,  no_expanded_nodes: 8,  Fringe-size: 106 ,  Elapsed time is 1.5047 seconds.
+Node: 22,  Depth: 3,  Max-depth: 5,  no_expanded_nodes: 9,  Fringe-size: 126 ,  Elapsed time is 1.7125 seconds.
+Node: 12,  Depth: 6,  Max-depth: 6,  no_expanded_nodes: 12,  Fringe-size: 132 ,  Elapsed time is 2.3352 seconds.
+Node: 23,  Depth: 5,  Max-depth: 7,  no_expanded_nodes: 13,  Fringe-size: 151 ,  Elapsed time is 2.5371 seconds.
+Node: 15,  Depth: 3,  Max-depth: 8,  no_expanded_nodes: 17,  Fringe-size: 226 ,  Elapsed time is 3.4106 seconds.
+Node: 15,  Depth: 6,  Max-depth: 9,  no_expanded_nodes: 23,  Fringe-size: 256 ,  Elapsed time is 4.7216 seconds.
+Node: 41,  Depth: 2,  Max-depth: 10,  no_expanded_nodes: 30,  Fringe-size: 301 ,  Elapsed time is 6.1778 seconds.
+Node: 21,  Depth: 3,  Max-depth: 11,  no_expanded_nodes: 44,  Fringe-size: 434 ,  Elapsed time is 9.2765 seconds.
+Node: 13,  Depth: 6,  Max-depth: 12,  no_expanded_nodes: 48,  Fringe-size: 511 ,  Elapsed time is 10.1461 seconds.
+Node: 38,  Depth: 13,  Max-depth: 13,  no_expanded_nodes: 106,  Fringe-size: 618 ,  Elapsed time is 22.9794 seconds.
+Node: 31,  Depth: 14,  Max-depth: 14,  no_expanded_nodes: 107,  Fringe-size: 616 ,  Elapsed time is 23.2016 seconds.
+Node: 21,  Depth: 7,  Max-depth: 15,  no_expanded_nodes: 108,  Fringe-size: 629 ,  Elapsed time is 23.4108 seconds.
+Node: 14,  Depth: 7,  Max-depth: 16,  no_expanded_nodes: 152,  Fringe-size: 851 ,  Elapsed time is 33.2043 seconds.
+Node: 7,  Depth: 12,  Max-depth: 17,  no_expanded_nodes: 166,  Fringe-size: 767 ,  Elapsed time is 36.2494 seconds.
+Node: 25,  Depth: 7,  Max-depth: 18,  no_expanded_nodes: 176,  Fringe-size: 838 ,  Elapsed time is 38.3397 seconds.
+Node: 30,  Depth: 19,  Max-depth: 19,  no_expanded_nodes: 247,  Fringe-size: 955 ,  Elapsed time is 54.0021 seconds.
+Node: 36,  Depth: 20,  Max-depth: 20,  no_expanded_nodes: 248,  Fringe-size: 837 ,  Elapsed time is 54.2299 seconds.
+Node: 46,  Depth: 21,  Max-depth: 21,  no_expanded_nodes: 249,  Fringe-size: 600 ,  Elapsed time is 54.469 seconds.
+Node: 28,  Depth: 18,  Max-depth: 22,  no_expanded_nodes: 250,  Fringe-size: 583 ,  Elapsed time is 54.6338 seconds.
+Node: 32,  Depth: 8,  Max-depth: 23,  no_expanded_nodes: 266,  Fringe-size: 550 ,  Elapsed time is 57.8894 seconds.
+Node: 18,  Depth: 18,  Max-depth: 24,  no_expanded_nodes: 338,  Fringe-size: 532 ,  Elapsed time is 73.0623 seconds.
+Node: 21,  Depth: 25,  Max-depth: 25,  no_expanded_nodes: 379,  Fringe-size: 470 ,  Elapsed time is 81.5859 seconds.
+Node: 13,  Depth: 26,  Max-depth: 26,  no_expanded_nodes: 380,  Fringe-size: 451 ,  Elapsed time is 81.755 seconds.
+Node: 41,  Depth: 6,  Max-depth: 27,  no_expanded_nodes: 381,  Fringe-size: 453 ,  Elapsed time is 81.8932 seconds.
+Node: 33,  Depth: 28,  Max-depth: 28,  no_expanded_nodes: 421,  Fringe-size: 501 ,  Elapsed time is 89.6326 seconds.
+Node: 20,  Depth: 29,  Max-depth: 29,  no_expanded_nodes: 422,  Fringe-size: 461 ,  Elapsed time is 89.7883 seconds.
+Node: 47,  Depth: 30,  Max-depth: 30,  no_expanded_nodes: 423,  Fringe-size: 437 ,  Elapsed time is 89.9244 seconds.
+Node: 21,  Depth: 31,  Max-depth: 31,  no_expanded_nodes: 424,  Fringe-size: 419 ,  Elapsed time is 90.0558 seconds.
+Node: 13,  Depth: 32,  Max-depth: 32,  no_expanded_nodes: 425,  Fringe-size: 392 ,  Elapsed time is 90.1841 seconds.
+Node: 40,  Depth: 24,  Max-depth: 33,  no_expanded_nodes: 426,  Fringe-size: 396 ,  Elapsed time is 90.3089 seconds.
+Node: 23,  Depth: 28,  Max-depth: 34,  no_expanded_nodes: 564,  Fringe-size: 439 ,  Elapsed time is 115.8796 seconds.
+Node: 24,  Depth: 10,  Max-depth: 35,  no_expanded_nodes: 650,  Fringe-size: 377 ,  Elapsed time is 131.755 seconds.
+Node: 32,  Depth: 36,  Max-depth: 36,  no_expanded_nodes: 760,  Fringe-size: 391 ,  Elapsed time is 151.1494 seconds.
+Node: 48,  Depth: 37,  Max-depth: 37,  no_expanded_nodes: 761,  Fringe-size: 328 ,  Elapsed time is 151.2643 seconds.
+Node: 29,  Depth: 10,  Max-depth: 38,  no_expanded_nodes: 762,  Fringe-size: 331 ,  Elapsed time is 151.3716 seconds.
+Node: 14,  Depth: 29,  Max-depth: 39,  no_expanded_nodes: 878,  Fringe-size: 337 ,  Elapsed time is 170.849 seconds.
+Node: 25,  Depth: 34,  Max-depth: 40,  no_expanded_nodes: 1076,  Fringe-size: 235 ,  Elapsed time is 201.793 seconds.
+Node: 29,  Depth: 29,  Max-depth: 41,  no_expanded_nodes: 1143,  Fringe-size: 269 ,  Elapsed time is 211.3197 seconds.
+Node: 26,  Depth: 42,  Max-depth: 42,  no_expanded_nodes: 1161,  Fringe-size: 266 ,  Elapsed time is 213.4716 seconds.
+Node: 42,  Depth: 43,  Max-depth: 43,  no_expanded_nodes: 1162,  Fringe-size: 248 ,  Elapsed time is 213.5604 seconds.
+Node: 48,  Depth: 44,  Max-depth: 44,  no_expanded_nodes: 1163,  Fringe-size: 235 ,  Elapsed time is 213.6471 seconds.
+Node: 5,  Depth: 45,  Max-depth: 45,  no_expanded_nodes: 1164,  Fringe-size: 229 ,  Elapsed time is 213.7333 seconds.
+Node: 22,  Depth: 25,  Max-depth: 46,  no_expanded_nodes: 1165,  Fringe-size: 228 ,  Elapsed time is 213.8096 seconds.
+Node: 29,  Depth: 47,  Max-depth: 47,  no_expanded_nodes: 1325,  Fringe-size: 233 ,  Elapsed time is 233.6379 seconds.
+
+ans =
+
+       10653
+
+
+ans =
+
+  1×1 cell array
+
+    {'34'}

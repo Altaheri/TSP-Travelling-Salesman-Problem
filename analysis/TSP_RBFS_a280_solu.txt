@@ -1,0 +1,93 @@
+Elapsed time is 68.691469 seconds.
+>> TSP_RBFS_TreeSearch
+Node: 2 ,  Depth: 1 ,  Max-depth: 1 ,  current_nodes: 279 ,  Elapsed time is 5.597 seconds.
+Node: 280 ,  Depth: 2 ,  Max-depth: 2 ,  current_nodes: 557 ,  Elapsed time is 7.9434 seconds.
+Node: 243 ,  Depth: 3 ,  Max-depth: 3 ,  current_nodes: 834 ,  Elapsed time is 21.7373 seconds.
+Node: 241 ,  Depth: 4 ,  Max-depth: 4 ,  current_nodes: 1110 ,  Elapsed time is 24.0705 seconds.
+Node: 240 ,  Depth: 5 ,  Max-depth: 5 ,  current_nodes: 1385 ,  Elapsed time is 26.4012 seconds.
+Node: 239 ,  Depth: 6 ,  Max-depth: 6 ,  current_nodes: 1659 ,  Elapsed time is 28.6401 seconds.
+Node: 238 ,  Depth: 7 ,  Max-depth: 7 ,  current_nodes: 1932 ,  Elapsed time is 30.8731 seconds.
+Node: 237 ,  Depth: 8 ,  Max-depth: 8 ,  current_nodes: 2204 ,  Elapsed time is 33.0844 seconds.
+Node: 236 ,  Depth: 9 ,  Max-depth: 9 ,  current_nodes: 2475 ,  Elapsed time is 35.3647 seconds.
+Node: 235 ,  Depth: 10 ,  Max-depth: 10 ,  current_nodes: 2745 ,  Elapsed time is 37.6231 seconds.
+Node: 234 ,  Depth: 11 ,  Max-depth: 11 ,  current_nodes: 3014 ,  Elapsed time is 39.8792 seconds.
+Node: 233 ,  Depth: 12 ,  Max-depth: 12 ,  current_nodes: 3282 ,  Elapsed time is 42.1684 seconds.
+Node: 232 ,  Depth: 13 ,  Max-depth: 13 ,  current_nodes: 3549 ,  Elapsed time is 44.3937 seconds.
+Node: 231 ,  Depth: 14 ,  Max-depth: 14 ,  current_nodes: 3815 ,  Elapsed time is 46.6487 seconds.
+Node: 246 ,  Depth: 15 ,  Max-depth: 15 ,  current_nodes: 4080 ,  Elapsed time is 48.842 seconds.
+Node: 245 ,  Depth: 16 ,  Max-depth: 16 ,  current_nodes: 4344 ,  Elapsed time is 51.0723 seconds.
+Node: 244 ,  Depth: 17 ,  Max-depth: 17 ,  current_nodes: 4607 ,  Elapsed time is 53.3907 seconds.
+Node: 247 ,  Depth: 18 ,  Max-depth: 18 ,  current_nodes: 4869 ,  Elapsed time is 55.7147 seconds.
+Node: 250 ,  Depth: 19 ,  Max-depth: 19 ,  current_nodes: 5130 ,  Elapsed time is 58.0689 seconds.
+Node: 251 ,  Depth: 20 ,  Max-depth: 20 ,  current_nodes: 5390 ,  Elapsed time is 60.2911 seconds.
+Node: 230 ,  Depth: 21 ,  Max-depth: 21 ,  current_nodes: 5649 ,  Elapsed time is 62.3982 seconds.
+Node: 229 ,  Depth: 22 ,  Max-depth: 22 ,  current_nodes: 5907 ,  Elapsed time is 64.5581 seconds.
+Node: 228 ,  Depth: 23 ,  Max-depth: 23 ,  current_nodes: 6164 ,  Elapsed time is 66.6564 seconds.
+Node: 227 ,  Depth: 24 ,  Max-depth: 24 ,  current_nodes: 6420 ,  Elapsed time is 68.7688 seconds.
+Node: 226 ,  Depth: 25 ,  Max-depth: 25 ,  current_nodes: 6675 ,  Elapsed time is 70.8363 seconds.
+Node: 225 ,  Depth: 26 ,  Max-depth: 26 ,  current_nodes: 6929 ,  Elapsed time is 72.9938 seconds.
+Node: 224 ,  Depth: 27 ,  Max-depth: 27 ,  current_nodes: 7182 ,  Elapsed time is 75.0895 seconds.
+Node: 223 ,  Depth: 28 ,  Max-depth: 28 ,  current_nodes: 7434 ,  Elapsed time is 77.1275 seconds.
+Node: 222 ,  Depth: 29 ,  Max-depth: 29 ,  current_nodes: 7685 ,  Elapsed time is 79.1552 seconds.
+Node: 219 ,  Depth: 30 ,  Max-depth: 30 ,  current_nodes: 7935 ,  Elapsed time is 81.2429 seconds.
+Node: 218 ,  Depth: 31 ,  Max-depth: 31 ,  current_nodes: 8184 ,  Elapsed time is 83.2828 seconds.
+Node: 215 ,  Depth: 32 ,  Max-depth: 32 ,  current_nodes: 8432 ,  Elapsed time is 85.327 seconds.
+Node: 214 ,  Depth: 33 ,  Max-depth: 33 ,  current_nodes: 8679 ,  Elapsed time is 87.3584 seconds.
+Node: 211 ,  Depth: 34 ,  Max-depth: 34 ,  current_nodes: 8925 ,  Elapsed time is 89.3816 seconds.
+Node: 210 ,  Depth: 35 ,  Max-depth: 35 ,  current_nodes: 9170 ,  Elapsed time is 91.4043 seconds.
+Node: 209 ,  Depth: 36 ,  Max-depth: 36 ,  current_nodes: 9414 ,  Elapsed time is 93.4128 seconds.
+Node: 252 ,  Depth: 37 ,  Max-depth: 37 ,  current_nodes: 9657 ,  Elapsed time is 95.421 seconds.
+Node: 255 ,  Depth: 38 ,  Max-depth: 38 ,  current_nodes: 9899 ,  Elapsed time is 97.3965 seconds.
+Node: 256 ,  Depth: 39 ,  Max-depth: 39 ,  current_nodes: 10140 ,  Elapsed time is 99.3716 seconds.
+Node: 253 ,  Depth: 40 ,  Max-depth: 40 ,  current_nodes: 10380 ,  Elapsed time is 103.3219 seconds.
+Node: 208 ,  Depth: 41 ,  Max-depth: 41 ,  current_nodes: 10619 ,  Elapsed time is 105.3528 seconds.
+Node: 253 ,  Depth: 42 ,  Max-depth: 42 ,  current_nodes: 10857 ,  Elapsed time is 113.2504 seconds.
+Node: 208 ,  Depth: 43 ,  Max-depth: 43 ,  current_nodes: 11094 ,  Elapsed time is 115.2441 seconds.
+Node: 261 ,  Depth: 44 ,  Max-depth: 44 ,  current_nodes: 11330 ,  Elapsed time is 123.035 seconds.
+Node: 262 ,  Depth: 45 ,  Max-depth: 45 ,  current_nodes: 11565 ,  Elapsed time is 124.9417 seconds.
+Node: 263 ,  Depth: 46 ,  Max-depth: 46 ,  current_nodes: 11799 ,  Elapsed time is 126.8491 seconds.
+Node: 264 ,  Depth: 47 ,  Max-depth: 47 ,  current_nodes: 12032 ,  Elapsed time is 128.7683 seconds.
+Node: 265 ,  Depth: 48 ,  Max-depth: 48 ,  current_nodes: 12264 ,  Elapsed time is 130.6846 seconds.
+Node: 266 ,  Depth: 49 ,  Max-depth: 49 ,  current_nodes: 12495 ,  Elapsed time is 132.5971 seconds.
+Node: 140 ,  Depth: 50 ,  Max-depth: 50 ,  current_nodes: 12725 ,  Elapsed time is 134.4954 seconds.
+Node: 141 ,  Depth: 51 ,  Max-depth: 51 ,  current_nodes: 12954 ,  Elapsed time is 136.4066 seconds.
+Node: 142 ,  Depth: 52 ,  Max-depth: 52 ,  current_nodes: 13182 ,  Elapsed time is 138.2899 seconds.
+Node: 143 ,  Depth: 53 ,  Max-depth: 53 ,  current_nodes: 13409 ,  Elapsed time is 140.1022 seconds.
+Node: 144 ,  Depth: 54 ,  Max-depth: 54 ,  current_nodes: 13635 ,  Elapsed time is 141.9866 seconds.
+Node: 200 ,  Depth: 55 ,  Max-depth: 55 ,  current_nodes: 13860 ,  Elapsed time is 143.8413 seconds.
+Node: 201 ,  Depth: 56 ,  Max-depth: 56 ,  current_nodes: 14084 ,  Elapsed time is 145.6539 seconds.
+Node: 137 ,  Depth: 57 ,  Max-depth: 57 ,  current_nodes: 14307 ,  Elapsed time is 160.5231 seconds.
+Node: 138 ,  Depth: 58 ,  Max-depth: 58 ,  current_nodes: 14529 ,  Elapsed time is 162.3888 seconds.
+Node: 139 ,  Depth: 59 ,  Max-depth: 59 ,  current_nodes: 14750 ,  Elapsed time is 164.2592 seconds.
+Node: 140 ,  Depth: 60 ,  Max-depth: 60 ,  current_nodes: 14970 ,  Elapsed time is 166.4229 seconds.
+Node: 141 ,  Depth: 61 ,  Max-depth: 61 ,  current_nodes: 15189 ,  Elapsed time is 168.3027 seconds.
+Node: 142 ,  Depth: 62 ,  Max-depth: 62 ,  current_nodes: 15407 ,  Elapsed time is 170.0877 seconds.
+Node: 143 ,  Depth: 63 ,  Max-depth: 63 ,  current_nodes: 15624 ,  Elapsed time is 171.9381 seconds.
+Node: 144 ,  Depth: 64 ,  Max-depth: 64 ,  current_nodes: 15840 ,  Elapsed time is 173.7746 seconds.
+Node: 200 ,  Depth: 65 ,  Max-depth: 65 ,  current_nodes: 16055 ,  Elapsed time is 175.5897 seconds.
+Node: 201 ,  Depth: 66 ,  Max-depth: 66 ,  current_nodes: 16269 ,  Elapsed time is 177.3721 seconds.
+Node: 196 ,  Depth: 67 ,  Max-depth: 67 ,  current_nodes: 16482 ,  Elapsed time is 179.1951 seconds.
+Node: 195 ,  Depth: 68 ,  Max-depth: 68 ,  current_nodes: 16694 ,  Elapsed time is 181.2339 seconds.
+Node: 194 ,  Depth: 69 ,  Max-depth: 69 ,  current_nodes: 16905 ,  Elapsed time is 183.1446 seconds.
+Node: 197 ,  Depth: 70 ,  Max-depth: 70 ,  current_nodes: 17115 ,  Elapsed time is 184.8845 seconds.
+Node: 198 ,  Depth: 71 ,  Max-depth: 71 ,  current_nodes: 17324 ,  Elapsed time is 186.6514 seconds.
+Node: 199 ,  Depth: 72 ,  Max-depth: 72 ,  current_nodes: 17532 ,  Elapsed time is 188.4424 seconds.
+Node: 178 ,  Depth: 73 ,  Max-depth: 73 ,  current_nodes: 17739 ,  Elapsed time is 521.9428 seconds.
+Node: 180 ,  Depth: 74 ,  Max-depth: 74 ,  current_nodes: 17945 ,  Elapsed time is 525.3982 seconds.
+Node: 194 ,  Depth: 75 ,  Max-depth: 75 ,  current_nodes: 18150 ,  Elapsed time is 836.8644 seconds.
+Node: 201 ,  Depth: 76 ,  Max-depth: 76 ,  current_nodes: 18354 ,  Elapsed time is 869.8419 seconds.
+Node: 200 ,  Depth: 77 ,  Max-depth: 77 ,  current_nodes: 18557 ,  Elapsed time is 871.5712 seconds.
+Node: 202 ,  Depth: 78 ,  Max-depth: 78 ,  current_nodes: 18759 ,  Elapsed time is 873.32 seconds.
+Node: 203 ,  Depth: 79 ,  Max-depth: 79 ,  current_nodes: 18960 ,  Elapsed time is 875.1801 seconds.
+Node: 204 ,  Depth: 80 ,  Max-depth: 80 ,  current_nodes: 19160 ,  Elapsed time is 877.0093 seconds.
+Node: 205 ,  Depth: 81 ,  Max-depth: 81 ,  current_nodes: 19359 ,  Elapsed time is 878.6845 seconds.
+Node: 206 ,  Depth: 82 ,  Max-depth: 82 ,  current_nodes: 19557 ,  Elapsed time is 880.3652 seconds.
+Node: 207 ,  Depth: 83 ,  Max-depth: 83 ,  current_nodes: 19754 ,  Elapsed time is 882.0438 seconds.
+31          if( Max_depth < currentNode.depth) 
+K>> disp( ['Node: ', currentNode.name, ...
+                ' ,  Depth: ', num2str(currentNode.depth), ... 
+                ' ,  Max-depth: ', num2str(Max_depth), ...
+                ' ,  current_nodes: ', num2str(no_expanded_nodes), ...
+                ' ,  Elapsed time is ', num2str(toc) ,' seconds.'] );
+Node: 204 ,  Depth: 80 ,  Max-depth: 83 ,  current_nodes: 19160 ,  Elapsed time is 14743.8736 seconds.
+K>> 

@@ -1,0 +1,24 @@
+﻿
+	<graph>
+		<vertex>
+			<edge cost="10">2</edge>
+			<edge cost="15">3</edge>
+			<edge cost="20">4</edge>
+		</vertex>
+		<vertex>
+			<edge cost="10">1</edge>
+			<edge cost="35">3</edge>
+			<edge cost="25">4</edge>
+		</vertex>
+		<vertex>
+			<edge cost="15">1</edge>
+			<edge cost="35">2</edge>
+			<edge cost="30">4</edge>
+		</vertex>
+		<vertex>
+			<edge cost="20">1</edge>
+			<edge cost="25">2</edge>
+			<edge cost="30">3</edge>
+		</vertex>
+	</graph>
+
