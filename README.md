@@ -1,2 +1,2 @@
 # TSP-Travelling-Salesman-Problem
-Solving TSP problem using A star, RBFS, and Hill-climbing algorithms
+Solving Travelling Salesman Problem (TSP) using A* (star), Recursive Best First Search (RBFS), and Hill-climbing Search algorithms
