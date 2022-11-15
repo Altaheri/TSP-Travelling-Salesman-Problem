@@ -1,9 +1,9 @@
 # TSP-Travelling-Salesman-Problem
 Solving Travelling Salesman Problem (TSP) using A* (star), Recursive Best First Search (RBFS), and Hill-climbing Search algorithms
 
-Authors: Hamdi Altaheri, Mansour Alsulaiman
+Authors: Hamdi Altaheri
 
-Center of Smart Robotics Research, King Saud University, Saudi Arabia
+King Saud University, Saudi Arabia
 
 ##
 
